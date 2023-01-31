@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: PhD in Neuroscience
-      institution: nstitute of Neuroscience, Chinese Academic of Sciences, Shanghai, China
+      institution: Institute of Neuroscience, Chinese Academic of Sciences, Shanghai, China
       year: 2017
     - course: BA in biotechnology
       institution: Huazhong University of Science and Technology, Wuhai, China.

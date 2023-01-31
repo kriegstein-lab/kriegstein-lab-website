@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: MSc Developmental and Therapeutic Biology
-      institution: University of Amsterdam)
+      institution: University of Amsterdam
       year: 2022
     - course: BSc Human Biology
       institution: Maastricht University

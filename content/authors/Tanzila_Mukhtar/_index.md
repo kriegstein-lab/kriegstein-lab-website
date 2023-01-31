@@ -30,7 +30,7 @@ education:
     - course: PhD in Developmental Neurobiology
       institution: University of Basel, Switzerland
       year: 2018
-    - course: Master’s in Stem Cell and Regenerative mMdicine
+    - course: Master’s in Stem Cell and Regenerative Medicine
       institution: The University of Sheffield, UK
       year: 2011
     - course: Bachelor’s in Biotechnology, Chemistry and Botany
