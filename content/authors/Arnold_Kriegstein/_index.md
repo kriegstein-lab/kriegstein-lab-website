@@ -47,7 +47,7 @@ social:
     link: https://scholar.google.co.uk/citations?hl=en&user=gKc9LE0AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kriegstein-lab
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:zhoulitom@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/lizhousf
