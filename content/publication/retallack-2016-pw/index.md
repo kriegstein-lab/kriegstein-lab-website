@@ -1,0 +1,12 @@
+---
+title: "Zika virus cell tropism in the developing human brain and inhibition by azithromycin"
+date: 2016-11-01
+publishDate: 2023-04-26T19:37:47.282548Z
+authors: ["Hanna Retallack", "Elizabeth Di Lullo", "Carolina Arias", "Kristeene A Knopp", "Matthew T Laurie", "Carmen Sandoval-Espinosa", "Walter R Mancia Leon", "Robert Krencik", "Erik M Ullian", "Julien Spatazza", "Alex A Pollen", "Caleigh Mandel-Brehm", "Tomasz J Nowakowski", "Arnold R Kriegstein", "Joseph L DeRisi"]
+publication_types: ["2"]
+abstract: "The rapid spread of Zika virus (ZIKV) and its association with abnormal brain development constitute a global health emergency. Congenital ZIKV infection produces a range of mild to severe pathologies, including microcephaly. To understand the pathophysiology of ZIKV infection, we used models of the developing brain that faithfully recapitulate the tissue architecture in early to midgestation. We identify the brain cell populations that are most susceptible to ZIKV infection in primary human tissue, provide evidence for a mechanism of viral entry, and show that a commonly used antibiotic protects cultured brain cells by reducing viral proliferation. In the brain, ZIKV preferentially infected neural stem cells, astrocytes, oligodendrocyte precursor cells, and microglia, whereas neurons were less susceptible to infection. These findings suggest mechanisms for microcephaly and other pathologic features of infants with congenital ZIKV infection that are not explained by neural stem cell infection alone, such as calcifications in the cortical plate. Furthermore, we find that blocking the glia-enriched putative viral entry receptor AXL reduced ZIKV infection of astrocytes in vitro, and genetic knockdown of AXL in a glial cell line nearly abolished infection. Finally, we evaluate 2,177 compounds, focusing on drugs safe in pregnancy. We show that the macrolide antibiotic azithromycin reduced viral proliferation and virus-induced cytopathic effects in glial cell lines and human astrocytes. Our characterization of infection in the developing human brain clarifies the pathogenesis of congenital ZIKV infection and provides the basis for investigating possible therapeutic strategies to safely alleviate or prevent the most severe consequences of the epidemic."
+featured: false
+publication: "*Proc Natl Acad Sci U S A*"
+tags: ["Zika virus; azithromycin; cortical development; microcephaly"]
+---
+

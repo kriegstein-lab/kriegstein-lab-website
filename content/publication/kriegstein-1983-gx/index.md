@@ -1,0 +1,11 @@
+---
+title: "Morphological classification of rat cortical neurons in cell culture"
+date: 1983-08-01
+publishDate: 2023-04-26T19:37:48.402826Z
+authors: ["A R Kriegstein", "M A Dichter"]
+publication_types: ["2"]
+abstract: "Neurons in ``mature'' (4- to 6-week-old) dissociated cell cultures of 15-day gestational age rat fetal cortex were injected with Lucifer Yellow in order to compare their detailed morphological features with those of cortical neurons in situ, and in order to determine which features of cellular morphology were dependent on local environmental conditions. Neurons were characterized by their cell form (pyramidal, multipolar, fusiform, etc.), dendritic branching pattern, spine density, and axonal projections. The neurons in culture appeared to display all the morphological features seen in cortical neurons in situ. These characteristics appeared to be independent of whether an individual neuron grew in a dense or sparse region of the culture. In addition, examination of neurons during early differentiation indicated that many of their morphological features developed as soon as the neurons could be recognized and before extensive synapse formation occurred."
+featured: false
+publication: "*J Neurosci*"
+---
+

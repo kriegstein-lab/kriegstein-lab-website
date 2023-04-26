@@ -1,0 +1,12 @@
+---
+title: "Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment"
+date: 2017-12-01
+publishDate: 2023-04-26T19:37:47.252849Z
+authors: ["Sören Müller", "Gary Kohanbash", "S John Liu", "Beatriz Alvarado", "Diego Carrera", "Aparna Bhaduri", "Payal B Watchmaker", "Garima Yagnik", "Elizabeth Di Lullo", "Martina Malatesta", "Nduka M Amankulor", "Arnold R Kriegstein", "Daniel A Lim", "Manish Aghi", "Hideho Okada", "Aaron Diaz"]
+publication_types: ["2"]
+abstract: "BACKGROUND: Tumor-associated macrophages (TAMs) are abundant in gliomas and immunosuppressive TAMs are a barrier to emerging immunotherapies. It is unknown to what extent macrophages derived from peripheral blood adopt the phenotype of brain-resident microglia in pre-treatment gliomas. The relative proportions of blood-derived macrophages and microglia have been poorly quantified in clinical samples due to a paucity of markers that distinguish these cell types in malignant tissue. RESULTS: We perform single-cell RNA-sequencing of human gliomas and identify phenotypic differences in TAMs of distinct lineages. We isolate TAMs from patient biopsies and compare them with macrophages from non-malignant human tissue, glioma atlases, and murine glioma models. We present a novel signature that distinguishes TAMs by ontogeny in human gliomas. Blood-derived TAMs upregulate immunosuppressive cytokines and show an altered metabolism compared to microglial TAMs. They are also enriched in perivascular and necrotic regions. The gene signature of blood-derived TAMs, but not microglial TAMs, correlates with significantly inferior survival in low-grade glioma. Surprisingly, TAMs frequently co-express canonical pro-inflammatory (M1) and alternatively activated (M2) genes in individual cells. CONCLUSIONS: We conclude that blood-derived TAMs significantly infiltrate pre-treatment gliomas, to a degree that varies by glioma subtype and tumor compartment. Blood-derived TAMs do not universally conform to the phenotype of microglia, but preferentially express immunosuppressive cytokines and show an altered metabolism. Our results argue against status quo therapeutic strategies that target TAMs indiscriminately and in favor of strategies that specifically target immunosuppressive blood-derived TAMs."
+featured: false
+publication: "*Genome Biol*"
+tags: ["Glioma; Immunotherapy; Macrophage; Single-cell sequencing"]
+---
+

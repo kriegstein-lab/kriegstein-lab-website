@@ -1,0 +1,11 @@
+---
+title: "An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder"
+date: 2018-04-01
+publishDate: 2023-04-26T19:37:47.219926Z
+authors: ["Donna M Werling", "Harrison Brand", "Joon-Yong An", "Matthew R Stone", "Lingxue Zhu", "Joseph T Glessner", "Ryan L Collins", "Shan Dong", "Ryan M Layer", "Eirene Markenscoff-Papadimitriou", "Andrew Farrell", "Grace B Schwartz", "Harold Z Wang", "Benjamin B Currall", "Xuefang Zhao", "Jeanselle Dea", "Clif Duhn", "Carolyn A Erdman", "Michael C Gilson", "Rachita Yadav", "Robert E Handsaker", "Seva Kashin", "Lambertus Klei", "Jeffrey D Mandell", "Tomasz J Nowakowski", "Yuwen Liu", "Sirisha Pochareddy", "Louw Smith", "Michael F Walker", "Matthew J Waterman", "Xin He", "Arnold R Kriegstein", "John L Rubenstein", "Nenad Sestan", "Steven A McCarroll", "Benjamin M Neale", "Hilary Coon", "A Jeremy Willsey", "Jose Buxbaum", "Mark J Daly", "Matthew W State", "Aaron R Quinlan", "Gabor T Marth", "Kathryn Roeder", "Bernie Devlin", "Michael E Talkowski", "Stephan J Sanders"]
+publication_types: ["2"]
+abstract: "Genomic association studies of common or rare protein-coding variation have established robust statistical approaches to account for multiple testing. Here we present a comparable framework to evaluate rare and de novo noncoding single-nucleotide variants, insertion/deletions, and all classes of structural variation from whole-genome sequencing (WGS). Integrating genomic annotations at the level of nucleotides, genes, and regulatory regions, we define 51,801 annotation categories. Analyses of 519 autism spectrum disorder families did not identify association with any categories after correction for 4,123 effective tests. Without appropriate correction, biologically plausible associations are observed in both cases and controls. Despite excluding previously identified gene-disrupting mutations, coding regions still exhibited the strongest associations. Thus, in autism, the contribution of de novo noncoding variation is probably modest in comparison to that of de novo coding variants. Robust results from future WGS studies will require large cohorts and comprehensive analytical strategies that consider the substantial multiple-testing burden."
+featured: false
+publication: "*Nat Genet*"
+---
+
