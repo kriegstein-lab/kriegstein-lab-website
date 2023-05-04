@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximilian Haeussler | Kriegstein Lab</title>
+    <link>https://example.com/author/maximilian-haeussler/</link>
+      <atom:link href="https://example.com/author/maximilian-haeussler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maximilian Haeussler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Maximilian Haeussler</title>
+      <link>https://example.com/author/maximilian-haeussler/</link>
+    </image>
+    
+    <item>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
+      <link>https://example.com/publication/crouch-2022-fv/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/crouch-2022-fv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia</title>
+      <link>https://example.com/publication/eze-2021-aw/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/eze-2021-aw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell stress in cortical organoids impairs molecular subtype specification</title>
+      <link>https://example.com/publication/bhaduri-2020-as/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2020-as/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
+      <link>https://example.com/publication/schirmer-2019-jc/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/schirmer-2019-jc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
+      <link>https://example.com/publication/velmeshev-2019-uk/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/velmeshev-2019-uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
+      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

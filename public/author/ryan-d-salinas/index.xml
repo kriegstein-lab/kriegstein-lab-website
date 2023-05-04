@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan D Salinas | Kriegstein Lab</title>
+    <link>https://example.com/author/ryan-d-salinas/</link>
+      <atom:link href="https://example.com/author/ryan-d-salinas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan D Salinas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Ryan D Salinas</title>
+      <link>https://example.com/author/ryan-d-salinas/</link>
+    </image>
+    
+    <item>
+      <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
+      <link>https://example.com/publication/ramos-2015-sa/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ramos-2015-sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
+      <link>https://example.com/publication/price-2014-lp/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/price-2014-lp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

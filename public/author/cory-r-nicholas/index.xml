@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cory R Nicholas | Kriegstein Lab</title>
+    <link>https://example.com/author/cory-r-nicholas/</link>
+      <atom:link href="https://example.com/author/cory-r-nicholas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cory R Nicholas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Cory R Nicholas</title>
+      <link>https://example.com/author/cory-r-nicholas/</link>
+    </image>
+    
+    <item>
+      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
+      <link>https://example.com/publication/raju-2018-db/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/raju-2018-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transplanted Human Stem Cell-Derived Interneuron Precursors Mitigate Mouse Bladder Dysfunction and Central Neuropathic Pain after Spinal Cord Injury</title>
+      <link>https://example.com/publication/fandel-2016-ay/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fandel-2016-ay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular identity of human outer radial glia during cortical development</title>
+      <link>https://example.com/publication/pollen-2015-mc/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pollen-2015-mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interneurons from embryonic development to cell-based therapy</title>
+      <link>https://example.com/publication/southwell-2014-fq/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/southwell-2014-fq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regenerative medicine: Cell reprogramming gets direct</title>
+      <link>https://example.com/publication/nicholas-2010-sk/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nicholas-2010-sk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

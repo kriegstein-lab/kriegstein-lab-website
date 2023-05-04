@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shaohui Wang on Kriegstein Lab</title>
+    <title>Shaohui Wang | Kriegstein Lab</title>
     <link>https://example.com/author/shaohui-wang/</link>
-    <description>Recent content in Shaohui Wang on Kriegstein Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/author/shaohui-wang/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://example.com/author/shaohui-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaohui Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/shaohui-wang/avatar_hufdce997582f91bf01d79b962b3efeb4f_115894_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Shaohui Wang</title>
+      <link>https://example.com/author/shaohui-wang/</link>
+    </image>
+    
   </channel>
 </rss>

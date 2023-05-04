@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel A Lim | Kriegstein Lab</title>
+    <link>https://example.com/author/daniel-a-lim/</link>
+      <atom:link href="https://example.com/author/daniel-a-lim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel A Lim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Daniel A Lim</title>
+      <link>https://example.com/author/daniel-a-lim/</link>
+    </image>
+    
+    <item>
+      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
+      <link>https://example.com/publication/ahanger-2021-ke/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ahanger-2021-ke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
+      <link>https://example.com/publication/muller-2017-zp/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/muller-2017-zp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
+      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
+      <link>https://example.com/publication/muller-2016-mp/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/muller-2016-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell analysis of long non-coding RNAs in the developing human neocortex</title>
+      <link>https://example.com/publication/liu-2016-tx/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liu-2016-tx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular identity of human outer radial glia during cortical development</title>
+      <link>https://example.com/publication/pollen-2015-mc/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pollen-2015-mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
+      <link>https://example.com/publication/ramos-2015-sa/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ramos-2015-sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
+      <link>https://example.com/publication/price-2014-lp/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/price-2014-lp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

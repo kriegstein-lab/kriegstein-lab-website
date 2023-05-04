@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics; Cell atlas studies; Downsampling; Single-cell analysis | Kriegstein Lab</title>
+    <link>https://example.com/tag/bioinformatics-cell-atlas-studies-downsampling-single-cell-analysis/</link>
+      <atom:link href="https://example.com/tag/bioinformatics-cell-atlas-studies-downsampling-single-cell-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics; Cell atlas studies; Downsampling; Single-cell analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Bioinformatics; Cell atlas studies; Downsampling; Single-cell analysis</title>
+      <link>https://example.com/tag/bioinformatics-cell-atlas-studies-downsampling-single-cell-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Identification of cell types in a mouse brain single-cell atlas using low sampling coverage</title>
+      <link>https://example.com/publication/bhaduri-2018-ew/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2018-ew/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

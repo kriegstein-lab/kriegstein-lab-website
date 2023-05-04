@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matthew White on Kriegstein Lab</title>
+    <title>Matthew White | Kriegstein Lab</title>
     <link>https://example.com/author/matthew-white/</link>
-    <description>Recent content in Matthew White on Kriegstein Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/author/matthew-white/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://example.com/author/matthew-white/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew White</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/matthew-white/avatar_hu70983e7fa082b1fe46c3612cb4e328f0_80047_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Matthew White</title>
+      <link>https://example.com/author/matthew-white/</link>
+    </image>
+    
   </channel>
 </rss>

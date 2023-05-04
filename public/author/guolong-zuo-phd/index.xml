@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guolong Zuo, PhD | Kriegstein Lab</title>
+    <link>https://example.com/author/guolong-zuo-phd/</link>
+      <atom:link href="https://example.com/author/guolong-zuo-phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guolong Zuo, PhD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/guolong-zuo-phd/avatar_hucf7633bbf0844079f61d9c990528694e_13323_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Guolong Zuo, PhD</title>
+      <link>https://example.com/author/guolong-zuo-phd/</link>
+    </image>
+    
+  </channel>
+</rss>

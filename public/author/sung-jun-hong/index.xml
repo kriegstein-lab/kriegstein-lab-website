@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sung Jun Hong | Kriegstein Lab</title>
+    <link>https://example.com/author/sung-jun-hong/</link>
+      <atom:link href="https://example.com/author/sung-jun-hong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sung Jun Hong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Sung Jun Hong</title>
+      <link>https://example.com/author/sung-jun-hong/</link>
+    </image>
+    
+    <item>
+      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
+      <link>https://example.com/publication/ahanger-2021-ke/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ahanger-2021-ke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
+      <link>https://example.com/publication/ramos-2015-sa/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ramos-2015-sa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

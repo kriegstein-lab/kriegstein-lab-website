@@ -5,39 +5,1387 @@
     <link>https://example.com/publication-type/2/</link>
       <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://example.com/publication-type/2/</link>
     </image>
     
     <item>
+      <title>A nomenclature consensus for nervous system organoids and assembloids</title>
+      <link>https://example.com/publication/pasca-2022-zl/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pasca-2022-zl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
+      <link>https://example.com/publication/crouch-2022-fv/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/crouch-2022-fv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How mechanisms of stem cell polarity shape the human cerebral cortex</title>
+      <link>https://example.com/publication/andrews-2022-uu/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/andrews-2022-uu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>https://example.com/publication/tropism-of-sars-cov-2-for-human-cortical-astrocytes/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/tropism-of-sars-cov-2-for-human-cortical-astrocytes/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <link>https://example.com/publication/andrews-2022-ty/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/andrews-2022-ty/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Zika virus alters centrosome organization to suppress the innate immune response</title>
-      <link>https://example.com/publication/zika-virus-alters-centrosome-organization-to-suppress-the-innate-immune-response/</link>
+      <link>https://example.com/publication/kodani-2022-lj/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kodani-2022-lj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Lipid Heterogeneity and Diversity in the Developing Human Brain</title>
+      <link>https://example.com/publication/bhaduri-2021-ch/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2021-ch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An atlas of cortical arealization identifies dynamic molecular signatures</title>
+      <link>https://example.com/publication/bhaduri-2021-qf/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2021-qf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
+      <link>https://example.com/publication/ahanger-2021-ke/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ahanger-2021-ke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human intermediate progenitor diversity during cortical development</title>
+      <link>https://example.com/publication/pebworth-2021-nn/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pebworth-2021-nn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia</title>
+      <link>https://example.com/publication/eze-2021-aw/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/eze-2021-aw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes</title>
+      <link>https://example.com/publication/andrews-2021-xv/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/andrews-2021-xv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-type-specific 3D epigenomes in the developing human cortex</title>
+      <link>https://example.com/publication/song-2020-fz/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/song-2020-fz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Organoids Ready for Prime Time?</title>
+      <link>https://example.com/publication/bhaduri-2020-fo/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2020-fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex</title>
+      <link>https://example.com/publication/andrews-2020-nm/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/andrews-2020-nm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Cell Analyses Identify Brain Mural Cells Expressing CD19 as Potential Off-Tumor Targets for CAR-T Immunotherapies</title>
+      <link>https://example.com/publication/parker-2020-tr/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/parker-2020-tr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency</title>
+      <link>https://example.com/publication/zhang-2020-dj/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang-2020-dj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells</title>
+      <link>https://example.com/publication/huang-2020-zf/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang-2020-zf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Chromatin Accessibility Atlas of the Developing Human Telencephalon</title>
+      <link>https://example.com/publication/markenscoff-papadimitriou-2020-bc/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/markenscoff-papadimitriou-2020-bc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of amygdala-expressed genes associated with autism spectrum disorder</title>
+      <link>https://example.com/publication/herrero-2020-vo/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/herrero-2020-vo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMART-Q: An Integrative Pipeline Quantifying Cell Type-Specific RNA Transcription</title>
+      <link>https://example.com/publication/yang-2020-ft/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yang-2020-ft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical Neural Stem Cell Lineage Progression Is Regulated by Extrinsic Signaling Molecule Sonic Hedgehog</title>
+      <link>https://example.com/publication/zhang-2020-ie/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang-2020-ie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell stress in cortical organoids impairs molecular subtype specification</title>
+      <link>https://example.com/publication/bhaduri-2020-as/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2020-as/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma</title>
+      <link>https://example.com/publication/bhaduri-2020-pa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2020-pa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroglial stem cell-derived inflammatory pseudotumor (n-SCIPT): clinicopathologic characterization of a novel lesion of the lumbosacral spinal cord and nerve roots following intrathecal allogeneic stem cell intervention</title>
+      <link>https://example.com/publication/sloan-2019-bo/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sloan-2019-bo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oligodendrocyte Death in Pelizaeus-Merzbacher Disease Is Rescued by Iron Chelation</title>
+      <link>https://example.com/publication/nobuta-2019-ss/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nobuta-2019-ss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
+      <link>https://example.com/publication/schirmer-2019-jc/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/schirmer-2019-jc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immature excitatory neurons develop during adolescence in the human amygdala</title>
+      <link>https://example.com/publication/sorrells-2019-ml/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sorrells-2019-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
+      <link>https://example.com/publication/velmeshev-2019-uk/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/velmeshev-2019-uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
+      <link>https://example.com/publication/pollen-2019-vm/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pollen-2019-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
+      <link>https://example.com/publication/mayer-2019-tl/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mayer-2019-tl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroserpin expression during human brain development and in adult brain revealed by immunohistochemistry and single cell RNA sequencing</title>
+      <link>https://example.com/publication/adorjan-2019-rx/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/adorjan-2019-rx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Adult Neurogenesis Persist in the Human Hippocampus?</title>
+      <link>https://example.com/publication/paredes-2018-uu/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/paredes-2018-uu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development</title>
+      <link>https://example.com/publication/nowakowski-2018-ma/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2018-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of cell types in a mouse brain single-cell atlas using low sampling coverage</title>
+      <link>https://example.com/publication/bhaduri-2018-ew/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2018-ew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
+      <link>https://example.com/publication/raju-2018-db/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/raju-2018-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder</title>
+      <link>https://example.com/publication/werling-2018-yd/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/werling-2018-yd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults</title>
+      <link>https://example.com/publication/sorrells-2018-dx/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sorrells-2018-dx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
+      <link>https://example.com/publication/muller-2017-zp/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/muller-2017-zp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
+      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The BRAIN Initiative Cell Census Consortium: Lessons Learned toward Generating a Comprehensive Brain Cell Atlas</title>
+      <link>https://example.com/publication/ecker-2017-pt/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ecker-2017-pt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The use of brain organoids to investigate neural development and disease</title>
+      <link>https://example.com/publication/di-lullo-2017-mb/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/di-lullo-2017-mb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic behaviour of human neuroepithelial cells in the developing forebrain</title>
+      <link>https://example.com/publication/subramanian-2017-ff/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/subramanian-2017-ff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia</title>
+      <link>https://example.com/publication/bershteyn-2017-ib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bershteyn-2017-ib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primate Neurons Flex Their Musclin</title>
+      <link>https://example.com/publication/pollen-2016-qj/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pollen-2016-qj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
+      <link>https://example.com/publication/muller-2016-mp/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/muller-2016-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
+      <link>https://example.com/publication/retallack-2016-pw/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/retallack-2016-pw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformation of the Radial Glia Scaffold Demarcates Two Stages of Human Cerebral Cortex Development</title>
+      <link>https://example.com/publication/nowakowski-2016-cy/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2016-cy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transplanted Human Stem Cell-Derived Interneuron Precursors Mitigate Mouse Bladder Dysfunction and Central Neuropathic Pain after Spinal Cord Injury</title>
+      <link>https://example.com/publication/fandel-2016-ay/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fandel-2016-ay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Primate lncRNA Mediates Notch Signaling during Neuronal Development by Sequestering miRNA</title>
+      <link>https://example.com/publication/rani-2016-zn/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rani-2016-zn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell analysis of long non-coding RNAs in the developing human neocortex</title>
+      <link>https://example.com/publication/liu-2016-tx/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liu-2016-tx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells</title>
+      <link>https://example.com/publication/nowakowski-2016-qh/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2016-qh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A GABAergic projection from the zona incerta to cortex promotes cortical neuron development</title>
+      <link>https://example.com/publication/chen-2015-oa/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chen-2015-oa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuronal Migration Dynamics in the Developing Ferret Cortex</title>
+      <link>https://example.com/publication/gertz-2015-pp/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gertz-2015-pp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular identity of human outer radial glia during cortical development</title>
+      <link>https://example.com/publication/pollen-2015-mc/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zika-virus-alters-centrosome-organization-to-suppress-the-innate-immune-response/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://example.com/publication/pollen-2015-mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wide Dispersion and Diversity of Clonally Related Inhibitory Interneurons</title>
+      <link>https://example.com/publication/harwell-2015-ng/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/harwell-2015-ng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
+      <link>https://example.com/publication/ramos-2015-sa/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ramos-2015-sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial glia in the proliferative ventricular zone of the embryonic and adult turtle, Trachemys scripta elegans</title>
+      <link>https://example.com/publication/clinton-2014-bb/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/clinton-2014-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial glia require PDGFD-PDGFR$β$ signalling in human but not mouse neocortex</title>
+      <link>https://example.com/publication/lui-2014-qa/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lui-2014-qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
+      <link>https://example.com/publication/price-2014-lp/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/price-2014-lp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
+      <link>https://example.com/publication/pollen-2014-ow/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pollen-2014-ow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of outer radial glial stem cell mitosis in the human brain</title>
+      <link>https://example.com/publication/ostrem-2014-ds/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ostrem-2014-ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interneurons from embryonic development to cell-based therapy</title>
+      <link>https://example.com/publication/southwell-2014-fq/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/southwell-2014-fq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse behaviors of outer radial glia in developing ferret and human cortex</title>
+      <link>https://example.com/publication/gertz-2014-cx/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gertz-2014-cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-autonomous correction of ring chromosomes in human induced pluripotent stem cells</title>
+      <link>https://example.com/publication/bershteyn-2014-ih/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bershteyn-2014-ih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of neuronal migration</title>
+      <link>https://example.com/publication/wu-2014-hb/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wu-2014-hb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-epithelial stem cells and cortical interneuron production in the human ganglionic eminences</title>
+      <link>https://example.com/publication/hansen-2013-zg/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hansen-2013-zg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebral organoids in a dish: progress and prospects</title>
+      <link>https://example.com/publication/bershteyn-2013-if/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bershteyn-2013-if/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high-resolution enhancer atlas of the developing telencephalon</title>
+      <link>https://example.com/publication/visel-2013-hi/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/visel-2013-hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitotic spindle orientation predicts outer radial glial cell generation in human neocortex</title>
+      <link>https://example.com/publication/la-monica-2013-el/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/la-monica-2013-el/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation of microtubule stability and organization by mammalian Par3 in specifying neuronal polarity</title>
+      <link>https://example.com/publication/chen-2012-yi/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chen-2012-yi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SnapShot: cortical development</title>
+      <link>https://example.com/publication/woodworth-2012-ch/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/woodworth-2012-ch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stem cells in the land of the rising sun: ISSCR 2012</title>
+      <link>https://example.com/publication/plath-2012-in/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/plath-2012-in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSVZ progenitors in the human cortex: an updated perspective on neurodevelopmental disease</title>
+      <link>https://example.com/publication/la-monica-2012-py/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/la-monica-2012-py/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonic hedgehog expression in corticofugal projection neurons directs cortical microcircuit formation</title>
+      <link>https://example.com/publication/harwell-2012-dq/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/harwell-2012-dq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orienting fate: spatial regulation of neurogenic divisions</title>
+      <link>https://example.com/publication/wang-2011-lb/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang-2011-lb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and evolution of the human neocortex</title>
+      <link>https://example.com/publication/lui-2011-tn/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lui-2011-tn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistent sonic hedgehog signaling in adult brain determines neural stem cell positional identity</title>
+      <link>https://example.com/publication/ihrie-2011-pd/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ihrie-2011-pd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving excitatory neurons of the neocortex from pluripotent stem cells</title>
+      <link>https://example.com/publication/hansen-2011-ce/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hansen-2011-ce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new subtype of progenitor cell in the mouse embryonic neocortex</title>
+      <link>https://example.com/publication/wang-2011-tj/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang-2011-tj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developmental genetics of vertebrate glial-cell specification</title>
+      <link>https://example.com/publication/rowitch-2010-rj/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rowitch-2010-rj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinesin 3 and cytoplasmic dynein mediate interkinetic nuclear migration in neural stem cells</title>
+      <link>https://example.com/publication/tsai-2010-jd/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tsai-2010-jd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking early GABA depolarization with bumetanide results in permanent alterations in cortical circuits and sensorimotor gating deficits</title>
+      <link>https://example.com/publication/wang-2010-ab/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang-2010-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connexin 43 mediates the tangential to radial migratory switch in ventrally derived cortical interneurons</title>
+      <link>https://example.com/publication/elias-2010-st/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/elias-2010-st/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embryonic MGE precursor cells grafted into adult rat striatum integrate and ameliorate motor symptoms in 6-OHDA-lesioned rats</title>
+      <link>https://example.com/publication/martinez-cerdeno-2010-xt/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/martinez-cerdeno-2010-xt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurogenic radial glia in the outer subventricular zone of human neocortex</title>
+      <link>https://example.com/publication/hansen-2010-pi/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hansen-2010-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regenerative medicine: Cell reprogramming gets direct</title>
+      <link>https://example.com/publication/nicholas-2010-sk/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nicholas-2010-sk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mammalian Par3 regulates progenitor cell asymmetric division via notch signaling in the developing neocortex</title>
+      <link>https://example.com/publication/bultje-2009-tx/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bultje-2009-tx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary: the prospect of cell-based therapy for epilepsy</title>
+      <link>https://example.com/publication/kriegstein-2009-fa/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-2009-fa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining the role of GABA in cortical development</title>
+      <link>https://example.com/publication/wang-2009-yl/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang-2009-yl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential trafficking of AMPA and NMDA receptors by SAP102 and PSD-95 underlies synapse development</title>
+      <link>https://example.com/publication/elias-2008-op/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/elias-2008-op/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time and a place for nkx2-1 in interneuron specification and migration</title>
+      <link>https://example.com/publication/elias-2008-jl/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/elias-2008-jl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GABA regulates stem cell proliferation before nervous system formation</title>
+      <link>https://example.com/publication/wang-2008-wf/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang-2008-wf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progenitors from the postnatal forebrain subventricular zone differentiate into cerebellar-like interneurons and cerebellar-specific astrocytes upon transplantation</title>
+      <link>https://example.com/publication/milosevic-2008-if/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/milosevic-2008-if/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct behaviors of neural stem and progenitor cells underlie cortical neurogenesis</title>
+      <link>https://example.com/publication/noctor-2008-ot/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/noctor-2008-ot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GABA regulates excitatory synapse formation in the neocortex via NMDA receptor activation</title>
+      <link>https://example.com/publication/wang-2008-cn/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang-2008-cn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manipulating midbrain stem cell self-renewal</title>
+      <link>https://example.com/publication/lo-turco-2008-an/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lo-turco-2008-an/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gap junctions: multifaceted regulators of embryonic cortical development</title>
+      <link>https://example.com/publication/elias-2008-av/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/elias-2008-av/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gap junction adhesion is necessary for radial migration in the neocortex</title>
+      <link>https://example.com/publication/elias-2007-ms/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/elias-2007-ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical neurogenesis: transitioning from advances in the laboratory to cell-based therapies</title>
+      <link>https://example.com/publication/kriegstein-2007-sz/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-2007-sz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution of intermediate progenitor cells to cortical histogenesis</title>
+      <link>https://example.com/publication/noctor-2007-wh/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/noctor-2007-wh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural stem and progenitor cells in cortical development</title>
+      <link>https://example.com/publication/noctor-2007-ty/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/noctor-2007-ty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estradiol stimulates progenitor cell division in the ventricular and subventricular zones of the embryonic neocortex</title>
+      <link>https://example.com/publication/martinez-cerdeno-2006-md/</link>
+      <pubDate>Fri, 01 Dec 2006 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/martinez-cerdeno-2006-md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of mice with targeted deletion of glycine receptor alpha 2</title>
+      <link>https://example.com/publication/young-pearse-2006-oj/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/young-pearse-2006-oj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of intermediate progenitor cells in the evolutionary expansion of the cerebral cortex</title>
+      <link>https://example.com/publication/martinez-cerdeno-2006-ul/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/martinez-cerdeno-2006-ul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind patch clamp recordings in embryonic and adult mammalian brain slices</title>
+      <link>https://example.com/publication/castaneda-castellanos-2006-we/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/castaneda-castellanos-2006-we/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new era in the ethics of human embryonic stem cell research</title>
+      <link>https://example.com/publication/lo-2005-oe/</link>
+      <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lo-2005-oe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GABA puts the brake on stem cells</title>
+      <link>https://example.com/publication/kriegstein-2005-gu/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-2005-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIS1 RNA interference blocks neural stem cell division, morphogenesis, and motility at multiple stages</title>
+      <link>https://example.com/publication/tsai-2005-ei/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tsai-2005-ei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing circuits: neurogenesis and migration in the developing neocortex</title>
+      <link>https://example.com/publication/kriegstein-2005-pq/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-2005-pq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcium waves propagate through radial glial cells and modulate proliferation in the developing neocortex</title>
+      <link>https://example.com/publication/weissman-2004-ov/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/weissman-2004-ov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling neuron number: does Numb do the math?</title>
+      <link>https://example.com/publication/castaneda-castellanos-2004-zj/</link>
+      <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/castaneda-castellanos-2004-zj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of neuronal migration in the embryonic cortex</title>
+      <link>https://example.com/publication/kriegstein-2004-vm/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-2004-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical neurons arise in symmetric and asymmetric division zones and migrate through specific phases</title>
+      <link>https://example.com/publication/noctor-2004-il/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/noctor-2004-il/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terpene trilactones from Ginkgo biloba are antagonists of cortical glycine and GABA(A) receptors</title>
+      <link>https://example.com/publication/ivic-2003-fv/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ivic-2003-fv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial glia diversity: a matter of cell fate</title>
+      <link>https://example.com/publication/kriegstein-2003-qp/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-2003-qp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurogenic radial glial cells in reptile, rodent and human: from mitosis to migration</title>
+      <link>https://example.com/publication/weissman-2003-hg/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/weissman-2003-hg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurons from radial glia: the consequences of asymmetric inheritance</title>
+      <link>https://example.com/publication/fishell-2003-nr/</link>
+      <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fishell-2003-nr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developmental neurotransmitters?</title>
+      <link>https://example.com/publication/owens-2002-eu/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/owens-2002-eu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increased excitability and decreased sensitivity to GABA in an animal model of dysplastic cortex</title>
+      <link>https://example.com/publication/benardete-2002-kl/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/benardete-2002-kl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is there more to GABA than synaptic inhibition?</title>
+      <link>https://example.com/publication/owens-2002-oj/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/owens-2002-oj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dividing precursor cells of the embryonic cortical ventricular zone have morphological and molecular characteristics of radial glia</title>
+      <link>https://example.com/publication/noctor-2002-kh/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/noctor-2002-kh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GABA may act as a self-limiting trophic factor at developing synapses</title>
+      <link>https://example.com/publication/kriegstein-2001-qw/</link>
+      <pubDate>Wed, 01 Aug 2001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-2001-qw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurons derived from radial glial cells establish radial units in neocortex</title>
+      <link>https://example.com/publication/noctor-2001-kn/</link>
+      <pubDate>Thu, 01 Feb 2001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/noctor-2001-kn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maturation of channels and receptors: consequences for excitability</title>
+      <link>https://example.com/publication/owens-2001-yb/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/owens-2001-yb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transient actions of neurotransmitters during neocortical development</title>
+      <link>https://example.com/publication/dammerman-2000-mo/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dammerman-2000-mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An excitatory GABAergic plexus in developing neocortical layer 1</title>
+      <link>https://example.com/publication/dammerman-2000-yv/</link>
+      <pubDate>Sat, 01 Jul 2000 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dammerman-2000-yv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extrinsic GABAergic innervation of developing neocortical layer 1 in organotypic slice co-cultures</title>
+      <link>https://example.com/publication/dammerman-2000-jq/</link>
+      <pubDate>Sat, 01 Jul 2000 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dammerman-2000-jq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcium dynamics of neocortical ventricular zone cells</title>
+      <link>https://example.com/publication/owens-2000-nl/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/owens-2000-nl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leukoencephalopathy and raised brain lactate from heroin vapor inhalation (``chasing the dragon&#39;&#39;)</title>
+      <link>https://example.com/publication/kriegstein-1999-xf/</link>
+      <pubDate>Mon, 01 Nov 1999 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1999-xf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogenous activation of metabotropic glutamate receptors in neocortical development causes neuronal calcium oscillations</title>
+      <link>https://example.com/publication/flint-1999-ol/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/flint-1999-ol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing properties of GABA(A) receptor-mediated signaling during early neocortical development</title>
+      <link>https://example.com/publication/owens-1999-bd/</link>
+      <pubDate>Sun, 01 Aug 1999 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/owens-1999-bd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontogeny of channels, transmitters and epileptogenesis</title>
+      <link>https://example.com/publication/kriegstein-1999-fb/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1999-fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of intracellular calcium fluctuation in precursor cells of the neocortical ventricular zone</title>
+      <link>https://example.com/publication/owens-1998-hc/</link>
+      <pubDate>Wed, 01 Jul 1998 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/owens-1998-hc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonsynaptic glycine receptor activation during early neocortical development</title>
+      <link>https://example.com/publication/flint-1998-np/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/flint-1998-np/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postnatal development of low [Mg2&#43;] oscillations in neocortex</title>
+      <link>https://example.com/publication/flint-1997-um/</link>
+      <pubDate>Wed, 01 Oct 1997 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/flint-1997-um/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell coupling and uncoupling in the ventricular zone of developing neocortex</title>
+      <link>https://example.com/publication/bittman-1997-ow/</link>
+      <pubDate>Mon, 01 Sep 1997 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bittman-1997-ow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms underlying neuronal migration disorders and epilepsy</title>
+      <link>https://example.com/publication/flint-1997-is/</link>
+      <pubDate>Tue, 01 Apr 1997 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/flint-1997-is/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NR2A subunit expression shortens NMDA receptor synaptic currents in developing neocortex</title>
+      <link>https://example.com/publication/flint-1997-iq/</link>
+      <pubDate>Tue, 01 Apr 1997 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/flint-1997-iq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heroin inhalation and progressive spongiform leukoencephalopathy</title>
+      <link>https://example.com/publication/kriegstein-1997-wn/</link>
+      <pubDate>Sat, 01 Feb 1997 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1997-wn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excitatory GABA responses in embryonic and neonatal cortical slices demonstrated by gramicidin perforated-patch recordings and calcium imaging</title>
+      <link>https://example.com/publication/owens-1996-gh/</link>
+      <pubDate>Tue, 01 Oct 1996 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/owens-1996-gh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical neurogenesis and its disorders</title>
+      <link>https://example.com/publication/kriegstein-1996-tm/</link>
+      <pubDate>Mon, 01 Apr 1996 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1996-tm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GABA and glutamate depolarize cortical progenitor cells and inhibit DNA synthesis</title>
+      <link>https://example.com/publication/lo-turco-1995-qf/</link>
+      <pubDate>Fri, 01 Dec 1995 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lo-turco-1995-qf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Properties of amino acid neurotransmitter receptors of embryonic cortical neurons when activated by exogenous and endogenous agonists</title>
+      <link>https://example.com/publication/blanton-1992-az/</link>
+      <pubDate>Fri, 01 May 1992 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/blanton-1992-az/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal action-potential bursts and synchronized, GABA-mediated inhibitory potentials in an in vitro model of focal epilepsy</title>
+      <link>https://example.com/publication/troyer-1992-ro/</link>
+      <pubDate>Sun, 01 Mar 1992 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/troyer-1992-ro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norepinephrine activates potassium conductance in neurons of the turtle cerebral cortex</title>
+      <link>https://example.com/publication/blanton-1992-as/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/blanton-1992-as/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous action potential activity and synaptic currents in the embryonic turtle cerebral cortex</title>
+      <link>https://example.com/publication/blanton-1991-uj/</link>
+      <pubDate>Sun, 01 Dec 1991 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/blanton-1991-uj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appearance of putative amino acid neurotransmitters during differentiation of neurons in embryonic turtle cerebral cortex</title>
+      <link>https://example.com/publication/blanton-1991-lg/</link>
+      <pubDate>Thu, 01 Aug 1991 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/blanton-1991-lg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological differentiation of distinct neuronal classes in embryonic turtle cerebral cortex</title>
+      <link>https://example.com/publication/blanton-1991-at/</link>
+      <pubDate>Thu, 01 Aug 1991 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/blanton-1991-at/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clusters of coupled neuroblasts in embryonic neocortex</title>
+      <link>https://example.com/publication/lo-turco-1991-bz/</link>
+      <pubDate>Mon, 01 Apr 1991 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lo-turco-1991-bz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial expression and endogenous activation of NMDA channels in early neocortical development</title>
+      <link>https://example.com/publication/lo-turco-1991-xv/</link>
+      <pubDate>Fri, 01 Mar 1991 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lo-turco-1991-xv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turtle cortical neurons survive glutamate exposures that are lethal to mammalian neurons</title>
+      <link>https://example.com/publication/wilson-1991-wi/</link>
+      <pubDate>Fri, 01 Feb 1991 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wilson-1991-wi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogenous neurotransmitter activates N-methyl-D-aspartate receptors on differentiating neurons in embryonic cortex</title>
+      <link>https://example.com/publication/blanton-1990-pg/</link>
+      <pubDate>Mon, 01 Oct 1990 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/blanton-1990-pg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential activation of glutamate receptors by spontaneously released transmitter in slices of neocortex</title>
+      <link>https://example.com/publication/lo-turco-1990-ho/</link>
+      <pubDate>Sun, 01 Jul 1990 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lo-turco-1990-ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole cell recording from neurons in slices of reptilian and mammalian cerebral cortex</title>
+      <link>https://example.com/publication/blanton-1989-tq/</link>
+      <pubDate>Fri, 01 Dec 1989 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/blanton-1989-tq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The development of bicuculline-induced epileptiform discharges in embryonic turtle cortex</title>
+      <link>https://example.com/publication/shen-1989-wn/</link>
+      <pubDate>Wed, 01 Mar 1989 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/shen-1989-wn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of GABA responsiveness in embryonic turtle cortical neurons</title>
+      <link>https://example.com/publication/shen-1988-bf/</link>
+      <pubDate>Fri, 01 Jul 1988 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/shen-1988-bf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative autoradiography of muscarinic and benzodiazepine receptors in the forebrain of the turtle, Pseudemys scripta</title>
+      <link>https://example.com/publication/schlegel-1987-og/</link>
+      <pubDate>Sun, 01 Nov 1987 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/schlegel-1987-og/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular and synaptic physiology and epileptogenesis of developing rat neocortical neurons in vitro</title>
+      <link>https://example.com/publication/kriegstein-1987-jd/</link>
+      <pubDate>Sat, 01 Aug 1987 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1987-jd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synaptic responses of cortical pyramidal neurons to light stimulation in the isolated turtle visual system</title>
+      <link>https://example.com/publication/kriegstein-1987-ra/</link>
+      <pubDate>Sat, 01 Aug 1987 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1987-ra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for the inhibitory neurotransmitter gamma-aminobutyric acid in aspiny and sparsely spiny nonpyramidal neurons of the turtle dorsal cortex</title>
+      <link>https://example.com/publication/blanton-1987-oz/</link>
+      <pubDate>Fri, 01 May 1987 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/blanton-1987-oz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glutamate neurotoxicity in cortical cell culture</title>
+      <link>https://example.com/publication/choi-1987-kh/</link>
+      <pubDate>Sun, 01 Feb 1987 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/choi-1987-kh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monoclonal antibodies to the turtle cortex reveal neuronal subsets, antigenic cross-reactivity with the mammalian neocortex, and forebrain structures sharing a pallial derivation</title>
+      <link>https://example.com/publication/kriegstein-1986-xj/</link>
+      <pubDate>Mon, 01 Dec 1986 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1986-xj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turtle hippocampal cortex contains distinct cell types, burst-firing neurons, and an epileptogenic subfield</title>
+      <link>https://example.com/publication/shen-1986-fm/</link>
+      <pubDate>Mon, 01 Dec 1986 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/shen-1986-fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular physiology of the turtle visual cortex: distinctive properties of pyramidal and stellate neurons</title>
+      <link>https://example.com/publication/connors-1986-ue/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/connors-1986-ue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular physiology of the turtle visual cortex: synaptic properties and intrinsic circuitry</title>
+      <link>https://example.com/publication/kriegstein-1986-rp/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1986-rp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of dopamine on epileptiform burst activity in hippocampal pyramidal neurons</title>
+      <link>https://example.com/publication/suppes-1985-pm/</link>
+      <pubDate>Fri, 01 Feb 1985 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/suppes-1985-pm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological classification of rat cortical neurons in cell culture</title>
+      <link>https://example.com/publication/kriegstein-1983-gx/</link>
+      <pubDate>Mon, 01 Aug 1983 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1983-gx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cholinergic enhancement of penicillin-induced epileptiform discharges in pyramidal neurons of the guinea pig hippocampus</title>
+      <link>https://example.com/publication/kriegstein-1983-pi/</link>
+      <pubDate>Fri, 01 Apr 1983 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1983-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurology-important advances in clinical medicine: treatment of febrile convulsions</title>
+      <link>https://example.com/publication/kriegstein-1982-sq/</link>
+      <pubDate>Fri, 01 Oct 1982 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1982-sq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stages in the post-hatching development of Aplysia californica</title>
+      <link>https://example.com/publication/kriegstein-1977-bg/</link>
+      <pubDate>Tue, 01 Feb 1977 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1977-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of the nervous system of Aplysia californica</title>
+      <link>https://example.com/publication/kriegstein-1977-vv/</link>
+      <pubDate>Sat, 01 Jan 1977 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1977-vv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metamorphosis of Aplysia californica in laboratory culture</title>
+      <link>https://example.com/publication/kriegstein-1974-xu/</link>
+      <pubDate>Sun, 01 Sep 1974 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1974-xu/</guid>
+      <description></description>
     </item>
     
   </channel>

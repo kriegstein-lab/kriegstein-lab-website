@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip R L Parker | Kriegstein Lab</title>
+    <link>https://example.com/author/philip-r-l-parker/</link>
+      <atom:link href="https://example.com/author/philip-r-l-parker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip R L Parker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Philip R L Parker</title>
+      <link>https://example.com/author/philip-r-l-parker/</link>
+    </image>
+    
+    <item>
+      <title>Sonic hedgehog expression in corticofugal projection neurons directs cortical microcircuit formation</title>
+      <link>https://example.com/publication/harwell-2012-dq/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/harwell-2012-dq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurogenic radial glia in the outer subventricular zone of human neocortex</title>
+      <link>https://example.com/publication/hansen-2010-pi/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hansen-2010-pi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

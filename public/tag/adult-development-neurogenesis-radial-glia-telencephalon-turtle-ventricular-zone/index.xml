@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adult; development; neurogenesis; radial glia; telencephalon; turtle; ventricular zone | Kriegstein Lab</title>
+    <link>https://example.com/tag/adult-development-neurogenesis-radial-glia-telencephalon-turtle-ventricular-zone/</link>
+      <atom:link href="https://example.com/tag/adult-development-neurogenesis-radial-glia-telencephalon-turtle-ventricular-zone/index.xml" rel="self" type="application/rss+xml" />
+    <description>adult; development; neurogenesis; radial glia; telencephalon; turtle; ventricular zone</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>adult; development; neurogenesis; radial glia; telencephalon; turtle; ventricular zone</title>
+      <link>https://example.com/tag/adult-development-neurogenesis-radial-glia-telencephalon-turtle-ventricular-zone/</link>
+    </image>
+    
+    <item>
+      <title>Radial glia in the proliferative ventricular zone of the embryonic and adult turtle, Trachemys scripta elegans</title>
+      <link>https://example.com/publication/clinton-2014-bb/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/clinton-2014-bb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

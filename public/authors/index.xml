@@ -1,127 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Kriegstein Lab</title>
+    <title>Authors | Kriegstein Lab</title>
     <link>https://example.com/authors/</link>
-    <description>Recent content in Authors on Kriegstein Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Arnold R Kriegstein, MD, PhD</title>
-      <link>https://example.com/author/arnold-r-kriegstein-md-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/arnold-r-kriegstein-md-phd/</guid>
-      <description>Dr. Kriegstein’s research focuses on the way in which neural stem and progenitor cells produce neurons in the embryonic brain. His lab found that radial glial cells, long thought to simply guide nerve cells during migration, are neuronal stem cells in the developing brain.</description>
-    </item>
-    
-    <item>
-      <title>Clara Siebert</title>
-      <link>https://example.com/author/clara-siebert/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/clara-siebert/</guid>
-      <description>I am a visiting graduate student interested in understanding neurodevelopmental origins of neuropsychiatric diseases using organoid models.</description>
-    </item>
-    
-    <item>
-      <title>Jennifer Baltazar</title>
-      <link>https://example.com/author/jennifer-baltazar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/jennifer-baltazar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Augustin, PhD</title>
-      <link>https://example.com/author/jonathan-augustin-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/jonathan-augustin-phd/</guid>
-      <description>Jonathan is a Postdoctoral Scholar in the Kriegstein Lab. He is interested in using human cortical organoids to model neurodevelopmental disorders in vitro. He utilizes traditional molecular biological approaches in tandem with bioinformatics to profile changes in fate specification during neurodevelopment.</description>
-    </item>
-    
-    <item>
-      <title>Li Wang, PhD</title>
-      <link>https://example.com/author/li-wang-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/li-wang-phd/</guid>
-      <description>I am interested in applying omics approaches to study human brain development and neural circuit formation, with a focus on cell-type specificity. In my spare time, I enjoy watching movies, documentaries, and traveling.</description>
-    </item>
-    
-    <item>
-      <title>Li Zhou, PhD</title>
-      <link>https://example.com/author/li-zhou-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/li-zhou-phd/</guid>
-      <description>Dr. Zhou is interested in dissecting human brain circuit development. During his Ph.D., he found a new &amp;ldquo;push-pull&amp;rdquo; circuit mechanism to control the E-I balance of rodent serotonin neurons: individual cells could receive excitation and inhibition inputs from the same brain area.</description>
-    </item>
-    
-    <item>
-      <title>Lilian Gomes de Oliveira</title>
-      <link>https://example.com/author/lilian-gomes-de-oliveira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/lilian-gomes-de-oliveira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matthew White</title>
-      <link>https://example.com/author/matthew-white/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/matthew-white/</guid>
-      <description>Matthew&amp;rsquo;s undergraduate research utilized the C. elegans model system to investigate organelle biogenesis in the endosomal pathway, with particular focus on the role of Rab GTPases in regulating this process throughout embryo development.</description>
-    </item>
-    
-    <item>
-      <title>Quili Bi</title>
-      <link>https://example.com/author/quili-bi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/quili-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shaohui Wang</title>
-      <link>https://example.com/author/shaohui-wang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/shaohui-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Songcang Chen, MD</title>
-      <link>https://example.com/author/songcang-chen-md/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/songcang-chen-md/</guid>
-      <description>Dr. Chen’s research mainly focuses on vitamin D receptor (VDR) biology and the role of vitamin D in hypertension and cardiometabolic disease. He successfully generated floxed VDR mice and developed several types of tissue/cell-specific VDR knockout mice including CD4+ T lymphocytes.</description>
-    </item>
-    
-    <item>
-      <title>Tanzila Mukhtar, PhD</title>
-      <link>https://example.com/author/tanzila-mukhtar-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/tanzila-mukhtar-phd/</guid>
-      <description>Dr. Mukhtar is interested in the signaling and transcriptional networks that maintain neural stem cells, are responsible for cortical layering and control cell fate. She is working on understanding the temporal changes in isoforms during human cortical development and uses both primary human tissue and iPSC-derived cerebral organoids to study the isoform landscape in the neurogenic/gliogenic lineage.</description>
-    </item>
-    
-    <item>
-      <title>Yonatan Perez, PhD</title>
-      <link>https://example.com/author/yonatan-perez-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/author/yonatan-perez-phd/</guid>
-      <description>Dr. Yonatan Perez received his PhD in Molecular biology and human genetics from the Ben Gurion University, Israel in 2017. In his PhD, He studied the molecular mechanisms of various hereditary human neurodevelopmental syndromes using high-throughput DNA sequencing, in-vivo studies, and stem cell-based model systems.</description>
-    </item>
+      <atom:link href="https://example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://example.com/authors/</link>
+    </image>
     
   </channel>
 </rss>

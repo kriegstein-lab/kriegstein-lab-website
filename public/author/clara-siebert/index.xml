@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clara Siebert on Kriegstein Lab</title>
+    <title>Clara Siebert | Kriegstein Lab</title>
     <link>https://example.com/author/clara-siebert/</link>
-    <description>Recent content in Clara Siebert on Kriegstein Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/author/clara-siebert/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://example.com/author/clara-siebert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clara Siebert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/clara-siebert/avatar_huc9a3a7a0e056eb565a0a0d82e1ab160a_133841_270x270_fill_lanczos_center_3.png</url>
+      <title>Clara Siebert</title>
+      <link>https://example.com/author/clara-siebert/</link>
+    </image>
+    
   </channel>
 </rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martina Malatesta | Kriegstein Lab</title>
+    <link>https://example.com/author/martina-malatesta/</link>
+      <atom:link href="https://example.com/author/martina-malatesta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martina Malatesta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Martina Malatesta</title>
+      <link>https://example.com/author/martina-malatesta/</link>
+    </image>
+    
+    <item>
+      <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma</title>
+      <link>https://example.com/publication/bhaduri-2020-pa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2020-pa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
+      <link>https://example.com/publication/muller-2017-zp/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/muller-2017-zp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
+      <link>https://example.com/publication/muller-2016-mp/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/muller-2016-mp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

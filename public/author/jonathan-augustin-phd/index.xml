@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jonathan Augustin, PhD on Kriegstein Lab</title>
+    <title>Jonathan Augustin, PhD | Kriegstein Lab</title>
     <link>https://example.com/author/jonathan-augustin-phd/</link>
-    <description>Recent content in Jonathan Augustin, PhD on Kriegstein Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/author/jonathan-augustin-phd/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://example.com/author/jonathan-augustin-phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Augustin, PhD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/jonathan-augustin-phd/avatar_hu61225fcf5819354d5fd136c666845393_34488_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jonathan Augustin, PhD</title>
+      <link>https://example.com/author/jonathan-augustin-phd/</link>
+    </image>
+    
   </channel>
 </rss>

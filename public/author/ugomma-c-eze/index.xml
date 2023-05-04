@@ -5,25 +5,67 @@
     <link>https://example.com/author/ugomma-c-eze/</link>
       <atom:link href="https://example.com/author/ugomma-c-eze/index.xml" rel="self" type="application/rss+xml" />
     <description>Ugomma C Eze</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
       <title>Ugomma C Eze</title>
       <link>https://example.com/author/ugomma-c-eze/</link>
     </image>
     
     <item>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
+      <link>https://example.com/publication/crouch-2022-fv/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/crouch-2022-fv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>https://example.com/publication/tropism-of-sars-cov-2-for-human-cortical-astrocytes/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/tropism-of-sars-cov-2-for-human-cortical-astrocytes/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <link>https://example.com/publication/andrews-2022-ty/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/andrews-2022-ty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An atlas of cortical arealization identifies dynamic molecular signatures</title>
+      <link>https://example.com/publication/bhaduri-2021-qf/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2021-qf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia</title>
+      <link>https://example.com/publication/eze-2021-aw/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/eze-2021-aw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes</title>
+      <link>https://example.com/publication/andrews-2021-xv/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/andrews-2021-xv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-type-specific 3D epigenomes in the developing human cortex</title>
+      <link>https://example.com/publication/song-2020-fz/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/song-2020-fz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
+      <link>https://example.com/publication/mayer-2019-tl/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mayer-2019-tl/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Suppes | Kriegstein Lab</title>
+    <link>https://example.com/author/t-suppes/</link>
+      <atom:link href="https://example.com/author/t-suppes/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Suppes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 1987 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>T Suppes</title>
+      <link>https://example.com/author/t-suppes/</link>
+    </image>
+    
+    <item>
+      <title>Cellular and synaptic physiology and epileptogenesis of developing rat neocortical neurons in vitro</title>
+      <link>https://example.com/publication/kriegstein-1987-jd/</link>
+      <pubDate>Sat, 01 Aug 1987 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1987-jd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of dopamine on epileptiform burst activity in hippocampal pyramidal neurons</title>
+      <link>https://example.com/publication/suppes-1985-pm/</link>
+      <pubDate>Fri, 01 Feb 1985 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/suppes-1985-pm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cholinergic enhancement of penicillin-induced epileptiform discharges in pyramidal neurons of the guinea pig hippocampus</title>
+      <link>https://example.com/publication/kriegstein-1983-pi/</link>
+      <pubDate>Fri, 01 Apr 1983 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kriegstein-1983-pi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

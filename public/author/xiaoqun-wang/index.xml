@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoqun Wang | Kriegstein Lab</title>
+    <link>https://example.com/author/xiaoqun-wang/</link>
+      <atom:link href="https://example.com/author/xiaoqun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoqun Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiaoqun Wang</title>
+      <link>https://example.com/author/xiaoqun-wang/</link>
+    </image>
+    
+    <item>
+      <title>Diverse behaviors of outer radial glia in developing ferret and human cortex</title>
+      <link>https://example.com/publication/gertz-2014-cx/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gertz-2014-cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of neuronal migration</title>
+      <link>https://example.com/publication/wu-2014-hb/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wu-2014-hb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSVZ progenitors in the human cortex: an updated perspective on neurodevelopmental disease</title>
+      <link>https://example.com/publication/la-monica-2012-py/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/la-monica-2012-py/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orienting fate: spatial regulation of neurogenic divisions</title>
+      <link>https://example.com/publication/wang-2011-lb/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang-2011-lb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new subtype of progenitor cell in the mouse embryonic neocortex</title>
+      <link>https://example.com/publication/wang-2011-tj/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang-2011-tj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ye Bai | Kriegstein Lab</title>
+    <link>https://example.com/author/ye-bai/</link>
+      <atom:link href="https://example.com/author/ye-bai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ye Bai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Ye Bai</title>
+      <link>https://example.com/author/ye-bai/</link>
+    </image>
+    
+    <item>
+      <title>The dynamics of neuronal migration</title>
+      <link>https://example.com/publication/wu-2014-hb/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wu-2014-hb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

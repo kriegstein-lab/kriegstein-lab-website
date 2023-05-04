@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David W Killilea | Kriegstein Lab</title>
+    <link>https://example.com/author/david-w-killilea/</link>
+      <atom:link href="https://example.com/author/david-w-killilea/index.xml" rel="self" type="application/rss+xml" />
+    <description>David W Killilea</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>David W Killilea</title>
+      <link>https://example.com/author/david-w-killilea/</link>
+    </image>
+    
+    <item>
+      <title>Oligodendrocyte Death in Pelizaeus-Merzbacher Disease Is Rescued by Iron Chelation</title>
+      <link>https://example.com/publication/nobuta-2019-ss/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nobuta-2019-ss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

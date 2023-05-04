@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sean Whalen | Kriegstein Lab</title>
+    <link>https://example.com/author/sean-whalen/</link>
+      <atom:link href="https://example.com/author/sean-whalen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sean Whalen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Sean Whalen</title>
+      <link>https://example.com/author/sean-whalen/</link>
+    </image>
+    
+    <item>
+      <title>A Chromatin Accessibility Atlas of the Developing Human Telencephalon</title>
+      <link>https://example.com/publication/markenscoff-papadimitriou-2020-bc/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/markenscoff-papadimitriou-2020-bc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

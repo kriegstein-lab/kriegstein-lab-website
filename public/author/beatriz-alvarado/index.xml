@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beatriz Alvarado | Kriegstein Lab</title>
+    <link>https://example.com/author/beatriz-alvarado/</link>
+      <atom:link href="https://example.com/author/beatriz-alvarado/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beatriz Alvarado</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Beatriz Alvarado</title>
+      <link>https://example.com/author/beatriz-alvarado/</link>
+    </image>
+    
+    <item>
+      <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma</title>
+      <link>https://example.com/publication/bhaduri-2020-pa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2020-pa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
+      <link>https://example.com/publication/pollen-2019-vm/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pollen-2019-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
+      <link>https://example.com/publication/mayer-2019-tl/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mayer-2019-tl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development</title>
+      <link>https://example.com/publication/nowakowski-2018-ma/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2018-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
+      <link>https://example.com/publication/muller-2017-zp/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/muller-2017-zp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
+      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
+      <link>https://example.com/publication/pollen-2014-ow/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pollen-2014-ow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fang Liu | Kriegstein Lab</title>
+    <link>https://example.com/author/fang-liu/</link>
+      <atom:link href="https://example.com/author/fang-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fang Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Fang Liu</title>
+      <link>https://example.com/author/fang-liu/</link>
+    </image>
+    
+    <item>
+      <title>Single-Cell Analyses Identify Brain Mural Cells Expressing CD19 as Potential Off-Tumor Targets for CAR-T Immunotherapies</title>
+      <link>https://example.com/publication/parker-2020-tr/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/parker-2020-tr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

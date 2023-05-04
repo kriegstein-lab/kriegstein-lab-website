@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomasz Jan Nowakowski | Kriegstein Lab</title>
+    <link>https://example.com/author/tomasz-jan-nowakowski/</link>
+      <atom:link href="https://example.com/author/tomasz-jan-nowakowski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tomasz Jan Nowakowski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Tomasz Jan Nowakowski</title>
+      <link>https://example.com/author/tomasz-jan-nowakowski/</link>
+    </image>
+    
+    <item>
+      <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma</title>
+      <link>https://example.com/publication/bhaduri-2020-pa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2020-pa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
+      <link>https://example.com/publication/ramos-2015-sa/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ramos-2015-sa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

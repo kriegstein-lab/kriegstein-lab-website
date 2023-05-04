@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Ngai | Kriegstein Lab</title>
+    <link>https://example.com/author/john-ngai/</link>
+      <atom:link href="https://example.com/author/john-ngai/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Ngai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>John Ngai</title>
+      <link>https://example.com/author/john-ngai/</link>
+    </image>
+    
+    <item>
+      <title>The BRAIN Initiative Cell Census Consortium: Lessons Learned toward Generating a Comprehensive Brain Cell Atlas</title>
+      <link>https://example.com/publication/ecker-2017-pt/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ecker-2017-pt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

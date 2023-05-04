@@ -5,25 +5,35 @@
     <link>https://example.com/author/joseph-l-derisi/</link>
       <atom:link href="https://example.com/author/joseph-l-derisi/index.xml" rel="self" type="application/rss+xml" />
     <description>Joseph L DeRisi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
       <title>Joseph L DeRisi</title>
       <link>https://example.com/author/joseph-l-derisi/</link>
     </image>
     
     <item>
       <title>Zika virus alters centrosome organization to suppress the innate immune response</title>
-      <link>https://example.com/publication/zika-virus-alters-centrosome-organization-to-suppress-the-innate-immune-response/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zika-virus-alters-centrosome-organization-to-suppress-the-innate-immune-response/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <link>https://example.com/publication/kodani-2022-lj/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kodani-2022-lj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroglial stem cell-derived inflammatory pseudotumor (n-SCIPT): clinicopathologic characterization of a novel lesion of the lumbosacral spinal cord and nerve roots following intrathecal allogeneic stem cell intervention</title>
+      <link>https://example.com/publication/sloan-2019-bo/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sloan-2019-bo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
+      <link>https://example.com/publication/retallack-2016-pw/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/retallack-2016-pw/</guid>
+      <description></description>
     </item>
     
   </channel>

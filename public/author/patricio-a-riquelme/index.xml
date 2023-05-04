@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patricio A Riquelme | Kriegstein Lab</title>
+    <link>https://example.com/author/patricio-a-riquelme/</link>
+      <atom:link href="https://example.com/author/patricio-a-riquelme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patricio A Riquelme</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Patricio A Riquelme</title>
+      <link>https://example.com/author/patricio-a-riquelme/</link>
+    </image>
+    
+    <item>
+      <title>Calcium waves propagate through radial glial cells and modulate proliferation in the developing neocortex</title>
+      <link>https://example.com/publication/weissman-2004-ov/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/weissman-2004-ov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

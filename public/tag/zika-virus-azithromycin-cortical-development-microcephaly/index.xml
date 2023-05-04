@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zika virus; azithromycin; cortical development; microcephaly | Kriegstein Lab</title>
+    <link>https://example.com/tag/zika-virus-azithromycin-cortical-development-microcephaly/</link>
+      <atom:link href="https://example.com/tag/zika-virus-azithromycin-cortical-development-microcephaly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zika virus; azithromycin; cortical development; microcephaly</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Zika virus; azithromycin; cortical development; microcephaly</title>
+      <link>https://example.com/tag/zika-virus-azithromycin-cortical-development-microcephaly/</link>
+    </image>
+    
+    <item>
+      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
+      <link>https://example.com/publication/retallack-2016-pw/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/retallack-2016-pw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

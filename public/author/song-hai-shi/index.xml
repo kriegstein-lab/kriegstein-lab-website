@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Song-Hai Shi | Kriegstein Lab</title>
+    <link>https://example.com/author/song-hai-shi/</link>
+      <atom:link href="https://example.com/author/song-hai-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Song-Hai Shi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Song-Hai Shi</title>
+      <link>https://example.com/author/song-hai-shi/</link>
+    </image>
+    
+    <item>
+      <title>Regulation of microtubule stability and organization by mammalian Par3 in specifying neuronal polarity</title>
+      <link>https://example.com/publication/chen-2012-yi/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chen-2012-yi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mammalian Par3 regulates progenitor cell asymmetric division via notch signaling in the developing neocortex</title>
+      <link>https://example.com/publication/bultje-2009-tx/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bultje-2009-tx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

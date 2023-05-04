@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei-Nan Lian | Kriegstein Lab</title>
+    <link>https://example.com/author/wei-nan-lian/</link>
+      <atom:link href="https://example.com/author/wei-nan-lian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei-Nan Lian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Wei-Nan Lian</title>
+      <link>https://example.com/author/wei-nan-lian/</link>
+    </image>
+    
+    <item>
+      <title>Kinesin 3 and cytoplasmic dynein mediate interkinetic nuclear migration in neural stem cells</title>
+      <link>https://example.com/publication/tsai-2010-jd/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tsai-2010-jd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

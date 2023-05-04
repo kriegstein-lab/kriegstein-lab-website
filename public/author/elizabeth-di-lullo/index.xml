@@ -5,25 +5,91 @@
     <link>https://example.com/author/elizabeth-di-lullo/</link>
       <atom:link href="https://example.com/author/elizabeth-di-lullo/index.xml" rel="self" type="application/rss+xml" />
     <description>Elizabeth Di Lullo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
       <title>Elizabeth Di Lullo</title>
       <link>https://example.com/author/elizabeth-di-lullo/</link>
     </image>
     
     <item>
       <title>Zika virus alters centrosome organization to suppress the innate immune response</title>
-      <link>https://example.com/publication/zika-virus-alters-centrosome-organization-to-suppress-the-innate-immune-response/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zika-virus-alters-centrosome-organization-to-suppress-the-innate-immune-response/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <link>https://example.com/publication/kodani-2022-lj/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kodani-2022-lj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma</title>
+      <link>https://example.com/publication/bhaduri-2020-pa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2020-pa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
+      <link>https://example.com/publication/pollen-2019-vm/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pollen-2019-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
+      <link>https://example.com/publication/muller-2017-zp/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/muller-2017-zp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
+      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The use of brain organoids to investigate neural development and disease</title>
+      <link>https://example.com/publication/di-lullo-2017-mb/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/di-lullo-2017-mb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia</title>
+      <link>https://example.com/publication/bershteyn-2017-ib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bershteyn-2017-ib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
+      <link>https://example.com/publication/muller-2016-mp/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/muller-2016-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
+      <link>https://example.com/publication/retallack-2016-pw/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/retallack-2016-pw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells</title>
+      <link>https://example.com/publication/nowakowski-2016-qh/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nowakowski-2016-qh/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Moriano | Kriegstein Lab</title>
+    <link>https://example.com/author/juan-moriano/</link>
+      <atom:link href="https://example.com/author/juan-moriano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Moriano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/juan-moriano/avatar_hu8f72ac7d98e333ff175375838416c6aa_21165_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Juan Moriano</title>
+      <link>https://example.com/author/juan-moriano/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David V Hansen | Kriegstein Lab</title>
+    <link>https://example.com/author/david-v-hansen/</link>
+      <atom:link href="https://example.com/author/david-v-hansen/index.xml" rel="self" type="application/rss+xml" />
+    <description>David V Hansen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>David V Hansen</title>
+      <link>https://example.com/author/david-v-hansen/</link>
+    </image>
+    
+    <item>
+      <title>Non-epithelial stem cells and cortical interneuron production in the human ganglionic eminences</title>
+      <link>https://example.com/publication/hansen-2013-zg/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hansen-2013-zg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high-resolution enhancer atlas of the developing telencephalon</title>
+      <link>https://example.com/publication/visel-2013-hi/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/visel-2013-hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitotic spindle orientation predicts outer radial glial cell generation in human neocortex</title>
+      <link>https://example.com/publication/la-monica-2013-el/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/la-monica-2013-el/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and evolution of the human neocortex</title>
+      <link>https://example.com/publication/lui-2011-tn/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lui-2011-tn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving excitatory neurons of the neocortex from pluripotent stem cells</title>
+      <link>https://example.com/publication/hansen-2011-ce/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hansen-2011-ce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurogenic radial glia in the outer subventricular zone of human neocortex</title>
+      <link>https://example.com/publication/hansen-2010-pi/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hansen-2010-pi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

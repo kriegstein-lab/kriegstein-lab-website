@@ -5,25 +5,43 @@
     <link>https://example.com/author/jahan-salma/</link>
       <atom:link href="https://example.com/author/jahan-salma/index.xml" rel="self" type="application/rss+xml" />
     <description>Jahan Salma</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
       <title>Jahan Salma</title>
       <link>https://example.com/author/jahan-salma/</link>
     </image>
     
     <item>
+      <title>How mechanisms of stem cell polarity shape the human cerebral cortex</title>
+      <link>https://example.com/publication/andrews-2022-uu/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/andrews-2022-uu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>https://example.com/publication/tropism-of-sars-cov-2-for-human-cortical-astrocytes/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/tropism-of-sars-cov-2-for-human-cortical-astrocytes/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <link>https://example.com/publication/andrews-2022-ty/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/andrews-2022-ty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes</title>
+      <link>https://example.com/publication/andrews-2021-xv/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/andrews-2021-xv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell stress in cortical organoids impairs molecular subtype specification</title>
+      <link>https://example.com/publication/bhaduri-2020-as/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bhaduri-2020-as/</guid>
+      <description></description>
     </item>
     
   </channel>

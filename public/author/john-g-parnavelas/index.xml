@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John G Parnavelas | Kriegstein Lab</title>
+    <link>https://example.com/author/john-g-parnavelas/</link>
+      <atom:link href="https://example.com/author/john-g-parnavelas/index.xml" rel="self" type="application/rss+xml" />
+    <description>John G Parnavelas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>John G Parnavelas</title>
+      <link>https://example.com/author/john-g-parnavelas/</link>
+    </image>
+    
+    <item>
+      <title>Connexin 43 mediates the tangential to radial migratory switch in ventrally derived cortical interneurons</title>
+      <link>https://example.com/publication/elias-2010-st/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/elias-2010-st/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

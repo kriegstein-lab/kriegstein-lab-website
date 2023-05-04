@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James E Goldman | Kriegstein Lab</title>
+    <link>https://example.com/author/james-e-goldman/</link>
+      <atom:link href="https://example.com/author/james-e-goldman/index.xml" rel="self" type="application/rss+xml" />
+    <description>James E Goldman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>James E Goldman</title>
+      <link>https://example.com/author/james-e-goldman/</link>
+    </image>
+    
+    <item>
+      <title>Progenitors from the postnatal forebrain subventricular zone differentiate into cerebellar-like interneurons and cerebellar-specific astrocytes upon transplantation</title>
+      <link>https://example.com/publication/milosevic-2008-if/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/milosevic-2008-if/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

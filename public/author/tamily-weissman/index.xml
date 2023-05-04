@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tamily Weissman | Kriegstein Lab</title>
+    <link>https://example.com/author/tamily-weissman/</link>
+      <atom:link href="https://example.com/author/tamily-weissman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tamily Weissman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Tamily Weissman</title>
+      <link>https://example.com/author/tamily-weissman/</link>
+    </image>
+    
+    <item>
+      <title>Neurogenic radial glial cells in reptile, rodent and human: from mitosis to migration</title>
+      <link>https://example.com/publication/weissman-2003-hg/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/weissman-2003-hg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

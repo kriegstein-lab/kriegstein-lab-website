@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yehezkel Ben-Ari | Kriegstein Lab</title>
+    <link>https://example.com/author/yehezkel-ben-ari/</link>
+      <atom:link href="https://example.com/author/yehezkel-ben-ari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yehezkel Ben-Ari</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Yehezkel Ben-Ari</title>
+      <link>https://example.com/author/yehezkel-ben-ari/</link>
+    </image>
+    
+    <item>
+      <title>GABA regulates stem cell proliferation before nervous system formation</title>
+      <link>https://example.com/publication/wang-2008-wf/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang-2008-wf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

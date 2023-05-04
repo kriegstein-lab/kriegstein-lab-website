@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bridget E LaMonica | Kriegstein Lab</title>
+    <link>https://example.com/author/bridget-e-lamonica/</link>
+      <atom:link href="https://example.com/author/bridget-e-lamonica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bridget E LaMonica</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <title>Bridget E LaMonica</title>
+      <link>https://example.com/author/bridget-e-lamonica/</link>
+    </image>
+    
+    <item>
+      <title>Diverse behaviors of outer radial glia in developing ferret and human cortex</title>
+      <link>https://example.com/publication/gertz-2014-cx/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gertz-2014-cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitotic spindle orientation predicts outer radial glial cell generation in human neocortex</title>
+      <link>https://example.com/publication/la-monica-2013-el/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/la-monica-2013-el/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSVZ progenitors in the human cortex: an updated perspective on neurodevelopmental disease</title>
+      <link>https://example.com/publication/la-monica-2012-py/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/la-monica-2012-py/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
