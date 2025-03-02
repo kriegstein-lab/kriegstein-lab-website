@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lakshmi Subramanian | Kriegstein Lab</title>
-    <link>https://example.com/author/lakshmi-subramanian/</link>
-      <atom:link href="https://example.com/author/lakshmi-subramanian/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lakshmi-subramanian/</link>
+      <atom:link href="http://localhost:1313/author/lakshmi-subramanian/index.xml" rel="self" type="application/rss+xml" />
     <description>Lakshmi Subramanian</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Lakshmi Subramanian</title>
-      <link>https://example.com/author/lakshmi-subramanian/</link>
+      <link>http://localhost:1313/author/lakshmi-subramanian/</link>
     </image>
     
     <item>
       <title>How mechanisms of stem cell polarity shape the human cerebral cortex</title>
-      <link>https://example.com/publication/andrews-2022-uu/</link>
+      <link>http://localhost:1313/publication/andrews-2022-uu/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/andrews-2022-uu/</guid>
+      <guid>http://localhost:1313/publication/andrews-2022-uu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex</title>
-      <link>https://example.com/publication/andrews-2020-nm/</link>
+      <link>http://localhost:1313/publication/andrews-2020-nm/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/andrews-2020-nm/</guid>
+      <guid>http://localhost:1313/publication/andrews-2020-nm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic behaviour of human neuroepithelial cells in the developing forebrain</title>
-      <link>https://example.com/publication/subramanian-2017-ff/</link>
+      <link>http://localhost:1313/publication/subramanian-2017-ff/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/subramanian-2017-ff/</guid>
+      <guid>http://localhost:1313/publication/subramanian-2017-ff/</guid>
       <description></description>
     </item>
     

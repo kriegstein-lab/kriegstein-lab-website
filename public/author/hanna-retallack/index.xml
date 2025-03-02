@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanna Retallack | Kriegstein Lab</title>
-    <link>https://example.com/author/hanna-retallack/</link>
-      <atom:link href="https://example.com/author/hanna-retallack/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/hanna-retallack/</link>
+      <atom:link href="http://localhost:1313/author/hanna-retallack/index.xml" rel="self" type="application/rss+xml" />
     <description>Hanna Retallack</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Hanna Retallack</title>
-      <link>https://example.com/author/hanna-retallack/</link>
+      <link>http://localhost:1313/author/hanna-retallack/</link>
     </image>
     
     <item>
       <title>Zika virus alters centrosome organization to suppress the innate immune response</title>
-      <link>https://example.com/publication/kodani-2022-lj/</link>
+      <link>http://localhost:1313/publication/kodani-2022-lj/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kodani-2022-lj/</guid>
+      <guid>http://localhost:1313/publication/kodani-2022-lj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
-      <link>https://example.com/publication/retallack-2016-pw/</link>
+      <link>http://localhost:1313/publication/retallack-2016-pw/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/retallack-2016-pw/</guid>
+      <guid>http://localhost:1313/publication/retallack-2016-pw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>https://example.com/publication/pollen-2015-mc/</link>
+      <link>http://localhost:1313/publication/pollen-2015-mc/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2015-mc/</guid>
+      <guid>http://localhost:1313/publication/pollen-2015-mc/</guid>
       <description></description>
     </item>
     

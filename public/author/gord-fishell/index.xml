@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gord Fishell | Kriegstein Lab</title>
-    <link>https://example.com/author/gord-fishell/</link>
-      <atom:link href="https://example.com/author/gord-fishell/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/gord-fishell/</link>
+      <atom:link href="http://localhost:1313/author/gord-fishell/index.xml" rel="self" type="application/rss+xml" />
     <description>Gord Fishell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2003 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Gord Fishell</title>
-      <link>https://example.com/author/gord-fishell/</link>
+      <link>http://localhost:1313/author/gord-fishell/</link>
     </image>
     
     <item>
       <title>Neurons from radial glia: the consequences of asymmetric inheritance</title>
-      <link>https://example.com/publication/fishell-2003-nr/</link>
+      <link>http://localhost:1313/publication/fishell-2003-nr/</link>
       <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fishell-2003-nr/</guid>
+      <guid>http://localhost:1313/publication/fishell-2003-nr/</guid>
       <description></description>
     </item>
     

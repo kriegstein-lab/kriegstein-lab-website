@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ASD genes; Amygdala; Autism spectrum disorder; Brain development; Single nucleus RNA sequencing | Kriegstein Lab</title>
-    <link>https://example.com/tag/asd-genes-amygdala-autism-spectrum-disorder-brain-development-single-nucleus-rna-sequencing/</link>
-      <atom:link href="https://example.com/tag/asd-genes-amygdala-autism-spectrum-disorder-brain-development-single-nucleus-rna-sequencing/index.xml" rel="self" type="application/rss+xml" />
-    <description>ASD genes; Amygdala; Autism spectrum disorder; Brain development; Single nucleus RNA sequencing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <title>ASD Genes; Amygdala; Autism Spectrum Disorder; Brain Development; Single Nucleus RNA Sequencing | Kriegstein Lab</title>
+    <link>http://localhost:1313/tag/asd-genes-amygdala-autism-spectrum-disorder-brain-development-single-nucleus-rna-sequencing/</link>
+      <atom:link href="http://localhost:1313/tag/asd-genes-amygdala-autism-spectrum-disorder-brain-development-single-nucleus-rna-sequencing/index.xml" rel="self" type="application/rss+xml" />
+    <description>ASD Genes; Amygdala; Autism Spectrum Disorder; Brain Development; Single Nucleus RNA Sequencing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>ASD genes; Amygdala; Autism spectrum disorder; Brain development; Single nucleus RNA sequencing</title>
-      <link>https://example.com/tag/asd-genes-amygdala-autism-spectrum-disorder-brain-development-single-nucleus-rna-sequencing/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>ASD Genes; Amygdala; Autism Spectrum Disorder; Brain Development; Single Nucleus RNA Sequencing</title>
+      <link>http://localhost:1313/tag/asd-genes-amygdala-autism-spectrum-disorder-brain-development-single-nucleus-rna-sequencing/</link>
     </image>
     
     <item>
       <title>Identification of amygdala-expressed genes associated with autism spectrum disorder</title>
-      <link>https://example.com/publication/herrero-2020-vo/</link>
+      <link>http://localhost:1313/publication/herrero-2020-vo/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/herrero-2020-vo/</guid>
+      <guid>http://localhost:1313/publication/herrero-2020-vo/</guid>
       <description></description>
     </item>
     

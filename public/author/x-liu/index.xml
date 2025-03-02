@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>X Liu | Kriegstein Lab</title>
-    <link>https://example.com/author/x-liu/</link>
-      <atom:link href="https://example.com/author/x-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/x-liu/</link>
+      <atom:link href="http://localhost:1313/author/x-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>X Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 1999 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 1999 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>X Liu</title>
-      <link>https://example.com/author/x-liu/</link>
+      <link>http://localhost:1313/author/x-liu/</link>
     </image>
     
     <item>
       <title>Changing properties of GABA(A) receptor-mediated signaling during early neocortical development</title>
-      <link>https://example.com/publication/owens-1999-bd/</link>
+      <link>http://localhost:1313/publication/owens-1999-bd/</link>
       <pubDate>Sun, 01 Aug 1999 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/owens-1999-bd/</guid>
+      <guid>http://localhost:1313/publication/owens-1999-bd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonsynaptic glycine receptor activation during early neocortical development</title>
-      <link>https://example.com/publication/flint-1998-np/</link>
+      <link>http://localhost:1313/publication/flint-1998-np/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/flint-1998-np/</guid>
+      <guid>http://localhost:1313/publication/flint-1998-np/</guid>
       <description></description>
     </item>
     

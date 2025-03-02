@@ -62,6 +62,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Students
+  - 
 ---
 I am a visiting grad student in the Kriegstein lab as part of my master’s program in Heidelberg, Germany. Starting my master’s I focused mainly on neuroscience, especially neurodevelopmental disorders. Part of my last project was to investigate the effect of specific mutations appearing in Autism Spectrum Disorder on synaptic mechanisms. Therefore, I worked with stem cells, induced neurons and got routine in electrophysiological methods, calcium imaging, and confocal microscopy. Now here at UCSF, I am using organoids as main model to investigate brain development as well as neurodevelopmental disorders.

@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan Moriano | Kriegstein Lab</title>
-    <link>https://example.com/author/juan-moriano/</link>
-      <atom:link href="https://example.com/author/juan-moriano/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/juan-moriano/</link>
+      <atom:link href="http://localhost:1313/author/juan-moriano/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Moriano</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/juan-moriano/avatar_hu8f72ac7d98e333ff175375838416c6aa_21165_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/juan-moriano/avatar_hu_85da3e4078497e08.jpg</url>
       <title>Juan Moriano</title>
-      <link>https://example.com/author/juan-moriano/</link>
+      <link>http://localhost:1313/author/juan-moriano/</link>
     </image>
+    
+    <item>
+      <title>Juan Moriano</title>
+      <link>http://localhost:1313/author/juan-moriano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/juan-moriano/</guid>
+      <description>&lt;p&gt;Juan is a PhD candidate from the University of Barcelona and is currently doing a research visit at our laboratory to study primate brain evolution and neocortical development using single-cell and spatial transcriptomics. His PhD thesis focuses on the investigation of the molecular mechanisms governing indirect neurogenesis during human corticogenesis, and how the regulation of such mechanisms has been modified over the course of human evolution.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

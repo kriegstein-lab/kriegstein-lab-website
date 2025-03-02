@@ -44,7 +44,7 @@ social:
     link: 'mailto:guolong.zuo@ucsf.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Egginstein
+    link: https://twitter.com/Guolong_Zuo
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=XgSCIbwAAAAJ

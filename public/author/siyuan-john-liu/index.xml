@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siyuan John Liu | Kriegstein Lab</title>
-    <link>https://example.com/author/siyuan-john-liu/</link>
-      <atom:link href="https://example.com/author/siyuan-john-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/siyuan-john-liu/</link>
+      <atom:link href="http://localhost:1313/author/siyuan-john-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Siyuan John Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Siyuan John Liu</title>
-      <link>https://example.com/author/siyuan-john-liu/</link>
+      <link>http://localhost:1313/author/siyuan-john-liu/</link>
     </image>
     
     <item>
       <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma</title>
-      <link>https://example.com/publication/bhaduri-2020-pa/</link>
+      <link>http://localhost:1313/publication/bhaduri-2020-pa/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bhaduri-2020-pa/</guid>
+      <guid>http://localhost:1313/publication/bhaduri-2020-pa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <link>http://localhost:1313/publication/nowakowski-2017-et/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <guid>http://localhost:1313/publication/nowakowski-2017-et/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
-      <link>https://example.com/publication/muller-2016-mp/</link>
+      <link>http://localhost:1313/publication/muller-2016-mp/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/muller-2016-mp/</guid>
+      <guid>http://localhost:1313/publication/muller-2016-mp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell analysis of long non-coding RNAs in the developing human neocortex</title>
-      <link>https://example.com/publication/liu-2016-tx/</link>
+      <link>http://localhost:1313/publication/liu-2016-tx/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/liu-2016-tx/</guid>
+      <guid>http://localhost:1313/publication/liu-2016-tx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>https://example.com/publication/pollen-2015-mc/</link>
+      <link>http://localhost:1313/publication/pollen-2015-mc/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2015-mc/</guid>
+      <guid>http://localhost:1313/publication/pollen-2015-mc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
-      <link>https://example.com/publication/ramos-2015-sa/</link>
+      <link>http://localhost:1313/publication/ramos-2015-sa/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ramos-2015-sa/</guid>
+      <guid>http://localhost:1313/publication/ramos-2015-sa/</guid>
       <description></description>
     </item>
     

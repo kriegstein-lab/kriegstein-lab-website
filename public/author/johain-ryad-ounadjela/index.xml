@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Johain Ryad Ounadjela | Kriegstein Lab</title>
-    <link>https://example.com/author/johain-ryad-ounadjela/</link>
-      <atom:link href="https://example.com/author/johain-ryad-ounadjela/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/johain-ryad-ounadjela/</link>
+      <atom:link href="http://localhost:1313/author/johain-ryad-ounadjela/index.xml" rel="self" type="application/rss+xml" />
     <description>Johain Ryad Ounadjela</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Johain Ryad Ounadjela</title>
-      <link>https://example.com/author/johain-ryad-ounadjela/</link>
+      <link>http://localhost:1313/author/johain-ryad-ounadjela/</link>
     </image>
     
     <item>
       <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <link>http://localhost:1313/publication/nowakowski-2017-et/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <guid>http://localhost:1313/publication/nowakowski-2017-et/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abha R Gupta | Kriegstein Lab</title>
-    <link>https://example.com/author/abha-r-gupta/</link>
-      <atom:link href="https://example.com/author/abha-r-gupta/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/abha-r-gupta/</link>
+      <atom:link href="http://localhost:1313/author/abha-r-gupta/index.xml" rel="self" type="application/rss+xml" />
     <description>Abha R Gupta</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Abha R Gupta</title>
-      <link>https://example.com/author/abha-r-gupta/</link>
+      <link>http://localhost:1313/author/abha-r-gupta/</link>
     </image>
     
     <item>
       <title>Identification of amygdala-expressed genes associated with autism spectrum disorder</title>
-      <link>https://example.com/publication/herrero-2020-vo/</link>
+      <link>http://localhost:1313/publication/herrero-2020-vo/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/herrero-2020-vo/</guid>
+      <guid>http://localhost:1313/publication/herrero-2020-vo/</guid>
       <description></description>
     </item>
     

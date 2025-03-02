@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tamily A Weissman | Kriegstein Lab</title>
-    <link>https://example.com/author/tamily-a-weissman/</link>
-      <atom:link href="https://example.com/author/tamily-a-weissman/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tamily A Weissman</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
+    <title>Tamily a Weissman | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/tamily-a-weissman/</link>
+      <atom:link href="http://localhost:1313/author/tamily-a-weissman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tamily a Weissman</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>Tamily A Weissman</title>
-      <link>https://example.com/author/tamily-a-weissman/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Tamily a Weissman</title>
+      <link>http://localhost:1313/author/tamily-a-weissman/</link>
     </image>
     
     <item>
       <title>Calcium waves propagate through radial glial cells and modulate proliferation in the developing neocortex</title>
-      <link>https://example.com/publication/weissman-2004-ov/</link>
+      <link>http://localhost:1313/publication/weissman-2004-ov/</link>
       <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/weissman-2004-ov/</guid>
+      <guid>http://localhost:1313/publication/weissman-2004-ov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dividing precursor cells of the embryonic cortical ventricular zone have morphological and molecular characteristics of radial glia</title>
-      <link>https://example.com/publication/noctor-2002-kh/</link>
+      <link>http://localhost:1313/publication/noctor-2002-kh/</link>
       <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/noctor-2002-kh/</guid>
+      <guid>http://localhost:1313/publication/noctor-2002-kh/</guid>
       <description></description>
     </item>
     

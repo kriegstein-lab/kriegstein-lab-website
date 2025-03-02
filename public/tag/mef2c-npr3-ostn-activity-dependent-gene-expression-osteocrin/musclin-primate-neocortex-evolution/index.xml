@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MEF2C; NPR3; OSTN; activity-dependent gene expression; osteocrin/musclin; primate neocortex evolution | Kriegstein Lab</title>
-    <link>https://example.com/tag/mef2c-npr3-ostn-activity-dependent-gene-expression-osteocrin/musclin-primate-neocortex-evolution/</link>
-      <atom:link href="https://example.com/tag/mef2c-npr3-ostn-activity-dependent-gene-expression-osteocrin/musclin-primate-neocortex-evolution/index.xml" rel="self" type="application/rss+xml" />
-    <description>MEF2C; NPR3; OSTN; activity-dependent gene expression; osteocrin/musclin; primate neocortex evolution</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <title>MEF2C; NPR3; OSTN; Activity-Dependent Gene Expression; Osteocrin/Musclin; Primate Neocortex Evolution | Kriegstein Lab</title>
+    <link>http://localhost:1313/tag/mef2c-npr3-ostn-activity-dependent-gene-expression-osteocrin/musclin-primate-neocortex-evolution/</link>
+      <atom:link href="http://localhost:1313/tag/mef2c-npr3-ostn-activity-dependent-gene-expression-osteocrin/musclin-primate-neocortex-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <description>MEF2C; NPR3; OSTN; Activity-Dependent Gene Expression; Osteocrin/Musclin; Primate Neocortex Evolution</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>MEF2C; NPR3; OSTN; activity-dependent gene expression; osteocrin/musclin; primate neocortex evolution</title>
-      <link>https://example.com/tag/mef2c-npr3-ostn-activity-dependent-gene-expression-osteocrin/musclin-primate-neocortex-evolution/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>MEF2C; NPR3; OSTN; Activity-Dependent Gene Expression; Osteocrin/Musclin; Primate Neocortex Evolution</title>
+      <link>http://localhost:1313/tag/mef2c-npr3-ostn-activity-dependent-gene-expression-osteocrin/musclin-primate-neocortex-evolution/</link>
     </image>
     
     <item>
       <title>Primate Neurons Flex Their Musclin</title>
-      <link>https://example.com/publication/pollen-2016-qj/</link>
+      <link>http://localhost:1313/publication/pollen-2016-qj/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2016-qj/</guid>
+      <guid>http://localhost:1313/publication/pollen-2016-qj/</guid>
       <description></description>
     </item>
     

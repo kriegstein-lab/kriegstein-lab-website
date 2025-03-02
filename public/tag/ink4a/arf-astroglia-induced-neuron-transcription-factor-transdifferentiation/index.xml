@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ink4a/Arf; astroglia; induced neuron; transcription factor; transdifferentiation | Kriegstein Lab</title>
-    <link>https://example.com/tag/ink4a/arf-astroglia-induced-neuron-transcription-factor-transdifferentiation/</link>
-      <atom:link href="https://example.com/tag/ink4a/arf-astroglia-induced-neuron-transcription-factor-transdifferentiation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ink4a/Arf; astroglia; induced neuron; transcription factor; transdifferentiation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <title>Ink4a/Arf; Astroglia; Induced Neuron; Transcription Factor; Transdifferentiation | Kriegstein Lab</title>
+    <link>http://localhost:1313/tag/ink4a/arf-astroglia-induced-neuron-transcription-factor-transdifferentiation/</link>
+      <atom:link href="http://localhost:1313/tag/ink4a/arf-astroglia-induced-neuron-transcription-factor-transdifferentiation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ink4a/Arf; Astroglia; Induced Neuron; Transcription Factor; Transdifferentiation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>Ink4a/Arf; astroglia; induced neuron; transcription factor; transdifferentiation</title>
-      <link>https://example.com/tag/ink4a/arf-astroglia-induced-neuron-transcription-factor-transdifferentiation/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Ink4a/Arf; Astroglia; Induced Neuron; Transcription Factor; Transdifferentiation</title>
+      <link>http://localhost:1313/tag/ink4a/arf-astroglia-induced-neuron-transcription-factor-transdifferentiation/</link>
     </image>
     
     <item>
       <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
-      <link>https://example.com/publication/price-2014-lp/</link>
+      <link>http://localhost:1313/publication/price-2014-lp/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/price-2014-lp/</guid>
+      <guid>http://localhost:1313/publication/price-2014-lp/</guid>
       <description></description>
     </item>
     

@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan H Lui | Kriegstein Lab</title>
-    <link>https://example.com/author/jan-h-lui/</link>
-      <atom:link href="https://example.com/author/jan-h-lui/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jan-h-lui/</link>
+      <atom:link href="http://localhost:1313/author/jan-h-lui/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan H Lui</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Jan H Lui</title>
-      <link>https://example.com/author/jan-h-lui/</link>
+      <link>http://localhost:1313/author/jan-h-lui/</link>
     </image>
     
     <item>
       <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
-      <link>https://example.com/publication/raju-2018-db/</link>
+      <link>http://localhost:1313/publication/raju-2018-db/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/raju-2018-db/</guid>
+      <guid>http://localhost:1313/publication/raju-2018-db/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell analysis of long non-coding RNAs in the developing human neocortex</title>
-      <link>https://example.com/publication/liu-2016-tx/</link>
+      <link>http://localhost:1313/publication/liu-2016-tx/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/liu-2016-tx/</guid>
+      <guid>http://localhost:1313/publication/liu-2016-tx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radial glia require PDGFD-PDGFR$β$ signalling in human but not mouse neocortex</title>
-      <link>https://example.com/publication/lui-2014-qa/</link>
+      <link>http://localhost:1313/publication/lui-2014-qa/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lui-2014-qa/</guid>
+      <guid>http://localhost:1313/publication/lui-2014-qa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
-      <link>https://example.com/publication/pollen-2014-ow/</link>
+      <link>http://localhost:1313/publication/pollen-2014-ow/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2014-ow/</guid>
+      <guid>http://localhost:1313/publication/pollen-2014-ow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control of outer radial glial stem cell mitosis in the human brain</title>
-      <link>https://example.com/publication/ostrem-2014-ds/</link>
+      <link>http://localhost:1313/publication/ostrem-2014-ds/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ostrem-2014-ds/</guid>
+      <guid>http://localhost:1313/publication/ostrem-2014-ds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diverse behaviors of outer radial glia in developing ferret and human cortex</title>
-      <link>https://example.com/publication/gertz-2014-cx/</link>
+      <link>http://localhost:1313/publication/gertz-2014-cx/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gertz-2014-cx/</guid>
+      <guid>http://localhost:1313/publication/gertz-2014-cx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-epithelial stem cells and cortical interneuron production in the human ganglionic eminences</title>
-      <link>https://example.com/publication/hansen-2013-zg/</link>
+      <link>http://localhost:1313/publication/hansen-2013-zg/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hansen-2013-zg/</guid>
+      <guid>http://localhost:1313/publication/hansen-2013-zg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mitotic spindle orientation predicts outer radial glial cell generation in human neocortex</title>
-      <link>https://example.com/publication/la-monica-2013-el/</link>
+      <link>http://localhost:1313/publication/la-monica-2013-el/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/la-monica-2013-el/</guid>
+      <guid>http://localhost:1313/publication/la-monica-2013-el/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OSVZ progenitors in the human cortex: an updated perspective on neurodevelopmental disease</title>
-      <link>https://example.com/publication/la-monica-2012-py/</link>
+      <link>http://localhost:1313/publication/la-monica-2012-py/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/la-monica-2012-py/</guid>
+      <guid>http://localhost:1313/publication/la-monica-2012-py/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orienting fate: spatial regulation of neurogenic divisions</title>
-      <link>https://example.com/publication/wang-2011-lb/</link>
+      <link>http://localhost:1313/publication/wang-2011-lb/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/wang-2011-lb/</guid>
+      <guid>http://localhost:1313/publication/wang-2011-lb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and evolution of the human neocortex</title>
-      <link>https://example.com/publication/lui-2011-tn/</link>
+      <link>http://localhost:1313/publication/lui-2011-tn/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lui-2011-tn/</guid>
+      <guid>http://localhost:1313/publication/lui-2011-tn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurogenic radial glia in the outer subventricular zone of human neocortex</title>
-      <link>https://example.com/publication/hansen-2010-pi/</link>
+      <link>http://localhost:1313/publication/hansen-2010-pi/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hansen-2010-pi/</guid>
+      <guid>http://localhost:1313/publication/hansen-2010-pi/</guid>
       <description></description>
     </item>
     

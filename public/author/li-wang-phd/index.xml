@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Wang, PhD | Kriegstein Lab</title>
-    <link>https://example.com/author/li-wang-phd/</link>
-      <atom:link href="https://example.com/author/li-wang-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/li-wang-phd/</link>
+      <atom:link href="http://localhost:1313/author/li-wang-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Wang, PhD</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/li-wang-phd/avatar_hue277cf2bb92e9bf89a89c55204873bdc_292392_270x270_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/author/li-wang-phd/avatar_hu_576e086bbe0a034b.png</url>
       <title>Li Wang, PhD</title>
-      <link>https://example.com/author/li-wang-phd/</link>
+      <link>http://localhost:1313/author/li-wang-phd/</link>
     </image>
+    
+    <item>
+      <title>Li Wang, PhD</title>
+      <link>http://localhost:1313/author/li-wang-phd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/li-wang-phd/</guid>
+      <description>&lt;p&gt;I am interested in applying omics approaches to study human brain development and neural circuit formation, with a focus on cell-type specificity. In my spare time, I enjoy watching movies, documentaries, and traveling.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

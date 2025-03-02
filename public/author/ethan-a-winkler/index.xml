@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ethan A Winkler | Kriegstein Lab</title>
-    <link>https://example.com/author/ethan-a-winkler/</link>
-      <atom:link href="https://example.com/author/ethan-a-winkler/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ethan A Winkler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <title>Ethan a Winkler | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/ethan-a-winkler/</link>
+      <atom:link href="http://localhost:1313/author/ethan-a-winkler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ethan a Winkler</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>Ethan A Winkler</title>
-      <link>https://example.com/author/ethan-a-winkler/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Ethan a Winkler</title>
+      <link>http://localhost:1313/author/ethan-a-winkler/</link>
     </image>
     
     <item>
       <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>https://example.com/publication/andrews-2022-ty/</link>
+      <link>http://localhost:1313/publication/andrews-2022-ty/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/andrews-2022-ty/</guid>
+      <guid>http://localhost:1313/publication/andrews-2022-ty/</guid>
       <description></description>
     </item>
     

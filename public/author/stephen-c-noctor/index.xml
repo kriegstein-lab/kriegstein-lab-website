@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen C Noctor | Kriegstein Lab</title>
-    <link>https://example.com/author/stephen-c-noctor/</link>
-      <atom:link href="https://example.com/author/stephen-c-noctor/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/stephen-c-noctor/</link>
+      <atom:link href="http://localhost:1313/author/stephen-c-noctor/index.xml" rel="self" type="application/rss+xml" />
     <description>Stephen C Noctor</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Stephen C Noctor</title>
-      <link>https://example.com/author/stephen-c-noctor/</link>
+      <link>http://localhost:1313/author/stephen-c-noctor/</link>
     </image>
     
     <item>
       <title>Radial glia in the proliferative ventricular zone of the embryonic and adult turtle, Trachemys scripta elegans</title>
-      <link>https://example.com/publication/clinton-2014-bb/</link>
+      <link>http://localhost:1313/publication/clinton-2014-bb/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/clinton-2014-bb/</guid>
+      <guid>http://localhost:1313/publication/clinton-2014-bb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embryonic MGE precursor cells grafted into adult rat striatum integrate and ameliorate motor symptoms in 6-OHDA-lesioned rats</title>
-      <link>https://example.com/publication/martinez-cerdeno-2010-xt/</link>
+      <link>http://localhost:1313/publication/martinez-cerdeno-2010-xt/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/martinez-cerdeno-2010-xt/</guid>
+      <guid>http://localhost:1313/publication/martinez-cerdeno-2010-xt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progenitors from the postnatal forebrain subventricular zone differentiate into cerebellar-like interneurons and cerebellar-specific astrocytes upon transplantation</title>
-      <link>https://example.com/publication/milosevic-2008-if/</link>
+      <link>http://localhost:1313/publication/milosevic-2008-if/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/milosevic-2008-if/</guid>
+      <guid>http://localhost:1313/publication/milosevic-2008-if/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distinct behaviors of neural stem and progenitor cells underlie cortical neurogenesis</title>
-      <link>https://example.com/publication/noctor-2008-ot/</link>
+      <link>http://localhost:1313/publication/noctor-2008-ot/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/noctor-2008-ot/</guid>
+      <guid>http://localhost:1313/publication/noctor-2008-ot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contribution of intermediate progenitor cells to cortical histogenesis</title>
-      <link>https://example.com/publication/noctor-2007-wh/</link>
+      <link>http://localhost:1313/publication/noctor-2007-wh/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/noctor-2007-wh/</guid>
+      <guid>http://localhost:1313/publication/noctor-2007-wh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural stem and progenitor cells in cortical development</title>
-      <link>https://example.com/publication/noctor-2007-ty/</link>
+      <link>http://localhost:1313/publication/noctor-2007-ty/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/noctor-2007-ty/</guid>
+      <guid>http://localhost:1313/publication/noctor-2007-ty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estradiol stimulates progenitor cell division in the ventricular and subventricular zones of the embryonic neocortex</title>
-      <link>https://example.com/publication/martinez-cerdeno-2006-md/</link>
+      <link>http://localhost:1313/publication/martinez-cerdeno-2006-md/</link>
       <pubDate>Fri, 01 Dec 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/martinez-cerdeno-2006-md/</guid>
+      <guid>http://localhost:1313/publication/martinez-cerdeno-2006-md/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of intermediate progenitor cells in the evolutionary expansion of the cerebral cortex</title>
-      <link>https://example.com/publication/martinez-cerdeno-2006-ul/</link>
+      <link>http://localhost:1313/publication/martinez-cerdeno-2006-ul/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/martinez-cerdeno-2006-ul/</guid>
+      <guid>http://localhost:1313/publication/martinez-cerdeno-2006-ul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patterns of neuronal migration in the embryonic cortex</title>
-      <link>https://example.com/publication/kriegstein-2004-vm/</link>
+      <link>http://localhost:1313/publication/kriegstein-2004-vm/</link>
       <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kriegstein-2004-vm/</guid>
+      <guid>http://localhost:1313/publication/kriegstein-2004-vm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cortical neurons arise in symmetric and asymmetric division zones and migrate through specific phases</title>
-      <link>https://example.com/publication/noctor-2004-il/</link>
+      <link>http://localhost:1313/publication/noctor-2004-il/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/noctor-2004-il/</guid>
+      <guid>http://localhost:1313/publication/noctor-2004-il/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurogenic radial glial cells in reptile, rodent and human: from mitosis to migration</title>
-      <link>https://example.com/publication/weissman-2003-hg/</link>
+      <link>http://localhost:1313/publication/weissman-2003-hg/</link>
       <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/weissman-2003-hg/</guid>
+      <guid>http://localhost:1313/publication/weissman-2003-hg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dividing precursor cells of the embryonic cortical ventricular zone have morphological and molecular characteristics of radial glia</title>
-      <link>https://example.com/publication/noctor-2002-kh/</link>
+      <link>http://localhost:1313/publication/noctor-2002-kh/</link>
       <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/noctor-2002-kh/</guid>
+      <guid>http://localhost:1313/publication/noctor-2002-kh/</guid>
       <description></description>
     </item>
     

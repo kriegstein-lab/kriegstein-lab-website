@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samantha Orasji | Kriegstein Lab</title>
-    <link>https://example.com/author/samantha-orasji/</link>
-      <atom:link href="https://example.com/author/samantha-orasji/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/samantha-orasji/</link>
+      <atom:link href="http://localhost:1313/author/samantha-orasji/index.xml" rel="self" type="application/rss+xml" />
     <description>Samantha Orasji</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Samantha Orasji</title>
-      <link>https://example.com/author/samantha-orasji/</link>
+      <link>http://localhost:1313/author/samantha-orasji/</link>
     </image>
     
     <item>
       <title>Embryonic MGE precursor cells grafted into adult rat striatum integrate and ameliorate motor symptoms in 6-OHDA-lesioned rats</title>
-      <link>https://example.com/publication/martinez-cerdeno-2010-xt/</link>
+      <link>http://localhost:1313/publication/martinez-cerdeno-2010-xt/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/martinez-cerdeno-2010-xt/</guid>
+      <guid>http://localhost:1313/publication/martinez-cerdeno-2010-xt/</guid>
       <description></description>
     </item>
     

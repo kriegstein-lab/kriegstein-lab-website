@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marina Bershteyn | Kriegstein Lab</title>
-    <link>https://example.com/author/marina-bershteyn/</link>
-      <atom:link href="https://example.com/author/marina-bershteyn/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/marina-bershteyn/</link>
+      <atom:link href="http://localhost:1313/author/marina-bershteyn/index.xml" rel="self" type="application/rss+xml" />
     <description>Marina Bershteyn</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Marina Bershteyn</title>
-      <link>https://example.com/author/marina-bershteyn/</link>
+      <link>http://localhost:1313/author/marina-bershteyn/</link>
     </image>
     
     <item>
       <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
-      <link>https://example.com/publication/pollen-2019-vm/</link>
+      <link>http://localhost:1313/publication/pollen-2019-vm/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2019-vm/</guid>
+      <guid>http://localhost:1313/publication/pollen-2019-vm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic behaviour of human neuroepithelial cells in the developing forebrain</title>
-      <link>https://example.com/publication/subramanian-2017-ff/</link>
+      <link>http://localhost:1313/publication/subramanian-2017-ff/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/subramanian-2017-ff/</guid>
+      <guid>http://localhost:1313/publication/subramanian-2017-ff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia</title>
-      <link>https://example.com/publication/bershteyn-2017-ib/</link>
+      <link>http://localhost:1313/publication/bershteyn-2017-ib/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bershteyn-2017-ib/</guid>
+      <guid>http://localhost:1313/publication/bershteyn-2017-ib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells</title>
-      <link>https://example.com/publication/nowakowski-2016-qh/</link>
+      <link>http://localhost:1313/publication/nowakowski-2016-qh/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nowakowski-2016-qh/</guid>
+      <guid>http://localhost:1313/publication/nowakowski-2016-qh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell-autonomous correction of ring chromosomes in human induced pluripotent stem cells</title>
-      <link>https://example.com/publication/bershteyn-2014-ih/</link>
+      <link>http://localhost:1313/publication/bershteyn-2014-ih/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bershteyn-2014-ih/</guid>
+      <guid>http://localhost:1313/publication/bershteyn-2014-ih/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cerebral organoids in a dish: progress and prospects</title>
-      <link>https://example.com/publication/bershteyn-2013-if/</link>
+      <link>http://localhost:1313/publication/bershteyn-2013-if/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bershteyn-2013-if/</guid>
+      <guid>http://localhost:1313/publication/bershteyn-2013-if/</guid>
       <description></description>
     </item>
     

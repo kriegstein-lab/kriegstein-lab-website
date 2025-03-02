@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Staff
+- 
 ---
 
 Matthew's undergraduate research utilized the C. elegans model system to investigate organelle biogenesis in the endosomal pathway, with particular focus on the role of Rab GTPases in regulating this process throughout embryo development.  Now he is engaged with cerebral organoid models to understand the genetic landscape of Autism Spectrum Disorder.  He's also investigating vector-borne viral pathogenesis in the human brain, in light of climate change expanding the range of vector-borne diseases.

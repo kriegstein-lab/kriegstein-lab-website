@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John L Rubenstein | Kriegstein Lab</title>
-    <link>https://example.com/author/john-l-rubenstein/</link>
-      <atom:link href="https://example.com/author/john-l-rubenstein/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/john-l-rubenstein/</link>
+      <atom:link href="http://localhost:1313/author/john-l-rubenstein/index.xml" rel="self" type="application/rss+xml" />
     <description>John L Rubenstein</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>John L Rubenstein</title>
-      <link>https://example.com/author/john-l-rubenstein/</link>
+      <link>http://localhost:1313/author/john-l-rubenstein/</link>
     </image>
     
     <item>
       <title>A Chromatin Accessibility Atlas of the Developing Human Telencephalon</title>
-      <link>https://example.com/publication/markenscoff-papadimitriou-2020-bc/</link>
+      <link>http://localhost:1313/publication/markenscoff-papadimitriou-2020-bc/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/markenscoff-papadimitriou-2020-bc/</guid>
+      <guid>http://localhost:1313/publication/markenscoff-papadimitriou-2020-bc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cortical Neural Stem Cell Lineage Progression Is Regulated by Extrinsic Signaling Molecule Sonic Hedgehog</title>
-      <link>https://example.com/publication/zhang-2020-ie/</link>
+      <link>http://localhost:1313/publication/zhang-2020-ie/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang-2020-ie/</guid>
+      <guid>http://localhost:1313/publication/zhang-2020-ie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immature excitatory neurons develop during adolescence in the human amygdala</title>
-      <link>https://example.com/publication/sorrells-2019-ml/</link>
+      <link>http://localhost:1313/publication/sorrells-2019-ml/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sorrells-2019-ml/</guid>
+      <guid>http://localhost:1313/publication/sorrells-2019-ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
-      <link>https://example.com/publication/raju-2018-db/</link>
+      <link>http://localhost:1313/publication/raju-2018-db/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/raju-2018-db/</guid>
+      <guid>http://localhost:1313/publication/raju-2018-db/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder</title>
-      <link>https://example.com/publication/werling-2018-yd/</link>
+      <link>http://localhost:1313/publication/werling-2018-yd/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/werling-2018-yd/</guid>
+      <guid>http://localhost:1313/publication/werling-2018-yd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interneurons from embryonic development to cell-based therapy</title>
-      <link>https://example.com/publication/southwell-2014-fq/</link>
+      <link>http://localhost:1313/publication/southwell-2014-fq/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/southwell-2014-fq/</guid>
+      <guid>http://localhost:1313/publication/southwell-2014-fq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-epithelial stem cells and cortical interneuron production in the human ganglionic eminences</title>
-      <link>https://example.com/publication/hansen-2013-zg/</link>
+      <link>http://localhost:1313/publication/hansen-2013-zg/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hansen-2013-zg/</guid>
+      <guid>http://localhost:1313/publication/hansen-2013-zg/</guid>
       <description></description>
     </item>
     

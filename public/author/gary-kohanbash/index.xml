@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gary Kohanbash | Kriegstein Lab</title>
-    <link>https://example.com/author/gary-kohanbash/</link>
-      <atom:link href="https://example.com/author/gary-kohanbash/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/gary-kohanbash/</link>
+      <atom:link href="http://localhost:1313/author/gary-kohanbash/index.xml" rel="self" type="application/rss+xml" />
     <description>Gary Kohanbash</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Gary Kohanbash</title>
-      <link>https://example.com/author/gary-kohanbash/</link>
+      <link>http://localhost:1313/author/gary-kohanbash/</link>
     </image>
     
     <item>
       <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
-      <link>https://example.com/publication/muller-2017-zp/</link>
+      <link>http://localhost:1313/publication/muller-2017-zp/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/muller-2017-zp/</guid>
+      <guid>http://localhost:1313/publication/muller-2017-zp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
-      <link>https://example.com/publication/muller-2016-mp/</link>
+      <link>http://localhost:1313/publication/muller-2016-mp/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/muller-2016-mp/</guid>
+      <guid>http://localhost:1313/publication/muller-2016-mp/</guid>
       <description></description>
     </item>
     

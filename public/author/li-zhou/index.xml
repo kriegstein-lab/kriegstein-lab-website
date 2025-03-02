@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Zhou | Kriegstein Lab</title>
-    <link>https://example.com/author/li-zhou/</link>
-      <atom:link href="https://example.com/author/li-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/li-zhou/</link>
+      <atom:link href="http://localhost:1313/author/li-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Zhou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Li Zhou</title>
-      <link>https://example.com/author/li-zhou/</link>
+      <link>http://localhost:1313/author/li-zhou/</link>
     </image>
     
     <item>
       <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>https://example.com/publication/andrews-2022-ty/</link>
+      <link>http://localhost:1313/publication/andrews-2022-ty/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/andrews-2022-ty/</guid>
+      <guid>http://localhost:1313/publication/andrews-2022-ty/</guid>
       <description></description>
     </item>
     

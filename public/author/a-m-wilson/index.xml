@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A M Wilson | Kriegstein Lab</title>
-    <link>https://example.com/author/a-m-wilson/</link>
-      <atom:link href="https://example.com/author/a-m-wilson/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/a-m-wilson/</link>
+      <atom:link href="http://localhost:1313/author/a-m-wilson/index.xml" rel="self" type="application/rss+xml" />
     <description>A M Wilson</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 1991 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 1991 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>A M Wilson</title>
-      <link>https://example.com/author/a-m-wilson/</link>
+      <link>http://localhost:1313/author/a-m-wilson/</link>
     </image>
     
     <item>
       <title>Turtle cortical neurons survive glutamate exposures that are lethal to mammalian neurons</title>
-      <link>https://example.com/publication/wilson-1991-wi/</link>
+      <link>http://localhost:1313/publication/wilson-1991-wi/</link>
       <pubDate>Fri, 01 Feb 1991 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/wilson-1991-wi/</guid>
+      <guid>http://localhost:1313/publication/wilson-1991-wi/</guid>
       <description></description>
     </item>
     

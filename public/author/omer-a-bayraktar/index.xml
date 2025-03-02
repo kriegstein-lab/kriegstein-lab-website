@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Omer A Bayraktar | Kriegstein Lab</title>
-    <link>https://example.com/author/omer-a-bayraktar/</link>
-      <atom:link href="https://example.com/author/omer-a-bayraktar/index.xml" rel="self" type="application/rss+xml" />
-    <description>Omer A Bayraktar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <title>Omer a Bayraktar | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/omer-a-bayraktar/</link>
+      <atom:link href="http://localhost:1313/author/omer-a-bayraktar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Omer a Bayraktar</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>Omer A Bayraktar</title>
-      <link>https://example.com/author/omer-a-bayraktar/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Omer a Bayraktar</title>
+      <link>http://localhost:1313/author/omer-a-bayraktar/</link>
     </image>
     
     <item>
       <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
-      <link>https://example.com/publication/schirmer-2019-jc/</link>
+      <link>http://localhost:1313/publication/schirmer-2019-jc/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/schirmer-2019-jc/</guid>
+      <guid>http://localhost:1313/publication/schirmer-2019-jc/</guid>
       <description></description>
     </item>
     

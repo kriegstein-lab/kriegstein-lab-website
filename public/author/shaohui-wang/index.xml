@@ -2,45 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shaohui Wang | Kriegstein Lab</title>
-    <link>https://example.com/author/shaohui-wang/</link>
-      <atom:link href="https://example.com/author/shaohui-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/shaohui-wang/</link>
+      <atom:link href="http://localhost:1313/author/shaohui-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shaohui Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/author/shaohui-wang/avatar_hu_ef846297d001c9f.jpg</url>
       <title>Shaohui Wang</title>
-      <link>https://example.com/author/shaohui-wang/</link>
+      <link>http://localhost:1313/author/shaohui-wang/</link>
     </image>
     
     <item>
-      <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>https://example.com/publication/andrews-2022-ty/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/andrews-2022-ty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes</title>
-      <link>https://example.com/publication/andrews-2021-xv/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/andrews-2021-xv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells</title>
-      <link>https://example.com/publication/huang-2020-zf/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/huang-2020-zf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>https://example.com/publication/mayer-2019-tl/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mayer-2019-tl/</guid>
+      <title>Shaohui Wang</title>
+      <link>http://localhost:1313/author/shaohui-wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/shaohui-wang/</guid>
       <description></description>
     </item>
     

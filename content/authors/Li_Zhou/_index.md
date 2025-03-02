@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Scholars
+  -
 ---
 
 Dr. Zhou is interested in dissecting human brain circuit development. During his Ph.D., he found a new "push-pull" circuit mechanism to control the E-I balance of rodent serotonin neurons: individual cells could receive excitation and inhibition inputs from the same brain area. As a postdoc, he studies how early cortical circuits form in the human brain and their interaction with the brain microenvironments.

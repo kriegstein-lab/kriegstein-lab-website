@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Richard B Vallee | Kriegstein Lab</title>
-    <link>https://example.com/author/richard-b-vallee/</link>
-      <atom:link href="https://example.com/author/richard-b-vallee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/richard-b-vallee/</link>
+      <atom:link href="http://localhost:1313/author/richard-b-vallee/index.xml" rel="self" type="application/rss+xml" />
     <description>Richard B Vallee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Richard B Vallee</title>
-      <link>https://example.com/author/richard-b-vallee/</link>
+      <link>http://localhost:1313/author/richard-b-vallee/</link>
     </image>
     
     <item>
       <title>Kinesin 3 and cytoplasmic dynein mediate interkinetic nuclear migration in neural stem cells</title>
-      <link>https://example.com/publication/tsai-2010-jd/</link>
+      <link>http://localhost:1313/publication/tsai-2010-jd/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/tsai-2010-jd/</guid>
+      <guid>http://localhost:1313/publication/tsai-2010-jd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LIS1 RNA interference blocks neural stem cell division, morphogenesis, and motility at multiple stages</title>
-      <link>https://example.com/publication/tsai-2005-ei/</link>
+      <link>http://localhost:1313/publication/tsai-2005-ei/</link>
       <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/tsai-2005-ei/</guid>
+      <guid>http://localhost:1313/publication/tsai-2005-ei/</guid>
       <description></description>
     </item>
     

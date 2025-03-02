@@ -46,7 +46,7 @@ social:
     link: 'mailto:jonathan.augustin@ucsf.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/cheminut
+    link: https://twitter.com/jaugustin_phd
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oQxAX4oAAAAJ&hl=en

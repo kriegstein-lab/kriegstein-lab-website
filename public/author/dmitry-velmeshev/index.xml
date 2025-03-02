@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dmitry Velmeshev | Kriegstein Lab</title>
-    <link>https://example.com/author/dmitry-velmeshev/</link>
-      <atom:link href="https://example.com/author/dmitry-velmeshev/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/dmitry-velmeshev/</link>
+      <atom:link href="http://localhost:1313/author/dmitry-velmeshev/index.xml" rel="self" type="application/rss+xml" />
     <description>Dmitry Velmeshev</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Dmitry Velmeshev</title>
-      <link>https://example.com/author/dmitry-velmeshev/</link>
+      <link>http://localhost:1313/author/dmitry-velmeshev/</link>
     </image>
     
     <item>
       <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>https://example.com/publication/andrews-2022-ty/</link>
+      <link>http://localhost:1313/publication/andrews-2022-ty/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/andrews-2022-ty/</guid>
+      <guid>http://localhost:1313/publication/andrews-2022-ty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes</title>
-      <link>https://example.com/publication/andrews-2021-xv/</link>
+      <link>http://localhost:1313/publication/andrews-2021-xv/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/andrews-2021-xv/</guid>
+      <guid>http://localhost:1313/publication/andrews-2021-xv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency</title>
-      <link>https://example.com/publication/zhang-2020-dj/</link>
+      <link>http://localhost:1313/publication/zhang-2020-dj/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang-2020-dj/</guid>
+      <guid>http://localhost:1313/publication/zhang-2020-dj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells</title>
-      <link>https://example.com/publication/huang-2020-zf/</link>
+      <link>http://localhost:1313/publication/huang-2020-zf/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/huang-2020-zf/</guid>
+      <guid>http://localhost:1313/publication/huang-2020-zf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of amygdala-expressed genes associated with autism spectrum disorder</title>
-      <link>https://example.com/publication/herrero-2020-vo/</link>
+      <link>http://localhost:1313/publication/herrero-2020-vo/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/herrero-2020-vo/</guid>
+      <guid>http://localhost:1313/publication/herrero-2020-vo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma</title>
-      <link>https://example.com/publication/bhaduri-2020-pa/</link>
+      <link>http://localhost:1313/publication/bhaduri-2020-pa/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bhaduri-2020-pa/</guid>
+      <guid>http://localhost:1313/publication/bhaduri-2020-pa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
-      <link>https://example.com/publication/schirmer-2019-jc/</link>
+      <link>http://localhost:1313/publication/schirmer-2019-jc/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/schirmer-2019-jc/</guid>
+      <guid>http://localhost:1313/publication/schirmer-2019-jc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immature excitatory neurons develop during adolescence in the human amygdala</title>
-      <link>https://example.com/publication/sorrells-2019-ml/</link>
+      <link>http://localhost:1313/publication/sorrells-2019-ml/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sorrells-2019-ml/</guid>
+      <guid>http://localhost:1313/publication/sorrells-2019-ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
-      <link>https://example.com/publication/velmeshev-2019-uk/</link>
+      <link>http://localhost:1313/publication/velmeshev-2019-uk/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/velmeshev-2019-uk/</guid>
+      <guid>http://localhost:1313/publication/velmeshev-2019-uk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>https://example.com/publication/mayer-2019-tl/</link>
+      <link>http://localhost:1313/publication/mayer-2019-tl/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mayer-2019-tl/</guid>
+      <guid>http://localhost:1313/publication/mayer-2019-tl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <link>http://localhost:1313/publication/nowakowski-2017-et/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <guid>http://localhost:1313/publication/nowakowski-2017-et/</guid>
       <description></description>
     </item>
     

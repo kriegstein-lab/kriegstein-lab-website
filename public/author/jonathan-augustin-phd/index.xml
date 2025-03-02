@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Augustin, PhD | Kriegstein Lab</title>
-    <link>https://example.com/author/jonathan-augustin-phd/</link>
-      <atom:link href="https://example.com/author/jonathan-augustin-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jonathan-augustin-phd/</link>
+      <atom:link href="http://localhost:1313/author/jonathan-augustin-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Augustin, PhD</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/jonathan-augustin-phd/avatar_hu61225fcf5819354d5fd136c666845393_34488_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/jonathan-augustin-phd/avatar_hu_36083e5584d69f77.jpg</url>
       <title>Jonathan Augustin, PhD</title>
-      <link>https://example.com/author/jonathan-augustin-phd/</link>
+      <link>http://localhost:1313/author/jonathan-augustin-phd/</link>
     </image>
+    
+    <item>
+      <title>Jonathan Augustin, PhD</title>
+      <link>http://localhost:1313/author/jonathan-augustin-phd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/jonathan-augustin-phd/</guid>
+      <description>&lt;p&gt;Jonathan is a Postdoctoral Scholar in the Kriegstein Lab. He is interested in using human cortical organoids to model neurodevelopmental disorders in vitro. He utilizes traditional molecular biological approaches in tandem with bioinformatics to profile changes in fate specification during neurodevelopment. In his spare time he enjoys reading, playing video and boardgames, and 3D modeling/printing.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

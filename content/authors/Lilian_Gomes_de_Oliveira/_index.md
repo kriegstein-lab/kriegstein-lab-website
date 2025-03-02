@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lilian Gomes de Oliveira
+title: Lilian Gomes de Oliveira, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Students
+  - Postdoctoral Scholars
 ---
 Lilian received a BA in Biomedical Sciences in 2015 from São Camilo University Centre and her master in Immunology in 2019 from University of São Paulo. During her master Lilian focused in understanding the role of TAM receptors during congenital Zika virus (ZIKV) infection in an immunocompetent mouse model. The project was developed in Brazil at University of São Paulo under the supervision of Prof. Jean Pierre Schatzmann Peron and in USA at Yale University under Prof. Carla Rothlin supervision. Lilian is currently a PhD candidate from Peron\`s Lab at Immunology department of University of São Paulo focused on clarifying the immunometabolic dysregulation in astrocytes during ZIKV infection. In 2022, Lilian joined Kriegstein\`s Lab as a Fulbright visiting student to study ZIKV-induced alterations in radial glial cells and explore key aspects of innate immune response in this cell type. Her main interests are related to the brain immunometabolic aspects in health and disease.

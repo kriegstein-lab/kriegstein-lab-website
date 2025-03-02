@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremy F Reiter | Kriegstein Lab</title>
-    <link>https://example.com/author/jeremy-f-reiter/</link>
-      <atom:link href="https://example.com/author/jeremy-f-reiter/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jeremy-f-reiter/</link>
+      <atom:link href="http://localhost:1313/author/jeremy-f-reiter/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy F Reiter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Jeremy F Reiter</title>
-      <link>https://example.com/author/jeremy-f-reiter/</link>
+      <link>http://localhost:1313/author/jeremy-f-reiter/</link>
     </image>
     
     <item>
       <title>Zika virus alters centrosome organization to suppress the innate immune response</title>
-      <link>https://example.com/publication/kodani-2022-lj/</link>
+      <link>http://localhost:1313/publication/kodani-2022-lj/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kodani-2022-lj/</guid>
+      <guid>http://localhost:1313/publication/kodani-2022-lj/</guid>
       <description></description>
     </item>
     

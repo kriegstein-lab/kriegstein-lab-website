@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EGFR; OPC; PCDH15; cortical expansion; oligodendrogenesis; self-repulsion | Kriegstein Lab</title>
-    <link>https://example.com/tag/egfr-opc-pcdh15-cortical-expansion-oligodendrogenesis-self-repulsion/</link>
-      <atom:link href="https://example.com/tag/egfr-opc-pcdh15-cortical-expansion-oligodendrogenesis-self-repulsion/index.xml" rel="self" type="application/rss+xml" />
-    <description>EGFR; OPC; PCDH15; cortical expansion; oligodendrogenesis; self-repulsion</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <title>EGFR; OPC; PCDH15; Cortical Expansion; Oligodendrogenesis; Self-Repulsion | Kriegstein Lab</title>
+    <link>http://localhost:1313/tag/egfr-opc-pcdh15-cortical-expansion-oligodendrogenesis-self-repulsion/</link>
+      <atom:link href="http://localhost:1313/tag/egfr-opc-pcdh15-cortical-expansion-oligodendrogenesis-self-repulsion/index.xml" rel="self" type="application/rss+xml" />
+    <description>EGFR; OPC; PCDH15; Cortical Expansion; Oligodendrogenesis; Self-Repulsion</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>EGFR; OPC; PCDH15; cortical expansion; oligodendrogenesis; self-repulsion</title>
-      <link>https://example.com/tag/egfr-opc-pcdh15-cortical-expansion-oligodendrogenesis-self-repulsion/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>EGFR; OPC; PCDH15; Cortical Expansion; Oligodendrogenesis; Self-Repulsion</title>
+      <link>http://localhost:1313/tag/egfr-opc-pcdh15-cortical-expansion-oligodendrogenesis-self-repulsion/</link>
     </image>
     
     <item>
       <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells</title>
-      <link>https://example.com/publication/huang-2020-zf/</link>
+      <link>http://localhost:1313/publication/huang-2020-zf/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/huang-2020-zf/</guid>
+      <guid>http://localhost:1313/publication/huang-2020-zf/</guid>
       <description></description>
     </item>
     

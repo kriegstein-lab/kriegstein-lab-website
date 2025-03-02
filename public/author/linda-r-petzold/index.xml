@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linda R Petzold | Kriegstein Lab</title>
-    <link>https://example.com/author/linda-r-petzold/</link>
-      <atom:link href="https://example.com/author/linda-r-petzold/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/linda-r-petzold/</link>
+      <atom:link href="http://localhost:1313/author/linda-r-petzold/index.xml" rel="self" type="application/rss+xml" />
     <description>Linda R Petzold</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Linda R Petzold</title>
-      <link>https://example.com/author/linda-r-petzold/</link>
+      <link>http://localhost:1313/author/linda-r-petzold/</link>
     </image>
     
     <item>
       <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development</title>
-      <link>https://example.com/publication/nowakowski-2018-ma/</link>
+      <link>http://localhost:1313/publication/nowakowski-2018-ma/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nowakowski-2018-ma/</guid>
+      <guid>http://localhost:1313/publication/nowakowski-2018-ma/</guid>
       <description></description>
     </item>
     

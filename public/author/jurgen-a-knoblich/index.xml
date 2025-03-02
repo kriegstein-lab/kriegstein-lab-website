@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jürgen A Knoblich | Kriegstein Lab</title>
-    <link>https://example.com/author/jurgen-a-knoblich/</link>
-      <atom:link href="https://example.com/author/jurgen-a-knoblich/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jürgen A Knoblich</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <title>Jürgen a Knoblich | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/jurgen-a-knoblich/</link>
+      <atom:link href="http://localhost:1313/author/jurgen-a-knoblich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jürgen a Knoblich</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>Jürgen A Knoblich</title>
-      <link>https://example.com/author/jurgen-a-knoblich/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Jürgen a Knoblich</title>
+      <link>http://localhost:1313/author/jurgen-a-knoblich/</link>
     </image>
     
     <item>
       <title>A nomenclature consensus for nervous system organoids and assembloids</title>
-      <link>https://example.com/publication/pasca-2022-zl/</link>
+      <link>http://localhost:1313/publication/pasca-2022-zl/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pasca-2022-zl/</guid>
+      <guid>http://localhost:1313/publication/pasca-2022-zl/</guid>
       <description></description>
     </item>
     

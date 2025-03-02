@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W S Millar | Kriegstein Lab</title>
-    <link>https://example.com/author/w-s-millar/</link>
-      <atom:link href="https://example.com/author/w-s-millar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/w-s-millar/</link>
+      <atom:link href="http://localhost:1313/author/w-s-millar/index.xml" rel="self" type="application/rss+xml" />
     <description>W S Millar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 1999 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 1999 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>W S Millar</title>
-      <link>https://example.com/author/w-s-millar/</link>
+      <link>http://localhost:1313/author/w-s-millar/</link>
     </image>
     
     <item>
       <title>Leukoencephalopathy and raised brain lactate from heroin vapor inhalation (``chasing the dragon&#39;&#39;)</title>
-      <link>https://example.com/publication/kriegstein-1999-xf/</link>
+      <link>http://localhost:1313/publication/kriegstein-1999-xf/</link>
       <pubDate>Mon, 01 Nov 1999 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kriegstein-1999-xf/</guid>
+      <guid>http://localhost:1313/publication/kriegstein-1999-xf/</guid>
       <description></description>
     </item>
     

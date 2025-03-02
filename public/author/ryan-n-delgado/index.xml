@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan N Delgado | Kriegstein Lab</title>
-    <link>https://example.com/author/ryan-n-delgado/</link>
-      <atom:link href="https://example.com/author/ryan-n-delgado/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ryan-n-delgado/</link>
+      <atom:link href="http://localhost:1313/author/ryan-n-delgado/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan N Delgado</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Ryan N Delgado</title>
-      <link>https://example.com/author/ryan-n-delgado/</link>
+      <link>http://localhost:1313/author/ryan-n-delgado/</link>
     </image>
     
     <item>
       <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
-      <link>https://example.com/publication/ahanger-2021-ke/</link>
+      <link>http://localhost:1313/publication/ahanger-2021-ke/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ahanger-2021-ke/</guid>
+      <guid>http://localhost:1313/publication/ahanger-2021-ke/</guid>
       <description></description>
     </item>
     

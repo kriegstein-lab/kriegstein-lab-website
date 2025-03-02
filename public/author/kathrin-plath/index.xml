@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kathrin Plath | Kriegstein Lab</title>
-    <link>https://example.com/author/kathrin-plath/</link>
-      <atom:link href="https://example.com/author/kathrin-plath/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/kathrin-plath/</link>
+      <atom:link href="http://localhost:1313/author/kathrin-plath/index.xml" rel="self" type="application/rss+xml" />
     <description>Kathrin Plath</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Kathrin Plath</title>
-      <link>https://example.com/author/kathrin-plath/</link>
+      <link>http://localhost:1313/author/kathrin-plath/</link>
     </image>
     
     <item>
       <title>Stem cells in the land of the rising sun: ISSCR 2012</title>
-      <link>https://example.com/publication/plath-2012-in/</link>
+      <link>http://localhost:1313/publication/plath-2012-in/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/plath-2012-in/</guid>
+      <guid>http://localhost:1313/publication/plath-2012-in/</guid>
       <description></description>
     </item>
     

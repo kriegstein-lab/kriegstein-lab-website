@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Specialist
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Staff
+  - Grad Students
 ---
 
 I am a visiting graduate student interested in understanding neurodevelopmental origins of neuropsychiatric diseases using organoid models.

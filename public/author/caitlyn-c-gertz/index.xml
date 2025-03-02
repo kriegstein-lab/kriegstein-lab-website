@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caitlyn C Gertz | Kriegstein Lab</title>
-    <link>https://example.com/author/caitlyn-c-gertz/</link>
-      <atom:link href="https://example.com/author/caitlyn-c-gertz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/caitlyn-c-gertz/</link>
+      <atom:link href="http://localhost:1313/author/caitlyn-c-gertz/index.xml" rel="self" type="application/rss+xml" />
     <description>Caitlyn C Gertz</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Caitlyn C Gertz</title>
-      <link>https://example.com/author/caitlyn-c-gertz/</link>
+      <link>http://localhost:1313/author/caitlyn-c-gertz/</link>
     </image>
     
     <item>
       <title>Neuronal Migration Dynamics in the Developing Ferret Cortex</title>
-      <link>https://example.com/publication/gertz-2015-pp/</link>
+      <link>http://localhost:1313/publication/gertz-2015-pp/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gertz-2015-pp/</guid>
+      <guid>http://localhost:1313/publication/gertz-2015-pp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wide Dispersion and Diversity of Clonally Related Inhibitory Interneurons</title>
-      <link>https://example.com/publication/harwell-2015-ng/</link>
+      <link>http://localhost:1313/publication/harwell-2015-ng/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/harwell-2015-ng/</guid>
+      <guid>http://localhost:1313/publication/harwell-2015-ng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control of outer radial glial stem cell mitosis in the human brain</title>
-      <link>https://example.com/publication/ostrem-2014-ds/</link>
+      <link>http://localhost:1313/publication/ostrem-2014-ds/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ostrem-2014-ds/</guid>
+      <guid>http://localhost:1313/publication/ostrem-2014-ds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diverse behaviors of outer radial glia in developing ferret and human cortex</title>
-      <link>https://example.com/publication/gertz-2014-cx/</link>
+      <link>http://localhost:1313/publication/gertz-2014-cx/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gertz-2014-cx/</guid>
+      <guid>http://localhost:1313/publication/gertz-2014-cx/</guid>
       <description></description>
     </item>
     

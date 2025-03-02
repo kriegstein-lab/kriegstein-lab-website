@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher L Cunningham | Kriegstein Lab</title>
-    <link>https://example.com/author/christopher-l-cunningham/</link>
-      <atom:link href="https://example.com/author/christopher-l-cunningham/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/christopher-l-cunningham/</link>
+      <atom:link href="http://localhost:1313/author/christopher-l-cunningham/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher L Cunningham</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Christopher L Cunningham</title>
-      <link>https://example.com/author/christopher-l-cunningham/</link>
+      <link>http://localhost:1313/author/christopher-l-cunningham/</link>
     </image>
     
     <item>
       <title>Radial glia in the proliferative ventricular zone of the embryonic and adult turtle, Trachemys scripta elegans</title>
-      <link>https://example.com/publication/clinton-2014-bb/</link>
+      <link>http://localhost:1313/publication/clinton-2014-bb/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/clinton-2014-bb/</guid>
+      <guid>http://localhost:1313/publication/clinton-2014-bb/</guid>
       <description></description>
     </item>
     

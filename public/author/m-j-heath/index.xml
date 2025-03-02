@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M J Heath | Kriegstein Lab</title>
-    <link>https://example.com/author/m-j-heath/</link>
-      <atom:link href="https://example.com/author/m-j-heath/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/m-j-heath/</link>
+      <atom:link href="http://localhost:1313/author/m-j-heath/index.xml" rel="self" type="application/rss+xml" />
     <description>M J Heath</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 1995 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 1995 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>M J Heath</title>
-      <link>https://example.com/author/m-j-heath/</link>
+      <link>http://localhost:1313/author/m-j-heath/</link>
     </image>
     
     <item>
       <title>GABA and glutamate depolarize cortical progenitor cells and inhibit DNA synthesis</title>
-      <link>https://example.com/publication/lo-turco-1995-qf/</link>
+      <link>http://localhost:1313/publication/lo-turco-1995-qf/</link>
       <pubDate>Fri, 01 Dec 1995 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lo-turco-1995-qf/</guid>
+      <guid>http://localhost:1313/publication/lo-turco-1995-qf/</guid>
       <description></description>
     </item>
     

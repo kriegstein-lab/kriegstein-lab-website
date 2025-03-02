@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mercedes F Paredes | Kriegstein Lab</title>
-    <link>https://example.com/author/mercedes-f-paredes/</link>
-      <atom:link href="https://example.com/author/mercedes-f-paredes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/mercedes-f-paredes/</link>
+      <atom:link href="http://localhost:1313/author/mercedes-f-paredes/index.xml" rel="self" type="application/rss+xml" />
     <description>Mercedes F Paredes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Mercedes F Paredes</title>
-      <link>https://example.com/author/mercedes-f-paredes/</link>
+      <link>http://localhost:1313/author/mercedes-f-paredes/</link>
     </image>
     
     <item>
       <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
-      <link>https://example.com/publication/crouch-2022-fv/</link>
+      <link>http://localhost:1313/publication/crouch-2022-fv/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/crouch-2022-fv/</guid>
+      <guid>http://localhost:1313/publication/crouch-2022-fv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immature excitatory neurons develop during adolescence in the human amygdala</title>
-      <link>https://example.com/publication/sorrells-2019-ml/</link>
+      <link>http://localhost:1313/publication/sorrells-2019-ml/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sorrells-2019-ml/</guid>
+      <guid>http://localhost:1313/publication/sorrells-2019-ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>https://example.com/publication/mayer-2019-tl/</link>
+      <link>http://localhost:1313/publication/mayer-2019-tl/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mayer-2019-tl/</guid>
+      <guid>http://localhost:1313/publication/mayer-2019-tl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does Adult Neurogenesis Persist in the Human Hippocampus?</title>
-      <link>https://example.com/publication/paredes-2018-uu/</link>
+      <link>http://localhost:1313/publication/paredes-2018-uu/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/paredes-2018-uu/</guid>
+      <guid>http://localhost:1313/publication/paredes-2018-uu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
-      <link>https://example.com/publication/raju-2018-db/</link>
+      <link>http://localhost:1313/publication/raju-2018-db/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/raju-2018-db/</guid>
+      <guid>http://localhost:1313/publication/raju-2018-db/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults</title>
-      <link>https://example.com/publication/sorrells-2018-dx/</link>
+      <link>http://localhost:1313/publication/sorrells-2018-dx/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sorrells-2018-dx/</guid>
+      <guid>http://localhost:1313/publication/sorrells-2018-dx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic behaviour of human neuroepithelial cells in the developing forebrain</title>
-      <link>https://example.com/publication/subramanian-2017-ff/</link>
+      <link>http://localhost:1313/publication/subramanian-2017-ff/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/subramanian-2017-ff/</guid>
+      <guid>http://localhost:1313/publication/subramanian-2017-ff/</guid>
       <description></description>
     </item>
     

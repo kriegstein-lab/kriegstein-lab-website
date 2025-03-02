@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quili Bi | Kriegstein Lab</title>
-    <link>https://example.com/author/quili-bi/</link>
-      <atom:link href="https://example.com/author/quili-bi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/quili-bi/</link>
+      <atom:link href="http://localhost:1313/author/quili-bi/index.xml" rel="self" type="application/rss+xml" />
     <description>Quili Bi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/quili-bi/avatar_hu72f81ac62d4d59b72366b09a21993504_347585_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/quili-bi/avatar_hu_d9fc07f31c26eb25.jpg</url>
       <title>Quili Bi</title>
-      <link>https://example.com/author/quili-bi/</link>
+      <link>http://localhost:1313/author/quili-bi/</link>
     </image>
     
   </channel>

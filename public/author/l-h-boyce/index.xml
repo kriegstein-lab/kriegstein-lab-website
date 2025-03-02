@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L H Boyce | Kriegstein Lab</title>
-    <link>https://example.com/author/l-h-boyce/</link>
-      <atom:link href="https://example.com/author/l-h-boyce/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/l-h-boyce/</link>
+      <atom:link href="http://localhost:1313/author/l-h-boyce/index.xml" rel="self" type="application/rss+xml" />
     <description>L H Boyce</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 1996 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 1996 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>L H Boyce</title>
-      <link>https://example.com/author/l-h-boyce/</link>
+      <link>http://localhost:1313/author/l-h-boyce/</link>
     </image>
     
     <item>
       <title>Excitatory GABA responses in embryonic and neonatal cortical slices demonstrated by gramicidin perforated-patch recordings and calcium imaging</title>
-      <link>https://example.com/publication/owens-1996-gh/</link>
+      <link>http://localhost:1313/publication/owens-1996-gh/</link>
       <pubDate>Tue, 01 Oct 1996 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/owens-1996-gh/</guid>
+      <guid>http://localhost:1313/publication/owens-1996-gh/</guid>
       <description></description>
     </item>
     

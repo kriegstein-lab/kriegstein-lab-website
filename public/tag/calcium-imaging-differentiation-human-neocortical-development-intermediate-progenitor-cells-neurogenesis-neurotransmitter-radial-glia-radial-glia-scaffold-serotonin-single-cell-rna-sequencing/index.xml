@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>calcium imaging; differentiation; human neocortical development; intermediate progenitor cells; neurogenesis; neurotransmitter; radial glia; radial glia scaffold; serotonin; single-cell RNA sequencing | Kriegstein Lab</title>
-    <link>https://example.com/tag/calcium-imaging-differentiation-human-neocortical-development-intermediate-progenitor-cells-neurogenesis-neurotransmitter-radial-glia-radial-glia-scaffold-serotonin-single-cell-rna-sequencing/</link>
-      <atom:link href="https://example.com/tag/calcium-imaging-differentiation-human-neocortical-development-intermediate-progenitor-cells-neurogenesis-neurotransmitter-radial-glia-radial-glia-scaffold-serotonin-single-cell-rna-sequencing/index.xml" rel="self" type="application/rss+xml" />
-    <description>calcium imaging; differentiation; human neocortical development; intermediate progenitor cells; neurogenesis; neurotransmitter; radial glia; radial glia scaffold; serotonin; single-cell RNA sequencing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <title>Calcium Imaging; Differentiation; Human Neocortical Development; Intermediate Progenitor Cells; Neurogenesis; Neurotransmitter; Radial Glia; Radial Glia Scaffold; Serotonin; Single-Cell RNA Sequencing | Kriegstein Lab</title>
+    <link>http://localhost:1313/tag/calcium-imaging-differentiation-human-neocortical-development-intermediate-progenitor-cells-neurogenesis-neurotransmitter-radial-glia-radial-glia-scaffold-serotonin-single-cell-rna-sequencing/</link>
+      <atom:link href="http://localhost:1313/tag/calcium-imaging-differentiation-human-neocortical-development-intermediate-progenitor-cells-neurogenesis-neurotransmitter-radial-glia-radial-glia-scaffold-serotonin-single-cell-rna-sequencing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Calcium Imaging; Differentiation; Human Neocortical Development; Intermediate Progenitor Cells; Neurogenesis; Neurotransmitter; Radial Glia; Radial Glia Scaffold; Serotonin; Single-Cell RNA Sequencing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>calcium imaging; differentiation; human neocortical development; intermediate progenitor cells; neurogenesis; neurotransmitter; radial glia; radial glia scaffold; serotonin; single-cell RNA sequencing</title>
-      <link>https://example.com/tag/calcium-imaging-differentiation-human-neocortical-development-intermediate-progenitor-cells-neurogenesis-neurotransmitter-radial-glia-radial-glia-scaffold-serotonin-single-cell-rna-sequencing/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Calcium Imaging; Differentiation; Human Neocortical Development; Intermediate Progenitor Cells; Neurogenesis; Neurotransmitter; Radial Glia; Radial Glia Scaffold; Serotonin; Single-Cell RNA Sequencing</title>
+      <link>http://localhost:1313/tag/calcium-imaging-differentiation-human-neocortical-development-intermediate-progenitor-cells-neurogenesis-neurotransmitter-radial-glia-radial-glia-scaffold-serotonin-single-cell-rna-sequencing/</link>
     </image>
     
     <item>
       <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>https://example.com/publication/mayer-2019-tl/</link>
+      <link>http://localhost:1313/publication/mayer-2019-tl/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mayer-2019-tl/</guid>
+      <guid>http://localhost:1313/publication/mayer-2019-tl/</guid>
       <description></description>
     </item>
     

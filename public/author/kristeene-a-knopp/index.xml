@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kristeene A Knopp | Kriegstein Lab</title>
-    <link>https://example.com/author/kristeene-a-knopp/</link>
-      <atom:link href="https://example.com/author/kristeene-a-knopp/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kristeene A Knopp</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <title>Kristeene a Knopp | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/kristeene-a-knopp/</link>
+      <atom:link href="http://localhost:1313/author/kristeene-a-knopp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristeene a Knopp</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>Kristeene A Knopp</title>
-      <link>https://example.com/author/kristeene-a-knopp/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Kristeene a Knopp</title>
+      <link>http://localhost:1313/author/kristeene-a-knopp/</link>
     </image>
     
     <item>
       <title>Zika virus alters centrosome organization to suppress the innate immune response</title>
-      <link>https://example.com/publication/kodani-2022-lj/</link>
+      <link>http://localhost:1313/publication/kodani-2022-lj/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kodani-2022-lj/</guid>
+      <guid>http://localhost:1313/publication/kodani-2022-lj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
-      <link>https://example.com/publication/retallack-2016-pw/</link>
+      <link>http://localhost:1313/publication/retallack-2016-pw/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/retallack-2016-pw/</guid>
+      <guid>http://localhost:1313/publication/retallack-2016-pw/</guid>
       <description></description>
     </item>
     

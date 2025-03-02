@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Huang | Kriegstein Lab</title>
-    <link>https://example.com/author/wei-huang/</link>
-      <atom:link href="https://example.com/author/wei-huang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/wei-huang/</link>
+      <atom:link href="http://localhost:1313/author/wei-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Huang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Wei Huang</title>
-      <link>https://example.com/author/wei-huang/</link>
+      <link>http://localhost:1313/author/wei-huang/</link>
     </image>
     
     <item>
       <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells</title>
-      <link>https://example.com/publication/huang-2020-zf/</link>
+      <link>http://localhost:1313/publication/huang-2020-zf/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/huang-2020-zf/</guid>
+      <guid>http://localhost:1313/publication/huang-2020-zf/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lenka Maliskova | Kriegstein Lab</title>
-    <link>https://example.com/author/lenka-maliskova/</link>
-      <atom:link href="https://example.com/author/lenka-maliskova/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lenka-maliskova/</link>
+      <atom:link href="http://localhost:1313/author/lenka-maliskova/index.xml" rel="self" type="application/rss+xml" />
     <description>Lenka Maliskova</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Lenka Maliskova</title>
-      <link>https://example.com/author/lenka-maliskova/</link>
+      <link>http://localhost:1313/author/lenka-maliskova/</link>
     </image>
     
     <item>
       <title>Cell-type-specific 3D epigenomes in the developing human cortex</title>
-      <link>https://example.com/publication/song-2020-fz/</link>
+      <link>http://localhost:1313/publication/song-2020-fz/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/song-2020-fz/</guid>
+      <guid>http://localhost:1313/publication/song-2020-fz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMART-Q: An Integrative Pipeline Quantifying Cell Type-Specific RNA Transcription</title>
-      <link>https://example.com/publication/yang-2020-ft/</link>
+      <link>http://localhost:1313/publication/yang-2020-ft/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yang-2020-ft/</guid>
+      <guid>http://localhost:1313/publication/yang-2020-ft/</guid>
       <description></description>
     </item>
     

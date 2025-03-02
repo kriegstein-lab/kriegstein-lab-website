@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: better_lab_photo.jpg
+        media: lab_photo.jpg
         fit: cover
     - title: Cortical Organoids
       content: 'Cortical Organoids from human stem cells'

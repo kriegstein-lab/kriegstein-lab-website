@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juan Moriano
+title: Juan Moriano, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Students
+  - Postdoctoral Scholars
 ---
 
 Juan is a PhD candidate from the University of Barcelona and is currently doing a research visit at our laboratory to study primate brain evolution and neocortical development using single-cell and spatial transcriptomics. His PhD thesis focuses on the investigation of the molecular mechanisms governing indirect neurogenesis during human corticogenesis, and how the regulation of such mechanisms has been modified over the course of human evolution.

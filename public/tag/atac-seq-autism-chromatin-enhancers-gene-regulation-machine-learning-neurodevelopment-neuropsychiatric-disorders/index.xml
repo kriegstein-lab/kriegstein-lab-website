@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ATAC-seq; autism; chromatin; enhancers; gene regulation; machine learning; neurodevelopment; neuropsychiatric disorders | Kriegstein Lab</title>
-    <link>https://example.com/tag/atac-seq-autism-chromatin-enhancers-gene-regulation-machine-learning-neurodevelopment-neuropsychiatric-disorders/</link>
-      <atom:link href="https://example.com/tag/atac-seq-autism-chromatin-enhancers-gene-regulation-machine-learning-neurodevelopment-neuropsychiatric-disorders/index.xml" rel="self" type="application/rss+xml" />
-    <description>ATAC-seq; autism; chromatin; enhancers; gene regulation; machine learning; neurodevelopment; neuropsychiatric disorders</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <title>ATAC-Seq; Autism; Chromatin; Enhancers; Gene Regulation; Machine Learning; Neurodevelopment; Neuropsychiatric Disorders | Kriegstein Lab</title>
+    <link>http://localhost:1313/tag/atac-seq-autism-chromatin-enhancers-gene-regulation-machine-learning-neurodevelopment-neuropsychiatric-disorders/</link>
+      <atom:link href="http://localhost:1313/tag/atac-seq-autism-chromatin-enhancers-gene-regulation-machine-learning-neurodevelopment-neuropsychiatric-disorders/index.xml" rel="self" type="application/rss+xml" />
+    <description>ATAC-Seq; Autism; Chromatin; Enhancers; Gene Regulation; Machine Learning; Neurodevelopment; Neuropsychiatric Disorders</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>ATAC-seq; autism; chromatin; enhancers; gene regulation; machine learning; neurodevelopment; neuropsychiatric disorders</title>
-      <link>https://example.com/tag/atac-seq-autism-chromatin-enhancers-gene-regulation-machine-learning-neurodevelopment-neuropsychiatric-disorders/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>ATAC-Seq; Autism; Chromatin; Enhancers; Gene Regulation; Machine Learning; Neurodevelopment; Neuropsychiatric Disorders</title>
+      <link>http://localhost:1313/tag/atac-seq-autism-chromatin-enhancers-gene-regulation-machine-learning-neurodevelopment-neuropsychiatric-disorders/</link>
     </image>
     
     <item>
       <title>A Chromatin Accessibility Atlas of the Developing Human Telencephalon</title>
-      <link>https://example.com/publication/markenscoff-papadimitriou-2020-bc/</link>
+      <link>http://localhost:1313/publication/markenscoff-papadimitriou-2020-bc/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/markenscoff-papadimitriou-2020-bc/</guid>
+      <guid>http://localhost:1313/publication/markenscoff-papadimitriou-2020-bc/</guid>
       <description></description>
     </item>
     

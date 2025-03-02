@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lilian Gomes de Oliveira | Kriegstein Lab</title>
-    <link>https://example.com/author/lilian-gomes-de-oliveira/</link>
-      <atom:link href="https://example.com/author/lilian-gomes-de-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lilian-gomes-de-oliveira/</link>
+      <atom:link href="http://localhost:1313/author/lilian-gomes-de-oliveira/index.xml" rel="self" type="application/rss+xml" />
     <description>Lilian Gomes de Oliveira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/lilian-gomes-de-oliveira/avatar_hu3bb7b8343e6f0a8dedcd1ede1ed663ea_28130_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>http://localhost:1313/author/lilian-gomes-de-oliveira/avatar_hu_9b988d3f255f36a8.jpeg</url>
       <title>Lilian Gomes de Oliveira</title>
-      <link>https://example.com/author/lilian-gomes-de-oliveira/</link>
+      <link>http://localhost:1313/author/lilian-gomes-de-oliveira/</link>
     </image>
+    
+    <item>
+      <title>Lilian Gomes de Oliveira</title>
+      <link>http://localhost:1313/author/lilian-gomes-de-oliveira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/lilian-gomes-de-oliveira/</guid>
+      <description>&lt;p&gt;Lilian received a BA in Biomedical Sciences in 2015 from São Camilo University Centre and her master in Immunology in 2019 from University of São Paulo. During her master Lilian focused in understanding the role of TAM receptors during congenital Zika virus (ZIKV) infection in an immunocompetent mouse model. The project was developed in Brazil at University of São Paulo under the supervision of Prof. Jean Pierre Schatzmann Peron and in USA at Yale University under Prof. Carla Rothlin supervision. Lilian is currently a PhD candidate from Peron`s Lab at Immunology department of University of São Paulo focused on clarifying the immunometabolic dysregulation in astrocytes during ZIKV infection. In 2022, Lilian joined Kriegstein`s Lab as a Fulbright visiting student to study ZIKV-induced alterations in radial glial cells and explore key aspects of innate immune response in this cell type. Her main interests are related to the brain immunometabolic aspects in health and disease.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe Shuga | Kriegstein Lab</title>
-    <link>https://example.com/author/joe-shuga/</link>
-      <atom:link href="https://example.com/author/joe-shuga/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/joe-shuga/</link>
+      <atom:link href="http://localhost:1313/author/joe-shuga/index.xml" rel="self" type="application/rss+xml" />
     <description>Joe Shuga</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Joe Shuga</title>
-      <link>https://example.com/author/joe-shuga/</link>
+      <link>http://localhost:1313/author/joe-shuga/</link>
     </image>
     
     <item>
       <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
-      <link>https://example.com/publication/pollen-2019-vm/</link>
+      <link>http://localhost:1313/publication/pollen-2019-vm/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2019-vm/</guid>
+      <guid>http://localhost:1313/publication/pollen-2019-vm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <link>http://localhost:1313/publication/nowakowski-2017-et/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <guid>http://localhost:1313/publication/nowakowski-2017-et/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>https://example.com/publication/pollen-2015-mc/</link>
+      <link>http://localhost:1313/publication/pollen-2015-mc/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2015-mc/</guid>
+      <guid>http://localhost:1313/publication/pollen-2015-mc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
-      <link>https://example.com/publication/pollen-2014-ow/</link>
+      <link>http://localhost:1313/publication/pollen-2014-ow/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2014-ow/</guid>
+      <guid>http://localhost:1313/publication/pollen-2014-ow/</guid>
       <description></description>
     </item>
     

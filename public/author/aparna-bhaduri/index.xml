@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aparna Bhaduri | Kriegstein Lab</title>
-    <link>https://example.com/author/aparna-bhaduri/</link>
-      <atom:link href="https://example.com/author/aparna-bhaduri/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/aparna-bhaduri/</link>
+      <atom:link href="http://localhost:1313/author/aparna-bhaduri/index.xml" rel="self" type="application/rss+xml" />
     <description>Aparna Bhaduri</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Aparna Bhaduri</title>
-      <link>https://example.com/author/aparna-bhaduri/</link>
+      <link>http://localhost:1313/author/aparna-bhaduri/</link>
     </image>
     
     <item>
       <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
-      <link>https://example.com/publication/crouch-2022-fv/</link>
+      <link>http://localhost:1313/publication/crouch-2022-fv/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/crouch-2022-fv/</guid>
+      <guid>http://localhost:1313/publication/crouch-2022-fv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of Lipid Heterogeneity and Diversity in the Developing Human Brain</title>
-      <link>https://example.com/publication/bhaduri-2021-ch/</link>
+      <link>http://localhost:1313/publication/bhaduri-2021-ch/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bhaduri-2021-ch/</guid>
+      <guid>http://localhost:1313/publication/bhaduri-2021-ch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An atlas of cortical arealization identifies dynamic molecular signatures</title>
-      <link>https://example.com/publication/bhaduri-2021-qf/</link>
+      <link>http://localhost:1313/publication/bhaduri-2021-qf/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bhaduri-2021-qf/</guid>
+      <guid>http://localhost:1313/publication/bhaduri-2021-qf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human intermediate progenitor diversity during cortical development</title>
-      <link>https://example.com/publication/pebworth-2021-nn/</link>
+      <link>http://localhost:1313/publication/pebworth-2021-nn/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pebworth-2021-nn/</guid>
+      <guid>http://localhost:1313/publication/pebworth-2021-nn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia</title>
-      <link>https://example.com/publication/eze-2021-aw/</link>
+      <link>http://localhost:1313/publication/eze-2021-aw/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eze-2021-aw/</guid>
+      <guid>http://localhost:1313/publication/eze-2021-aw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Are Organoids Ready for Prime Time?</title>
-      <link>https://example.com/publication/bhaduri-2020-fo/</link>
+      <link>http://localhost:1313/publication/bhaduri-2020-fo/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bhaduri-2020-fo/</guid>
+      <guid>http://localhost:1313/publication/bhaduri-2020-fo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-Cell Analyses Identify Brain Mural Cells Expressing CD19 as Potential Off-Tumor Targets for CAR-T Immunotherapies</title>
-      <link>https://example.com/publication/parker-2020-tr/</link>
+      <link>http://localhost:1313/publication/parker-2020-tr/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/parker-2020-tr/</guid>
+      <guid>http://localhost:1313/publication/parker-2020-tr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells</title>
-      <link>https://example.com/publication/huang-2020-zf/</link>
+      <link>http://localhost:1313/publication/huang-2020-zf/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/huang-2020-zf/</guid>
+      <guid>http://localhost:1313/publication/huang-2020-zf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cortical Neural Stem Cell Lineage Progression Is Regulated by Extrinsic Signaling Molecule Sonic Hedgehog</title>
-      <link>https://example.com/publication/zhang-2020-ie/</link>
+      <link>http://localhost:1313/publication/zhang-2020-ie/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang-2020-ie/</guid>
+      <guid>http://localhost:1313/publication/zhang-2020-ie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell stress in cortical organoids impairs molecular subtype specification</title>
-      <link>https://example.com/publication/bhaduri-2020-as/</link>
+      <link>http://localhost:1313/publication/bhaduri-2020-as/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bhaduri-2020-as/</guid>
+      <guid>http://localhost:1313/publication/bhaduri-2020-as/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma</title>
-      <link>https://example.com/publication/bhaduri-2020-pa/</link>
+      <link>http://localhost:1313/publication/bhaduri-2020-pa/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bhaduri-2020-pa/</guid>
+      <guid>http://localhost:1313/publication/bhaduri-2020-pa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
-      <link>https://example.com/publication/schirmer-2019-jc/</link>
+      <link>http://localhost:1313/publication/schirmer-2019-jc/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/schirmer-2019-jc/</guid>
+      <guid>http://localhost:1313/publication/schirmer-2019-jc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
-      <link>https://example.com/publication/velmeshev-2019-uk/</link>
+      <link>http://localhost:1313/publication/velmeshev-2019-uk/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/velmeshev-2019-uk/</guid>
+      <guid>http://localhost:1313/publication/velmeshev-2019-uk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
-      <link>https://example.com/publication/pollen-2019-vm/</link>
+      <link>http://localhost:1313/publication/pollen-2019-vm/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2019-vm/</guid>
+      <guid>http://localhost:1313/publication/pollen-2019-vm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>https://example.com/publication/mayer-2019-tl/</link>
+      <link>http://localhost:1313/publication/mayer-2019-tl/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mayer-2019-tl/</guid>
+      <guid>http://localhost:1313/publication/mayer-2019-tl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuroserpin expression during human brain development and in adult brain revealed by immunohistochemistry and single cell RNA sequencing</title>
-      <link>https://example.com/publication/adorjan-2019-rx/</link>
+      <link>http://localhost:1313/publication/adorjan-2019-rx/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/adorjan-2019-rx/</guid>
+      <guid>http://localhost:1313/publication/adorjan-2019-rx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of cell types in a mouse brain single-cell atlas using low sampling coverage</title>
-      <link>https://example.com/publication/bhaduri-2018-ew/</link>
+      <link>http://localhost:1313/publication/bhaduri-2018-ew/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bhaduri-2018-ew/</guid>
+      <guid>http://localhost:1313/publication/bhaduri-2018-ew/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
-      <link>https://example.com/publication/muller-2017-zp/</link>
+      <link>http://localhost:1313/publication/muller-2017-zp/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/muller-2017-zp/</guid>
+      <guid>http://localhost:1313/publication/muller-2017-zp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>https://example.com/publication/nowakowski-2017-et/</link>
+      <link>http://localhost:1313/publication/nowakowski-2017-et/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nowakowski-2017-et/</guid>
+      <guid>http://localhost:1313/publication/nowakowski-2017-et/</guid>
       <description></description>
     </item>
     

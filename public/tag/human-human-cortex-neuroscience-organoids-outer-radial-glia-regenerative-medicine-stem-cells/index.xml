@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>human; human cortex; neuroscience; organoids; outer radial glia; regenerative medicine; stem cells | Kriegstein Lab</title>
-    <link>https://example.com/tag/human-human-cortex-neuroscience-organoids-outer-radial-glia-regenerative-medicine-stem-cells/</link>
-      <atom:link href="https://example.com/tag/human-human-cortex-neuroscience-organoids-outer-radial-glia-regenerative-medicine-stem-cells/index.xml" rel="self" type="application/rss+xml" />
-    <description>human; human cortex; neuroscience; organoids; outer radial glia; regenerative medicine; stem cells</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <title>Human; Human Cortex; Neuroscience; Organoids; Outer Radial Glia; Regenerative Medicine; Stem Cells | Kriegstein Lab</title>
+    <link>http://localhost:1313/tag/human-human-cortex-neuroscience-organoids-outer-radial-glia-regenerative-medicine-stem-cells/</link>
+      <atom:link href="http://localhost:1313/tag/human-human-cortex-neuroscience-organoids-outer-radial-glia-regenerative-medicine-stem-cells/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human; Human Cortex; Neuroscience; Organoids; Outer Radial Glia; Regenerative Medicine; Stem Cells</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
-      <title>human; human cortex; neuroscience; organoids; outer radial glia; regenerative medicine; stem cells</title>
-      <link>https://example.com/tag/human-human-cortex-neuroscience-organoids-outer-radial-glia-regenerative-medicine-stem-cells/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Human; Human Cortex; Neuroscience; Organoids; Outer Radial Glia; Regenerative Medicine; Stem Cells</title>
+      <link>http://localhost:1313/tag/human-human-cortex-neuroscience-organoids-outer-radial-glia-regenerative-medicine-stem-cells/</link>
     </image>
     
     <item>
       <title>mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex</title>
-      <link>https://example.com/publication/andrews-2020-nm/</link>
+      <link>http://localhost:1313/publication/andrews-2020-nm/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/andrews-2020-nm/</guid>
+      <guid>http://localhost:1313/publication/andrews-2020-nm/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiadong Chen | Kriegstein Lab</title>
-    <link>https://example.com/author/jiadong-chen/</link>
-      <atom:link href="https://example.com/author/jiadong-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jiadong-chen/</link>
+      <atom:link href="http://localhost:1313/author/jiadong-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiadong Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Jiadong Chen</title>
-      <link>https://example.com/author/jiadong-chen/</link>
+      <link>http://localhost:1313/author/jiadong-chen/</link>
     </image>
     
     <item>
       <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>https://example.com/publication/mayer-2019-tl/</link>
+      <link>http://localhost:1313/publication/mayer-2019-tl/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mayer-2019-tl/</guid>
+      <guid>http://localhost:1313/publication/mayer-2019-tl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transplanted Human Stem Cell-Derived Interneuron Precursors Mitigate Mouse Bladder Dysfunction and Central Neuropathic Pain after Spinal Cord Injury</title>
-      <link>https://example.com/publication/fandel-2016-ay/</link>
+      <link>http://localhost:1313/publication/fandel-2016-ay/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fandel-2016-ay/</guid>
+      <guid>http://localhost:1313/publication/fandel-2016-ay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A GABAergic projection from the zona incerta to cortex promotes cortical neuron development</title>
-      <link>https://example.com/publication/chen-2015-oa/</link>
+      <link>http://localhost:1313/publication/chen-2015-oa/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chen-2015-oa/</guid>
+      <guid>http://localhost:1313/publication/chen-2015-oa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>https://example.com/publication/pollen-2015-mc/</link>
+      <link>http://localhost:1313/publication/pollen-2015-mc/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pollen-2015-mc/</guid>
+      <guid>http://localhost:1313/publication/pollen-2015-mc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
-      <link>https://example.com/publication/price-2014-lp/</link>
+      <link>http://localhost:1313/publication/price-2014-lp/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/price-2014-lp/</guid>
+      <guid>http://localhost:1313/publication/price-2014-lp/</guid>
       <description></description>
     </item>
     

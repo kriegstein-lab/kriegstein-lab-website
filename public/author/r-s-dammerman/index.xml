@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R S Dammerman | Kriegstein Lab</title>
-    <link>https://example.com/author/r-s-dammerman/</link>
-      <atom:link href="https://example.com/author/r-s-dammerman/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/r-s-dammerman/</link>
+      <atom:link href="http://localhost:1313/author/r-s-dammerman/index.xml" rel="self" type="application/rss+xml" />
     <description>R S Dammerman</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2001 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2001 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>R S Dammerman</title>
-      <link>https://example.com/author/r-s-dammerman/</link>
+      <link>http://localhost:1313/author/r-s-dammerman/</link>
     </image>
     
     <item>
       <title>Neurons derived from radial glial cells establish radial units in neocortex</title>
-      <link>https://example.com/publication/noctor-2001-kn/</link>
+      <link>http://localhost:1313/publication/noctor-2001-kn/</link>
       <pubDate>Thu, 01 Feb 2001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/noctor-2001-kn/</guid>
+      <guid>http://localhost:1313/publication/noctor-2001-kn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transient actions of neurotransmitters during neocortical development</title>
-      <link>https://example.com/publication/dammerman-2000-mo/</link>
+      <link>http://localhost:1313/publication/dammerman-2000-mo/</link>
       <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dammerman-2000-mo/</guid>
+      <guid>http://localhost:1313/publication/dammerman-2000-mo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An excitatory GABAergic plexus in developing neocortical layer 1</title>
-      <link>https://example.com/publication/dammerman-2000-yv/</link>
+      <link>http://localhost:1313/publication/dammerman-2000-yv/</link>
       <pubDate>Sat, 01 Jul 2000 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dammerman-2000-yv/</guid>
+      <guid>http://localhost:1313/publication/dammerman-2000-yv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extrinsic GABAergic innervation of developing neocortical layer 1 in organotypic slice co-cultures</title>
-      <link>https://example.com/publication/dammerman-2000-jq/</link>
+      <link>http://localhost:1313/publication/dammerman-2000-jq/</link>
       <pubDate>Sat, 01 Jul 2000 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dammerman-2000-jq/</guid>
+      <guid>http://localhost:1313/publication/dammerman-2000-jq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calcium dynamics of neocortical ventricular zone cells</title>
-      <link>https://example.com/publication/owens-2000-nl/</link>
+      <link>http://localhost:1313/publication/owens-2000-nl/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/owens-2000-nl/</guid>
+      <guid>http://localhost:1313/publication/owens-2000-nl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Endogenous activation of metabotropic glutamate receptors in neocortical development causes neuronal calcium oscillations</title>
-      <link>https://example.com/publication/flint-1999-ol/</link>
+      <link>http://localhost:1313/publication/flint-1999-ol/</link>
       <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/flint-1999-ol/</guid>
+      <guid>http://localhost:1313/publication/flint-1999-ol/</guid>
       <description></description>
     </item>
     

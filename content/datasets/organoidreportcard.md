@@ -1,6 +1,6 @@
 ---
 widget: hero
-weight: 2
+weight: 3
 active: true
 headless: true
 

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiapei Chen | Kriegstein Lab</title>
-    <link>https://example.com/author/jiapei-chen/</link>
-      <atom:link href="https://example.com/author/jiapei-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jiapei-chen/</link>
+      <atom:link href="http://localhost:1313/author/jiapei-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiapei Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1244939de2e7776a4603168b3e6d305e_27846_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Jiapei Chen</title>
-      <link>https://example.com/author/jiapei-chen/</link>
+      <link>http://localhost:1313/author/jiapei-chen/</link>
     </image>
     
     <item>
       <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
-      <link>https://example.com/publication/crouch-2022-fv/</link>
+      <link>http://localhost:1313/publication/crouch-2022-fv/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/crouch-2022-fv/</guid>
+      <guid>http://localhost:1313/publication/crouch-2022-fv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency</title>
-      <link>https://example.com/publication/zhang-2020-dj/</link>
+      <link>http://localhost:1313/publication/zhang-2020-dj/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang-2020-dj/</guid>
+      <guid>http://localhost:1313/publication/zhang-2020-dj/</guid>
       <description></description>
     </item>
     
