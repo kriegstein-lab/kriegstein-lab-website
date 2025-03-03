@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Avoli | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/m-avoli/</link>
-      <atom:link href="http://localhost:1313/author/m-avoli/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/m-avoli/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/m-avoli/index.xml" rel="self" type="application/rss+xml" />
     <description>M Avoli</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>M Avoli</title>
-      <link>http://localhost:1313/author/m-avoli/</link>
+      <link>https://www.kriegstein-lab.com/author/m-avoli/</link>
     </image>
     
     <item>
       <title>Ontogeny of channels, transmitters and epileptogenesis</title>
-      <link>http://localhost:1313/publication/kriegstein-1999-fb/</link>
+      <link>https://www.kriegstein-lab.com/publication/kriegstein-1999-fb/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kriegstein-1999-fb/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/kriegstein-1999-fb/</guid>
       <description></description>
     </item>
     

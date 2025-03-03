@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clara-Vita Siebert | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/clara-vita-siebert/</link>
-      <atom:link href="http://localhost:1313/author/clara-vita-siebert/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/clara-vita-siebert/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/clara-vita-siebert/index.xml" rel="self" type="application/rss+xml" />
     <description>Clara-Vita Siebert</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Clara-Vita Siebert</title>
-      <link>http://localhost:1313/author/clara-vita-siebert/</link>
+      <link>https://www.kriegstein-lab.com/author/clara-vita-siebert/</link>
     </image>
     
     <item>
       <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2022-ty/</link>
+      <link>https://www.kriegstein-lab.com/publication/andrews-2022-ty/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2022-ty/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/andrews-2022-ty/</guid>
       <description></description>
     </item>
     

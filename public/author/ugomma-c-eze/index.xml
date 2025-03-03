@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ugomma C Eze | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/ugomma-c-eze/</link>
-      <atom:link href="http://localhost:1313/author/ugomma-c-eze/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/ugomma-c-eze/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/ugomma-c-eze/index.xml" rel="self" type="application/rss+xml" />
     <description>Ugomma C Eze</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Ugomma C Eze</title>
-      <link>http://localhost:1313/author/ugomma-c-eze/</link>
+      <link>https://www.kriegstein-lab.com/author/ugomma-c-eze/</link>
     </image>
     
     <item>
       <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
-      <link>http://localhost:1313/publication/crouch-2022-fv/</link>
+      <link>https://www.kriegstein-lab.com/publication/crouch-2022-fv/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/crouch-2022-fv/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/crouch-2022-fv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2022-ty/</link>
+      <link>https://www.kriegstein-lab.com/publication/andrews-2022-ty/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2022-ty/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/andrews-2022-ty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An atlas of cortical arealization identifies dynamic molecular signatures</title>
-      <link>http://localhost:1313/publication/bhaduri-2021-qf/</link>
+      <link>https://www.kriegstein-lab.com/publication/bhaduri-2021-qf/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bhaduri-2021-qf/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/bhaduri-2021-qf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia</title>
-      <link>http://localhost:1313/publication/eze-2021-aw/</link>
+      <link>https://www.kriegstein-lab.com/publication/eze-2021-aw/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/eze-2021-aw/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/eze-2021-aw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2021-xv/</link>
+      <link>https://www.kriegstein-lab.com/publication/andrews-2021-xv/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2021-xv/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/andrews-2021-xv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell-type-specific 3D epigenomes in the developing human cortex</title>
-      <link>http://localhost:1313/publication/song-2020-fz/</link>
+      <link>https://www.kriegstein-lab.com/publication/song-2020-fz/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/song-2020-fz/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/song-2020-fz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>http://localhost:1313/publication/mayer-2019-tl/</link>
+      <link>https://www.kriegstein-lab.com/publication/mayer-2019-tl/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mayer-2019-tl/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/mayer-2019-tl/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joseph L DeRisi | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/joseph-l-derisi/</link>
-      <atom:link href="http://localhost:1313/author/joseph-l-derisi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/joseph-l-derisi/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/joseph-l-derisi/index.xml" rel="self" type="application/rss+xml" />
     <description>Joseph L DeRisi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Joseph L DeRisi</title>
-      <link>http://localhost:1313/author/joseph-l-derisi/</link>
+      <link>https://www.kriegstein-lab.com/author/joseph-l-derisi/</link>
     </image>
     
     <item>
       <title>Zika virus alters centrosome organization to suppress the innate immune response</title>
-      <link>http://localhost:1313/publication/kodani-2022-lj/</link>
+      <link>https://www.kriegstein-lab.com/publication/kodani-2022-lj/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kodani-2022-lj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/kodani-2022-lj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuroglial stem cell-derived inflammatory pseudotumor (n-SCIPT): clinicopathologic characterization of a novel lesion of the lumbosacral spinal cord and nerve roots following intrathecal allogeneic stem cell intervention</title>
-      <link>http://localhost:1313/publication/sloan-2019-bo/</link>
+      <link>https://www.kriegstein-lab.com/publication/sloan-2019-bo/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sloan-2019-bo/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/sloan-2019-bo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
-      <link>http://localhost:1313/publication/retallack-2016-pw/</link>
+      <link>https://www.kriegstein-lab.com/publication/retallack-2016-pw/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/retallack-2016-pw/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/retallack-2016-pw/</guid>
       <description></description>
     </item>
     

@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M G Blanton | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/m-g-blanton/</link>
-      <atom:link href="http://localhost:1313/author/m-g-blanton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/m-g-blanton/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/m-g-blanton/index.xml" rel="self" type="application/rss+xml" />
     <description>M G Blanton</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 1992 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>M G Blanton</title>
-      <link>http://localhost:1313/author/m-g-blanton/</link>
+      <link>https://www.kriegstein-lab.com/author/m-g-blanton/</link>
     </image>
     
     <item>
       <title>Properties of amino acid neurotransmitter receptors of embryonic cortical neurons when activated by exogenous and endogenous agonists</title>
-      <link>http://localhost:1313/publication/blanton-1992-az/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1992-az/</link>
       <pubDate>Fri, 01 May 1992 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1992-az/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1992-az/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal action-potential bursts and synchronized, GABA-mediated inhibitory potentials in an in vitro model of focal epilepsy</title>
-      <link>http://localhost:1313/publication/troyer-1992-ro/</link>
+      <link>https://www.kriegstein-lab.com/publication/troyer-1992-ro/</link>
       <pubDate>Sun, 01 Mar 1992 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/troyer-1992-ro/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/troyer-1992-ro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spontaneous action potential activity and synaptic currents in the embryonic turtle cerebral cortex</title>
-      <link>http://localhost:1313/publication/blanton-1991-uj/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1991-uj/</link>
       <pubDate>Sun, 01 Dec 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1991-uj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1991-uj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Appearance of putative amino acid neurotransmitters during differentiation of neurons in embryonic turtle cerebral cortex</title>
-      <link>http://localhost:1313/publication/blanton-1991-lg/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1991-lg/</link>
       <pubDate>Thu, 01 Aug 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1991-lg/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1991-lg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological differentiation of distinct neuronal classes in embryonic turtle cerebral cortex</title>
-      <link>http://localhost:1313/publication/blanton-1991-at/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1991-at/</link>
       <pubDate>Thu, 01 Aug 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1991-at/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1991-at/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial expression and endogenous activation of NMDA channels in early neocortical development</title>
-      <link>http://localhost:1313/publication/lo-turco-1991-xv/</link>
+      <link>https://www.kriegstein-lab.com/publication/lo-turco-1991-xv/</link>
       <pubDate>Fri, 01 Mar 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lo-turco-1991-xv/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/lo-turco-1991-xv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Endogenous neurotransmitter activates N-methyl-D-aspartate receptors on differentiating neurons in embryonic cortex</title>
-      <link>http://localhost:1313/publication/blanton-1990-pg/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1990-pg/</link>
       <pubDate>Mon, 01 Oct 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1990-pg/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1990-pg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole cell recording from neurons in slices of reptilian and mammalian cerebral cortex</title>
-      <link>http://localhost:1313/publication/blanton-1989-tq/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1989-tq/</link>
       <pubDate>Fri, 01 Dec 1989 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1989-tq/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1989-tq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for the inhibitory neurotransmitter gamma-aminobutyric acid in aspiny and sparsely spiny nonpyramidal neurons of the turtle dorsal cortex</title>
-      <link>http://localhost:1313/publication/blanton-1987-oz/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1987-oz/</link>
       <pubDate>Fri, 01 May 1987 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1987-oz/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1987-oz/</guid>
       <description></description>
     </item>
     

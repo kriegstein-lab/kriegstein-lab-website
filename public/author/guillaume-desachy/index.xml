@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guillaume Desachy | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/guillaume-desachy/</link>
-      <atom:link href="http://localhost:1313/author/guillaume-desachy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/guillaume-desachy/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/guillaume-desachy/index.xml" rel="self" type="application/rss+xml" />
     <description>Guillaume Desachy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Guillaume Desachy</title>
-      <link>http://localhost:1313/author/guillaume-desachy/</link>
+      <link>https://www.kriegstein-lab.com/author/guillaume-desachy/</link>
     </image>
     
     <item>
       <title>Cell-autonomous correction of ring chromosomes in human induced pluripotent stem cells</title>
-      <link>http://localhost:1313/publication/bershteyn-2014-ih/</link>
+      <link>https://www.kriegstein-lab.com/publication/bershteyn-2014-ih/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bershteyn-2014-ih/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/bershteyn-2014-ih/</guid>
       <description></description>
     </item>
     

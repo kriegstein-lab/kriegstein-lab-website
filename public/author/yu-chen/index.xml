@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yu Chen | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/yu-chen/</link>
-      <atom:link href="http://localhost:1313/author/yu-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/yu-chen/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/yu-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Chen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Yu Chen</title>
-      <link>http://localhost:1313/author/yu-chen/</link>
+      <link>https://www.kriegstein-lab.com/author/yu-chen/</link>
     </image>
     
     <item>
       <title>LIS1 RNA interference blocks neural stem cell division, morphogenesis, and motility at multiple stages</title>
-      <link>http://localhost:1313/publication/tsai-2005-ei/</link>
+      <link>https://www.kriegstein-lab.com/publication/tsai-2005-ei/</link>
       <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tsai-2005-ei/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/tsai-2005-ei/</guid>
       <description></description>
     </item>
     

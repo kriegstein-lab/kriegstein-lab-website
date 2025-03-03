@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David F Owens | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/david-f-owens/</link>
-      <atom:link href="http://localhost:1313/author/david-f-owens/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/david-f-owens/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/david-f-owens/index.xml" rel="self" type="application/rss+xml" />
     <description>David F Owens</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2002 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>David F Owens</title>
-      <link>http://localhost:1313/author/david-f-owens/</link>
+      <link>https://www.kriegstein-lab.com/author/david-f-owens/</link>
     </image>
     
     <item>
       <title>Developmental neurotransmitters?</title>
-      <link>http://localhost:1313/publication/owens-2002-eu/</link>
+      <link>https://www.kriegstein-lab.com/publication/owens-2002-eu/</link>
       <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/owens-2002-eu/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/owens-2002-eu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is there more to GABA than synaptic inhibition?</title>
-      <link>http://localhost:1313/publication/owens-2002-oj/</link>
+      <link>https://www.kriegstein-lab.com/publication/owens-2002-oj/</link>
       <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/owens-2002-oj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/owens-2002-oj/</guid>
       <description></description>
     </item>
     

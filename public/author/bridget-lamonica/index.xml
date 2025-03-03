@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bridget LaMonica | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/bridget-lamonica/</link>
-      <atom:link href="http://localhost:1313/author/bridget-lamonica/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/bridget-lamonica/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/bridget-lamonica/index.xml" rel="self" type="application/rss+xml" />
     <description>Bridget LaMonica</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Bridget LaMonica</title>
-      <link>http://localhost:1313/author/bridget-lamonica/</link>
+      <link>https://www.kriegstein-lab.com/author/bridget-lamonica/</link>
     </image>
     
     <item>
       <title>A new subtype of progenitor cell in the mouse embryonic neocortex</title>
-      <link>http://localhost:1313/publication/wang-2011-tj/</link>
+      <link>https://www.kriegstein-lab.com/publication/wang-2011-tj/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2011-tj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/wang-2011-tj/</guid>
       <description></description>
     </item>
     

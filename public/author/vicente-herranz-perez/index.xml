@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vicente Herranz-Pérez | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/vicente-herranz-perez/</link>
-      <atom:link href="http://localhost:1313/author/vicente-herranz-perez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/vicente-herranz-perez/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/vicente-herranz-perez/index.xml" rel="self" type="application/rss+xml" />
     <description>Vicente Herranz-Pérez</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Vicente Herranz-Pérez</title>
-      <link>http://localhost:1313/author/vicente-herranz-perez/</link>
+      <link>https://www.kriegstein-lab.com/author/vicente-herranz-perez/</link>
     </image>
     
     <item>
       <title>Immature excitatory neurons develop during adolescence in the human amygdala</title>
-      <link>http://localhost:1313/publication/sorrells-2019-ml/</link>
+      <link>https://www.kriegstein-lab.com/publication/sorrells-2019-ml/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sorrells-2019-ml/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/sorrells-2019-ml/</guid>
       <description></description>
     </item>
     

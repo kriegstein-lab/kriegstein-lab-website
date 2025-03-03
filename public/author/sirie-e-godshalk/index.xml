@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sirie E Godshalk | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/sirie-e-godshalk/</link>
-      <atom:link href="http://localhost:1313/author/sirie-e-godshalk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/sirie-e-godshalk/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/sirie-e-godshalk/index.xml" rel="self" type="application/rss+xml" />
     <description>Sirie E Godshalk</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Sirie E Godshalk</title>
-      <link>http://localhost:1313/author/sirie-e-godshalk/</link>
+      <link>https://www.kriegstein-lab.com/author/sirie-e-godshalk/</link>
     </image>
     
     <item>
       <title>A Primate lncRNA Mediates Notch Signaling during Neuronal Development by Sequestering miRNA</title>
-      <link>http://localhost:1313/publication/rani-2016-zn/</link>
+      <link>https://www.kriegstein-lab.com/publication/rani-2016-zn/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rani-2016-zn/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/rani-2016-zn/</guid>
       <description></description>
     </item>
     

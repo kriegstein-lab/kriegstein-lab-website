@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew White | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/matthew-white/</link>
-      <atom:link href="http://localhost:1313/author/matthew-white/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/matthew-white/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/matthew-white/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew White</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/matthew-white/avatar_hu_3019cda99a38e7e6.jpg</url>
+      <url>https://www.kriegstein-lab.com/author/matthew-white/avatar_hu_3019cda99a38e7e6.jpg</url>
       <title>Matthew White</title>
-      <link>http://localhost:1313/author/matthew-white/</link>
+      <link>https://www.kriegstein-lab.com/author/matthew-white/</link>
     </image>
-    
-    <item>
-      <title>Matthew White</title>
-      <link>http://localhost:1313/author/matthew-white/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/matthew-white/</guid>
-      <description>&lt;p&gt;Matthew&amp;rsquo;s undergraduate research utilized the C. elegans model system to investigate organelle biogenesis in the endosomal pathway, with particular focus on the role of Rab GTPases in regulating this process throughout embryo development.  Now he is engaged with cerebral organoid models to understand the genetic landscape of Autism Spectrum Disorder.  He&amp;rsquo;s also investigating vector-borne viral pathogenesis in the human brain, in light of climate change expanding the range of vector-borne diseases.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

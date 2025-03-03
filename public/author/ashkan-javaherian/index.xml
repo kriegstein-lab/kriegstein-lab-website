@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ashkan Javaherian | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/ashkan-javaherian/</link>
-      <atom:link href="http://localhost:1313/author/ashkan-javaherian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/ashkan-javaherian/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/ashkan-javaherian/index.xml" rel="self" type="application/rss+xml" />
     <description>Ashkan Javaherian</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Ashkan Javaherian</title>
-      <link>http://localhost:1313/author/ashkan-javaherian/</link>
+      <link>https://www.kriegstein-lab.com/author/ashkan-javaherian/</link>
     </image>
     
     <item>
       <title>Radial glia require PDGFD-PDGFR$β$ signalling in human but not mouse neocortex</title>
-      <link>http://localhost:1313/publication/lui-2014-qa/</link>
+      <link>https://www.kriegstein-lab.com/publication/lui-2014-qa/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lui-2014-qa/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/lui-2014-qa/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethan a Benardete | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/ethan-a-benardete/</link>
-      <atom:link href="http://localhost:1313/author/ethan-a-benardete/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/ethan-a-benardete/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/ethan-a-benardete/index.xml" rel="self" type="application/rss+xml" />
     <description>Ethan a Benardete</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2002 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Ethan a Benardete</title>
-      <link>http://localhost:1313/author/ethan-a-benardete/</link>
+      <link>https://www.kriegstein-lab.com/author/ethan-a-benardete/</link>
     </image>
     
     <item>
       <title>Increased excitability and decreased sensitivity to GABA in an animal model of dysplastic cortex</title>
-      <link>http://localhost:1313/publication/benardete-2002-kl/</link>
+      <link>https://www.kriegstein-lab.com/publication/benardete-2002-kl/</link>
       <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/benardete-2002-kl/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/benardete-2002-kl/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yonatan Perez | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/yonatan-perez/</link>
-      <atom:link href="http://localhost:1313/author/yonatan-perez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/yonatan-perez/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/yonatan-perez/index.xml" rel="self" type="application/rss+xml" />
     <description>Yonatan Perez</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Yonatan Perez</title>
-      <link>http://localhost:1313/author/yonatan-perez/</link>
+      <link>https://www.kriegstein-lab.com/author/yonatan-perez/</link>
     </image>
     
     <item>
       <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2022-ty/</link>
+      <link>https://www.kriegstein-lab.com/publication/andrews-2022-ty/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2022-ty/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/andrews-2022-ty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2021-xv/</link>
+      <link>https://www.kriegstein-lab.com/publication/andrews-2021-xv/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2021-xv/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/andrews-2021-xv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
-      <link>http://localhost:1313/publication/velmeshev-2019-uk/</link>
+      <link>https://www.kriegstein-lab.com/publication/velmeshev-2019-uk/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/velmeshev-2019-uk/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/velmeshev-2019-uk/</guid>
       <description></description>
     </item>
     

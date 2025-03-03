@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Songcang Chen, MD | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/songcang-chen-md/</link>
-      <atom:link href="http://localhost:1313/author/songcang-chen-md/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/songcang-chen-md/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/songcang-chen-md/index.xml" rel="self" type="application/rss+xml" />
     <description>Songcang Chen, MD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/songcang-chen-md/avatar_hu_3e6dd386a7a2f889.jpg</url>
+      <url>https://www.kriegstein-lab.com/author/songcang-chen-md/avatar_hu_3e6dd386a7a2f889.jpg</url>
       <title>Songcang Chen, MD</title>
-      <link>http://localhost:1313/author/songcang-chen-md/</link>
+      <link>https://www.kriegstein-lab.com/author/songcang-chen-md/</link>
     </image>
     
     <item>
       <title>Songcang Chen, MD</title>
-      <link>http://localhost:1313/author/songcang-chen-md/</link>
+      <link>https://www.kriegstein-lab.com/author/songcang-chen-md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/songcang-chen-md/</guid>
+      <guid>https://www.kriegstein-lab.com/author/songcang-chen-md/</guid>
       <description>&lt;p&gt;Dr. Chen’s research mainly focuses on vitamin D receptor (VDR) biology and the role of vitamin D in hypertension and cardiometabolic disease. He successfully generated floxed VDR mice and developed several types of tissue/cell-specific VDR knockout mice including CD4+ T lymphocytes. Recently, his is interested in stem cell research and neuroscience.&lt;/p&gt;
 </description>
     </item>

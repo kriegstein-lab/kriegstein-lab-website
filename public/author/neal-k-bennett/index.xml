@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neal K Bennett | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/neal-k-bennett/</link>
-      <atom:link href="http://localhost:1313/author/neal-k-bennett/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/neal-k-bennett/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/neal-k-bennett/index.xml" rel="self" type="application/rss+xml" />
     <description>Neal K Bennett</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Neal K Bennett</title>
-      <link>http://localhost:1313/author/neal-k-bennett/</link>
+      <link>https://www.kriegstein-lab.com/author/neal-k-bennett/</link>
     </image>
     
     <item>
       <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
-      <link>http://localhost:1313/publication/crouch-2022-fv/</link>
+      <link>https://www.kriegstein-lab.com/publication/crouch-2022-fv/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/crouch-2022-fv/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/crouch-2022-fv/</guid>
       <description></description>
     </item>
     

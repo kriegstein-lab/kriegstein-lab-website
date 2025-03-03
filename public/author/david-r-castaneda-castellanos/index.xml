@@ -2,31 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David R Castañeda-Castellanos | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/david-r-castaneda-castellanos/</link>
-      <atom:link href="http://localhost:1313/author/david-r-castaneda-castellanos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/david-r-castaneda-castellanos/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/david-r-castaneda-castellanos/index.xml" rel="self" type="application/rss+xml" />
     <description>David R Castañeda-Castellanos</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>David R Castañeda-Castellanos</title>
-      <link>http://localhost:1313/author/david-r-castaneda-castellanos/</link>
+      <link>https://www.kriegstein-lab.com/author/david-r-castaneda-castellanos/</link>
     </image>
     
     <item>
       <title>Blind patch clamp recordings in embryonic and adult mammalian brain slices</title>
-      <link>http://localhost:1313/publication/castaneda-castellanos-2006-we/</link>
+      <link>https://www.kriegstein-lab.com/publication/castaneda-castellanos-2006-we/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/castaneda-castellanos-2006-we/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/castaneda-castellanos-2006-we/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controlling neuron number: does Numb do the math?</title>
-      <link>http://localhost:1313/publication/castaneda-castellanos-2004-zj/</link>
+      <link>https://www.kriegstein-lab.com/publication/castaneda-castellanos-2004-zj/</link>
       <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/castaneda-castellanos-2004-zj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/castaneda-castellanos-2004-zj/</guid>
       <description></description>
     </item>
     
+  </channel>
+</rss>
   </channel>
 </rss>

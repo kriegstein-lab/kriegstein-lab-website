@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kylie Huch | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/kylie-huch/</link>
-      <atom:link href="http://localhost:1313/author/kylie-huch/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/kylie-huch/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/kylie-huch/index.xml" rel="self" type="application/rss+xml" />
     <description>Kylie Huch</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Kylie Huch</title>
-      <link>http://localhost:1313/author/kylie-huch/</link>
+      <link>https://www.kriegstein-lab.com/author/kylie-huch/</link>
     </image>
     
     <item>
       <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development</title>
-      <link>http://localhost:1313/publication/nowakowski-2018-ma/</link>
+      <link>https://www.kriegstein-lab.com/publication/nowakowski-2018-ma/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2018-ma/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/nowakowski-2018-ma/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mary T Wuerth | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/mary-t-wuerth/</link>
-      <atom:link href="http://localhost:1313/author/mary-t-wuerth/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/mary-t-wuerth/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/mary-t-wuerth/index.xml" rel="self" type="application/rss+xml" />
     <description>Mary T Wuerth</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Mary T Wuerth</title>
-      <link>http://localhost:1313/author/mary-t-wuerth/</link>
+      <link>https://www.kriegstein-lab.com/author/mary-t-wuerth/</link>
     </image>
     
     <item>
       <title>A new era in the ethics of human embryonic stem cell research</title>
-      <link>http://localhost:1313/publication/lo-2005-oe/</link>
+      <link>https://www.kriegstein-lab.com/publication/lo-2005-oe/</link>
       <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lo-2005-oe/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/lo-2005-oe/</guid>
       <description></description>
     </item>
     

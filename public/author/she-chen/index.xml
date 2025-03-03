@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>She Chen | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/she-chen/</link>
-      <atom:link href="http://localhost:1313/author/she-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/she-chen/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/she-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>She Chen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>She Chen</title>
-      <link>http://localhost:1313/author/she-chen/</link>
+      <link>https://www.kriegstein-lab.com/author/she-chen/</link>
     </image>
     
     <item>
       <title>Regulation of microtubule stability and organization by mammalian Par3 in specifying neuronal polarity</title>
-      <link>http://localhost:1313/publication/chen-2012-yi/</link>
+      <link>https://www.kriegstein-lab.com/publication/chen-2012-yi/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2012-yi/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/chen-2012-yi/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sean Whalen | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/sean-whalen/</link>
-      <atom:link href="http://localhost:1313/author/sean-whalen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/sean-whalen/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/sean-whalen/index.xml" rel="self" type="application/rss+xml" />
     <description>Sean Whalen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Sean Whalen</title>
-      <link>http://localhost:1313/author/sean-whalen/</link>
+      <link>https://www.kriegstein-lab.com/author/sean-whalen/</link>
     </image>
     
     <item>
       <title>A Chromatin Accessibility Atlas of the Developing Human Telencephalon</title>
-      <link>http://localhost:1313/publication/markenscoff-papadimitriou-2020-bc/</link>
+      <link>https://www.kriegstein-lab.com/publication/markenscoff-papadimitriou-2020-bc/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/markenscoff-papadimitriou-2020-bc/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/markenscoff-papadimitriou-2020-bc/</guid>
       <description></description>
     </item>
     

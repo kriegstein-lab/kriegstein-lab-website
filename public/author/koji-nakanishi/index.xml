@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Koji Nakanishi | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/koji-nakanishi/</link>
-      <atom:link href="http://localhost:1313/author/koji-nakanishi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/koji-nakanishi/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/koji-nakanishi/index.xml" rel="self" type="application/rss+xml" />
     <description>Koji Nakanishi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Koji Nakanishi</title>
-      <link>http://localhost:1313/author/koji-nakanishi/</link>
+      <link>https://www.kriegstein-lab.com/author/koji-nakanishi/</link>
     </image>
     
     <item>
       <title>Terpene trilactones from Ginkgo biloba are antagonists of cortical glycine and GABA(A) receptors</title>
-      <link>http://localhost:1313/publication/ivic-2003-fv/</link>
+      <link>https://www.kriegstein-lab.com/publication/ivic-2003-fv/</link>
       <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ivic-2003-fv/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/ivic-2003-fv/</guid>
       <description></description>
     </item>
     

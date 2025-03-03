@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul J Sampognaro | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/paul-j-sampognaro/</link>
-      <atom:link href="http://localhost:1313/author/paul-j-sampognaro/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/paul-j-sampognaro/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/paul-j-sampognaro/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul J Sampognaro</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Paul J Sampognaro</title>
-      <link>http://localhost:1313/author/paul-j-sampognaro/</link>
+      <link>https://www.kriegstein-lab.com/author/paul-j-sampognaro/</link>
     </image>
     
     <item>
       <title>Neuroglial stem cell-derived inflammatory pseudotumor (n-SCIPT): clinicopathologic characterization of a novel lesion of the lumbosacral spinal cord and nerve roots following intrathecal allogeneic stem cell intervention</title>
-      <link>http://localhost:1313/publication/sloan-2019-bo/</link>
+      <link>https://www.kriegstein-lab.com/publication/sloan-2019-bo/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sloan-2019-bo/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/sloan-2019-bo/</guid>
       <description></description>
     </item>
     

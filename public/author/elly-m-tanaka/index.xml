@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elly M Tanaka | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/elly-m-tanaka/</link>
-      <atom:link href="http://localhost:1313/author/elly-m-tanaka/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/elly-m-tanaka/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/elly-m-tanaka/index.xml" rel="self" type="application/rss+xml" />
     <description>Elly M Tanaka</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Elly M Tanaka</title>
-      <link>http://localhost:1313/author/elly-m-tanaka/</link>
+      <link>https://www.kriegstein-lab.com/author/elly-m-tanaka/</link>
     </image>
     
     <item>
       <title>Stem cells in the land of the rising sun: ISSCR 2012</title>
-      <link>http://localhost:1313/publication/plath-2012-in/</link>
+      <link>https://www.kriegstein-lab.com/publication/plath-2012-in/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/plath-2012-in/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/plath-2012-in/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lily Yeh Jan | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/lily-yeh-jan/</link>
-      <atom:link href="http://localhost:1313/author/lily-yeh-jan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/lily-yeh-jan/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/lily-yeh-jan/index.xml" rel="self" type="application/rss+xml" />
     <description>Lily Yeh Jan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Lily Yeh Jan</title>
-      <link>http://localhost:1313/author/lily-yeh-jan/</link>
+      <link>https://www.kriegstein-lab.com/author/lily-yeh-jan/</link>
     </image>
     
     <item>
       <title>Mammalian Par3 regulates progenitor cell asymmetric division via notch signaling in the developing neocortex</title>
-      <link>http://localhost:1313/publication/bultje-2009-tx/</link>
+      <link>https://www.kriegstein-lab.com/publication/bultje-2009-tx/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bultje-2009-tx/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/bultje-2009-tx/</guid>
       <description></description>
     </item>
     

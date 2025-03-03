@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clara Siebert | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/clara-siebert/</link>
-      <atom:link href="http://localhost:1313/author/clara-siebert/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/clara-siebert/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/clara-siebert/index.xml" rel="self" type="application/rss+xml" />
     <description>Clara Siebert</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/clara-siebert/avatar_hu_3b50938323ca2d3b.png</url>
+      <url>https://www.kriegstein-lab.com/author/clara-siebert/avatar_hu_3b50938323ca2d3b.png</url>
       <title>Clara Siebert</title>
-      <link>http://localhost:1313/author/clara-siebert/</link>
+      <link>https://www.kriegstein-lab.com/author/clara-siebert/</link>
     </image>
-    
-    <item>
-      <title>Clara Siebert</title>
-      <link>http://localhost:1313/author/clara-siebert/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/clara-siebert/</guid>
-      <description>&lt;p&gt;I am a visiting graduate student interested in understanding neurodevelopmental origins of neuropsychiatric diseases using organoid models.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

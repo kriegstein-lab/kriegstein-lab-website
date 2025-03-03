@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R S Dammerman | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/r-s-dammerman/</link>
-      <atom:link href="http://localhost:1313/author/r-s-dammerman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/r-s-dammerman/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/r-s-dammerman/index.xml" rel="self" type="application/rss+xml" />
     <description>R S Dammerman</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2001 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>R S Dammerman</title>
-      <link>http://localhost:1313/author/r-s-dammerman/</link>
+      <link>https://www.kriegstein-lab.com/author/r-s-dammerman/</link>
     </image>
     
     <item>
       <title>Neurons derived from radial glial cells establish radial units in neocortex</title>
-      <link>http://localhost:1313/publication/noctor-2001-kn/</link>
+      <link>https://www.kriegstein-lab.com/publication/noctor-2001-kn/</link>
       <pubDate>Thu, 01 Feb 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/noctor-2001-kn/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/noctor-2001-kn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transient actions of neurotransmitters during neocortical development</title>
-      <link>http://localhost:1313/publication/dammerman-2000-mo/</link>
+      <link>https://www.kriegstein-lab.com/publication/dammerman-2000-mo/</link>
       <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dammerman-2000-mo/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/dammerman-2000-mo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An excitatory GABAergic plexus in developing neocortical layer 1</title>
-      <link>http://localhost:1313/publication/dammerman-2000-yv/</link>
+      <link>https://www.kriegstein-lab.com/publication/dammerman-2000-yv/</link>
       <pubDate>Sat, 01 Jul 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dammerman-2000-yv/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/dammerman-2000-yv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extrinsic GABAergic innervation of developing neocortical layer 1 in organotypic slice co-cultures</title>
-      <link>http://localhost:1313/publication/dammerman-2000-jq/</link>
+      <link>https://www.kriegstein-lab.com/publication/dammerman-2000-jq/</link>
       <pubDate>Sat, 01 Jul 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dammerman-2000-jq/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/dammerman-2000-jq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calcium dynamics of neocortical ventricular zone cells</title>
-      <link>http://localhost:1313/publication/owens-2000-nl/</link>
+      <link>https://www.kriegstein-lab.com/publication/owens-2000-nl/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/owens-2000-nl/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/owens-2000-nl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Endogenous activation of metabotropic glutamate receptors in neocortical development causes neuronal calcium oscillations</title>
-      <link>http://localhost:1313/publication/flint-1999-ol/</link>
+      <link>https://www.kriegstein-lab.com/publication/flint-1999-ol/</link>
       <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/flint-1999-ol/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/flint-1999-ol/</guid>
       <description></description>
     </item>
     

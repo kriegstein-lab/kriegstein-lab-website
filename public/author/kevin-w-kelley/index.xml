@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin W Kelley | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/kevin-w-kelley/</link>
-      <atom:link href="http://localhost:1313/author/kevin-w-kelley/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/kevin-w-kelley/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/kevin-w-kelley/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin W Kelley</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Kevin W Kelley</title>
-      <link>http://localhost:1313/author/kevin-w-kelley/</link>
+      <link>https://www.kriegstein-lab.com/author/kevin-w-kelley/</link>
     </image>
     
     <item>
       <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency</title>
-      <link>http://localhost:1313/publication/zhang-2020-dj/</link>
+      <link>https://www.kriegstein-lab.com/publication/zhang-2020-dj/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2020-dj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/zhang-2020-dj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does Adult Neurogenesis Persist in the Human Hippocampus?</title>
-      <link>http://localhost:1313/publication/paredes-2018-uu/</link>
+      <link>https://www.kriegstein-lab.com/publication/paredes-2018-uu/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paredes-2018-uu/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/paredes-2018-uu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
-      <link>http://localhost:1313/publication/raju-2018-db/</link>
+      <link>https://www.kriegstein-lab.com/publication/raju-2018-db/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/raju-2018-db/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/raju-2018-db/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults</title>
-      <link>http://localhost:1313/publication/sorrells-2018-dx/</link>
+      <link>https://www.kriegstein-lab.com/publication/sorrells-2018-dx/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sorrells-2018-dx/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/sorrells-2018-dx/</guid>
       <description></description>
     </item>
     

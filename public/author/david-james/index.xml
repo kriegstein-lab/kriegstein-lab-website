@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David James | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/david-james/</link>
-      <atom:link href="http://localhost:1313/author/david-james/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/david-james/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/david-james/index.xml" rel="self" type="application/rss+xml" />
     <description>David James</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>David James</title>
-      <link>http://localhost:1313/author/david-james/</link>
+      <link>https://www.kriegstein-lab.com/author/david-james/</link>
     </image>
     
     <item>
       <title>Does Adult Neurogenesis Persist in the Human Hippocampus?</title>
-      <link>http://localhost:1313/publication/paredes-2018-uu/</link>
+      <link>https://www.kriegstein-lab.com/publication/paredes-2018-uu/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paredes-2018-uu/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/paredes-2018-uu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults</title>
-      <link>http://localhost:1313/publication/sorrells-2018-dx/</link>
+      <link>https://www.kriegstein-lab.com/publication/sorrells-2018-dx/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sorrells-2018-dx/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/sorrells-2018-dx/</guid>
       <description></description>
     </item>
     

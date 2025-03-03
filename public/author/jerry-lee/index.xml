@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jerry Lee | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/jerry-lee/</link>
-      <atom:link href="http://localhost:1313/author/jerry-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/jerry-lee/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/jerry-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Jerry Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Jerry Lee</title>
-      <link>http://localhost:1313/author/jerry-lee/</link>
+      <link>https://www.kriegstein-lab.com/author/jerry-lee/</link>
     </image>
     
     <item>
       <title>Cell-type-specific 3D epigenomes in the developing human cortex</title>
-      <link>http://localhost:1313/publication/song-2020-fz/</link>
+      <link>https://www.kriegstein-lab.com/publication/song-2020-fz/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/song-2020-fz/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/song-2020-fz/</guid>
       <description></description>
     </item>
     

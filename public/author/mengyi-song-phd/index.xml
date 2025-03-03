@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mengyi Song, PhD | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/mengyi-song-phd/</link>
-      <atom:link href="http://localhost:1313/author/mengyi-song-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/mengyi-song-phd/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/mengyi-song-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Mengyi Song, PhD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/mengyi-song-phd/avatar_hu_e3145482d02282fe.png</url>
+      <url>https://www.kriegstein-lab.com/author/mengyi-song-phd/avatar_hu_e3145482d02282fe.png</url>
       <title>Mengyi Song, PhD</title>
-      <link>http://localhost:1313/author/mengyi-song-phd/</link>
+      <link>https://www.kriegstein-lab.com/author/mengyi-song-phd/</link>
     </image>
-    
-    <item>
-      <title>Mengyi Song, PhD</title>
-      <link>http://localhost:1313/author/mengyi-song-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/mengyi-song-phd/</guid>
-      <description>&lt;p&gt;Mengyi is interested in how cells with the same genetic material diversify into specialized cell types. Previously, she was trained in developmental biology and function genomics with a focus of early cardiac lineage during her PhD. Now in the Kriegstein lab, she hopes to apply cutting-edge genomics approaches to understand gene regulation in cell fate specification during brain development and evolution.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

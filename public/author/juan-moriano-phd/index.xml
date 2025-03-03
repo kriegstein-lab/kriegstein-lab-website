@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan Moriano, PhD | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/juan-moriano-phd/</link>
-      <atom:link href="http://localhost:1313/author/juan-moriano-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/juan-moriano-phd/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/juan-moriano-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Moriano, PhD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/juan-moriano-phd/avatar_hu_85da3e4078497e08.jpg</url>
+      <url>https://www.kriegstein-lab.com/author/juan-moriano-phd/avatar_hu_85da3e4078497e08.jpg</url>
       <title>Juan Moriano, PhD</title>
-      <link>http://localhost:1313/author/juan-moriano-phd/</link>
+      <link>https://www.kriegstein-lab.com/author/juan-moriano-phd/</link>
     </image>
-    
-    <item>
-      <title>Juan Moriano, PhD</title>
-      <link>http://localhost:1313/author/juan-moriano-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/juan-moriano-phd/</guid>
-      <description>&lt;p&gt;Juan is a PhD candidate from the University of Barcelona and is currently doing a research visit at our laboratory to study primate brain evolution and neocortical development using single-cell and spatial transcriptomics. His PhD thesis focuses on the investigation of the molecular mechanisms governing indirect neurogenesis during human corticogenesis, and how the regulation of such mechanisms has been modified over the course of human evolution.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sung Jun Hong | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/sung-jun-hong/</link>
-      <atom:link href="http://localhost:1313/author/sung-jun-hong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/sung-jun-hong/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/sung-jun-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Sung Jun Hong</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Sung Jun Hong</title>
-      <link>http://localhost:1313/author/sung-jun-hong/</link>
+      <link>https://www.kriegstein-lab.com/author/sung-jun-hong/</link>
     </image>
     
     <item>
       <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
-      <link>http://localhost:1313/publication/ahanger-2021-ke/</link>
+      <link>https://www.kriegstein-lab.com/publication/ahanger-2021-ke/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahanger-2021-ke/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/ahanger-2021-ke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
-      <link>http://localhost:1313/publication/ramos-2015-sa/</link>
+      <link>https://www.kriegstein-lab.com/publication/ramos-2015-sa/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ramos-2015-sa/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/ramos-2015-sa/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K J Blanton | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/k-j-blanton/</link>
-      <atom:link href="http://localhost:1313/author/k-j-blanton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/k-j-blanton/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/k-j-blanton/index.xml" rel="self" type="application/rss+xml" />
     <description>K J Blanton</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1992 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>K J Blanton</title>
-      <link>http://localhost:1313/author/k-j-blanton/</link>
+      <link>https://www.kriegstein-lab.com/author/k-j-blanton/</link>
     </image>
     
     <item>
       <title>Norepinephrine activates potassium conductance in neurons of the turtle cerebral cortex</title>
-      <link>http://localhost:1313/publication/blanton-1992-as/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1992-as/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1992-as/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1992-as/</guid>
       <description></description>
     </item>
     

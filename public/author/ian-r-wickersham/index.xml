@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ian R Wickersham | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/ian-r-wickersham/</link>
-      <atom:link href="http://localhost:1313/author/ian-r-wickersham/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/ian-r-wickersham/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/ian-r-wickersham/index.xml" rel="self" type="application/rss+xml" />
     <description>Ian R Wickersham</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Ian R Wickersham</title>
-      <link>http://localhost:1313/author/ian-r-wickersham/</link>
+      <link>https://www.kriegstein-lab.com/author/ian-r-wickersham/</link>
     </image>
     
     <item>
       <title>The BRAIN Initiative Cell Census Consortium: Lessons Learned toward Generating a Comprehensive Brain Cell Atlas</title>
-      <link>http://localhost:1313/publication/ecker-2017-pt/</link>
+      <link>https://www.kriegstein-lab.com/publication/ecker-2017-pt/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ecker-2017-pt/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/ecker-2017-pt/</guid>
       <description></description>
     </item>
     

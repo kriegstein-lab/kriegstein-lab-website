@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tamily a Weissman | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/tamily-a-weissman/</link>
-      <atom:link href="http://localhost:1313/author/tamily-a-weissman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/tamily-a-weissman/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/tamily-a-weissman/index.xml" rel="self" type="application/rss+xml" />
     <description>Tamily a Weissman</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Tamily a Weissman</title>
-      <link>http://localhost:1313/author/tamily-a-weissman/</link>
+      <link>https://www.kriegstein-lab.com/author/tamily-a-weissman/</link>
     </image>
     
     <item>
       <title>Calcium waves propagate through radial glial cells and modulate proliferation in the developing neocortex</title>
-      <link>http://localhost:1313/publication/weissman-2004-ov/</link>
+      <link>https://www.kriegstein-lab.com/publication/weissman-2004-ov/</link>
       <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/weissman-2004-ov/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/weissman-2004-ov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dividing precursor cells of the embryonic cortical ventricular zone have morphological and molecular characteristics of radial glia</title>
-      <link>http://localhost:1313/publication/noctor-2002-kh/</link>
+      <link>https://www.kriegstein-lab.com/publication/noctor-2002-kh/</link>
       <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/noctor-2002-kh/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/noctor-2002-kh/</guid>
       <description></description>
     </item>
     

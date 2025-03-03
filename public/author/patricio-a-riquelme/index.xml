@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patricio a Riquelme | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/patricio-a-riquelme/</link>
-      <atom:link href="http://localhost:1313/author/patricio-a-riquelme/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/patricio-a-riquelme/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/patricio-a-riquelme/index.xml" rel="self" type="application/rss+xml" />
     <description>Patricio a Riquelme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Patricio a Riquelme</title>
-      <link>http://localhost:1313/author/patricio-a-riquelme/</link>
+      <link>https://www.kriegstein-lab.com/author/patricio-a-riquelme/</link>
     </image>
     
     <item>
       <title>Calcium waves propagate through radial glial cells and modulate proliferation in the developing neocortex</title>
-      <link>http://localhost:1313/publication/weissman-2004-ov/</link>
+      <link>https://www.kriegstein-lab.com/publication/weissman-2004-ov/</link>
       <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/weissman-2004-ov/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/weissman-2004-ov/</guid>
       <description></description>
     </item>
     

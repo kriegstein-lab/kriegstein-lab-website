@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthony Wynshaw-Boris | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/anthony-wynshaw-boris/</link>
-      <atom:link href="http://localhost:1313/author/anthony-wynshaw-boris/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/anthony-wynshaw-boris/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/anthony-wynshaw-boris/index.xml" rel="self" type="application/rss+xml" />
     <description>Anthony Wynshaw-Boris</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Anthony Wynshaw-Boris</title>
-      <link>http://localhost:1313/author/anthony-wynshaw-boris/</link>
+      <link>https://www.kriegstein-lab.com/author/anthony-wynshaw-boris/</link>
     </image>
     
     <item>
       <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia</title>
-      <link>http://localhost:1313/publication/bershteyn-2017-ib/</link>
+      <link>https://www.kriegstein-lab.com/publication/bershteyn-2017-ib/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bershteyn-2017-ib/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/bershteyn-2017-ib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell-autonomous correction of ring chromosomes in human induced pluripotent stem cells</title>
-      <link>http://localhost:1313/publication/bershteyn-2014-ih/</link>
+      <link>https://www.kriegstein-lab.com/publication/bershteyn-2014-ih/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bershteyn-2014-ih/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/bershteyn-2014-ih/</guid>
       <description></description>
     </item>
     

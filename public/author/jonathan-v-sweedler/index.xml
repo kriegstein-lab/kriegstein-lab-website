@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan v Sweedler | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/jonathan-v-sweedler/</link>
-      <atom:link href="http://localhost:1313/author/jonathan-v-sweedler/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/jonathan-v-sweedler/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/jonathan-v-sweedler/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan v Sweedler</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Jonathan v Sweedler</title>
-      <link>http://localhost:1313/author/jonathan-v-sweedler/</link>
+      <link>https://www.kriegstein-lab.com/author/jonathan-v-sweedler/</link>
     </image>
     
     <item>
       <title>Identification of Lipid Heterogeneity and Diversity in the Developing Human Brain</title>
-      <link>http://localhost:1313/publication/bhaduri-2021-ch/</link>
+      <link>https://www.kriegstein-lab.com/publication/bhaduri-2021-ch/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bhaduri-2021-ch/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/bhaduri-2021-ch/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaoqun Wang | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/xiaoqun-wang/</link>
-      <atom:link href="http://localhost:1313/author/xiaoqun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/xiaoqun-wang/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/xiaoqun-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoqun Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Xiaoqun Wang</title>
-      <link>http://localhost:1313/author/xiaoqun-wang/</link>
+      <link>https://www.kriegstein-lab.com/author/xiaoqun-wang/</link>
     </image>
     
     <item>
       <title>Diverse behaviors of outer radial glia in developing ferret and human cortex</title>
-      <link>http://localhost:1313/publication/gertz-2014-cx/</link>
+      <link>https://www.kriegstein-lab.com/publication/gertz-2014-cx/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gertz-2014-cx/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/gertz-2014-cx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The dynamics of neuronal migration</title>
-      <link>http://localhost:1313/publication/wu-2014-hb/</link>
+      <link>https://www.kriegstein-lab.com/publication/wu-2014-hb/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wu-2014-hb/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/wu-2014-hb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OSVZ progenitors in the human cortex: an updated perspective on neurodevelopmental disease</title>
-      <link>http://localhost:1313/publication/la-monica-2012-py/</link>
+      <link>https://www.kriegstein-lab.com/publication/la-monica-2012-py/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/la-monica-2012-py/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/la-monica-2012-py/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orienting fate: spatial regulation of neurogenic divisions</title>
-      <link>http://localhost:1313/publication/wang-2011-lb/</link>
+      <link>https://www.kriegstein-lab.com/publication/wang-2011-lb/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2011-lb/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/wang-2011-lb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A new subtype of progenitor cell in the mouse embryonic neocortex</title>
-      <link>http://localhost:1313/publication/wang-2011-tj/</link>
+      <link>https://www.kriegstein-lab.com/publication/wang-2011-tj/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2011-tj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/wang-2011-tj/</guid>
       <description></description>
     </item>
     

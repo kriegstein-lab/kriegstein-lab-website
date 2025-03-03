@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jennifer Baltazar | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/jennifer-baltazar/</link>
-      <atom:link href="http://localhost:1313/author/jennifer-baltazar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/jennifer-baltazar/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/jennifer-baltazar/index.xml" rel="self" type="application/rss+xml" />
     <description>Jennifer Baltazar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/jennifer-baltazar/avatar_hu_ab201cbbfe9d898f.jpeg</url>
+      <url>https://www.kriegstein-lab.com/author/jennifer-baltazar/avatar_hu_ab201cbbfe9d898f.jpeg</url>
       <title>Jennifer Baltazar</title>
-      <link>http://localhost:1313/author/jennifer-baltazar/</link>
+      <link>https://www.kriegstein-lab.com/author/jennifer-baltazar/</link>
     </image>
-    
-    <item>
-      <title>Jennifer Baltazar</title>
-      <link>http://localhost:1313/author/jennifer-baltazar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/jennifer-baltazar/</guid>
-      <description>&lt;p&gt;I am a visiting grad student in the Kriegstein lab as part of my master’s program in Heidelberg, Germany. Starting my master’s I focused mainly on neuroscience, especially neurodevelopmental disorders. Part of my last project was to investigate the effect of specific mutations appearing in Autism Spectrum Disorder on synaptic mechanisms. Therefore, I worked with stem cells, induced neurons and got routine in electrophysiological methods, calcium imaging, and confocal microscopy. Now here at UCSF, I am using organoids as main model to investigate brain development as well as neurodevelopmental disorders.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

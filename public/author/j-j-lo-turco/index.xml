@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J J Lo Turco | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/j-j-lo-turco/</link>
-      <atom:link href="http://localhost:1313/author/j-j-lo-turco/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/j-j-lo-turco/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/j-j-lo-turco/index.xml" rel="self" type="application/rss+xml" />
     <description>J J Lo Turco</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 1991 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>J J Lo Turco</title>
-      <link>http://localhost:1313/author/j-j-lo-turco/</link>
+      <link>https://www.kriegstein-lab.com/author/j-j-lo-turco/</link>
     </image>
     
     <item>
       <title>Clusters of coupled neuroblasts in embryonic neocortex</title>
-      <link>http://localhost:1313/publication/lo-turco-1991-bz/</link>
+      <link>https://www.kriegstein-lab.com/publication/lo-turco-1991-bz/</link>
       <pubDate>Mon, 01 Apr 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lo-turco-1991-bz/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/lo-turco-1991-bz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Endogenous neurotransmitter activates N-methyl-D-aspartate receptors on differentiating neurons in embryonic cortex</title>
-      <link>http://localhost:1313/publication/blanton-1990-pg/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1990-pg/</link>
       <pubDate>Mon, 01 Oct 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1990-pg/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1990-pg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole cell recording from neurons in slices of reptilian and mammalian cerebral cortex</title>
-      <link>http://localhost:1313/publication/blanton-1989-tq/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1989-tq/</link>
       <pubDate>Fri, 01 Dec 1989 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1989-tq/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1989-tq/</guid>
       <description></description>
     </item>
     

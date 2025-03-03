@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sirisha Pochareddy | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/sirisha-pochareddy/</link>
-      <atom:link href="http://localhost:1313/author/sirisha-pochareddy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/sirisha-pochareddy/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/sirisha-pochareddy/index.xml" rel="self" type="application/rss+xml" />
     <description>Sirisha Pochareddy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Sirisha Pochareddy</title>
-      <link>http://localhost:1313/author/sirisha-pochareddy/</link>
+      <link>https://www.kriegstein-lab.com/author/sirisha-pochareddy/</link>
     </image>
     
     <item>
       <title>An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder</title>
-      <link>http://localhost:1313/publication/werling-2018-yd/</link>
+      <link>https://www.kriegstein-lab.com/publication/werling-2018-yd/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/werling-2018-yd/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/werling-2018-yd/</guid>
       <description></description>
     </item>
     

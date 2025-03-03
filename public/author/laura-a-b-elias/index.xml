@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura a B Elias | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/laura-a-b-elias/</link>
-      <atom:link href="http://localhost:1313/author/laura-a-b-elias/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/laura-a-b-elias/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/laura-a-b-elias/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura a B Elias</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Laura a B Elias</title>
-      <link>http://localhost:1313/author/laura-a-b-elias/</link>
+      <link>https://www.kriegstein-lab.com/author/laura-a-b-elias/</link>
     </image>
     
     <item>
       <title>Connexin 43 mediates the tangential to radial migratory switch in ventrally derived cortical interneurons</title>
-      <link>http://localhost:1313/publication/elias-2010-st/</link>
+      <link>https://www.kriegstein-lab.com/publication/elias-2010-st/</link>
       <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2010-st/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/elias-2010-st/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A time and a place for nkx2-1 in interneuron specification and migration</title>
-      <link>http://localhost:1313/publication/elias-2008-jl/</link>
+      <link>https://www.kriegstein-lab.com/publication/elias-2008-jl/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2008-jl/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/elias-2008-jl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gap junctions: multifaceted regulators of embryonic cortical development</title>
-      <link>http://localhost:1313/publication/elias-2008-av/</link>
+      <link>https://www.kriegstein-lab.com/publication/elias-2008-av/</link>
       <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2008-av/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/elias-2008-av/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gap junction adhesion is necessary for radial migration in the neocortex</title>
-      <link>http://localhost:1313/publication/elias-2007-ms/</link>
+      <link>https://www.kriegstein-lab.com/publication/elias-2007-ms/</link>
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2007-ms/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/elias-2007-ms/</guid>
       <description></description>
     </item>
     

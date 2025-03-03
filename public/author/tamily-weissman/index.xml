@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tamily Weissman | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/tamily-weissman/</link>
-      <atom:link href="http://localhost:1313/author/tamily-weissman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/tamily-weissman/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/tamily-weissman/index.xml" rel="self" type="application/rss+xml" />
     <description>Tamily Weissman</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Tamily Weissman</title>
-      <link>http://localhost:1313/author/tamily-weissman/</link>
+      <link>https://www.kriegstein-lab.com/author/tamily-weissman/</link>
     </image>
     
     <item>
       <title>Neurogenic radial glial cells in reptile, rodent and human: from mitosis to migration</title>
-      <link>http://localhost:1313/publication/weissman-2003-hg/</link>
+      <link>https://www.kriegstein-lab.com/publication/weissman-2003-hg/</link>
       <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/weissman-2003-hg/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/weissman-2003-hg/</guid>
       <description></description>
     </item>
     

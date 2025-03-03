@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian K Clinton | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/brian-k-clinton/</link>
-      <atom:link href="http://localhost:1313/author/brian-k-clinton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/brian-k-clinton/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/brian-k-clinton/index.xml" rel="self" type="application/rss+xml" />
     <description>Brian K Clinton</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Brian K Clinton</title>
-      <link>http://localhost:1313/author/brian-k-clinton/</link>
+      <link>https://www.kriegstein-lab.com/author/brian-k-clinton/</link>
     </image>
     
     <item>
       <title>Radial glia in the proliferative ventricular zone of the embryonic and adult turtle, Trachemys scripta elegans</title>
-      <link>http://localhost:1313/publication/clinton-2014-bb/</link>
+      <link>https://www.kriegstein-lab.com/publication/clinton-2014-bb/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/clinton-2014-bb/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/clinton-2014-bb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurogenic radial glial cells in reptile, rodent and human: from mitosis to migration</title>
-      <link>http://localhost:1313/publication/weissman-2003-hg/</link>
+      <link>https://www.kriegstein-lab.com/publication/weissman-2003-hg/</link>
       <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/weissman-2003-hg/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/weissman-2003-hg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dividing precursor cells of the embryonic cortical ventricular zone have morphological and molecular characteristics of radial glia</title>
-      <link>http://localhost:1313/publication/noctor-2002-kh/</link>
+      <link>https://www.kriegstein-lab.com/publication/noctor-2002-kh/</link>
       <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/noctor-2002-kh/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/noctor-2002-kh/</guid>
       <description></description>
     </item>
     

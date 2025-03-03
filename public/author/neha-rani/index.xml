@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neha Rani | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/neha-rani/</link>
-      <atom:link href="http://localhost:1313/author/neha-rani/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/neha-rani/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/neha-rani/index.xml" rel="self" type="application/rss+xml" />
     <description>Neha Rani</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Neha Rani</title>
-      <link>http://localhost:1313/author/neha-rani/</link>
+      <link>https://www.kriegstein-lab.com/author/neha-rani/</link>
     </image>
     
     <item>
       <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development</title>
-      <link>http://localhost:1313/publication/nowakowski-2018-ma/</link>
+      <link>https://www.kriegstein-lab.com/publication/nowakowski-2018-ma/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2018-ma/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/nowakowski-2018-ma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Primate lncRNA Mediates Notch Signaling during Neuronal Development by Sequestering miRNA</title>
-      <link>http://localhost:1313/publication/rani-2016-zn/</link>
+      <link>https://www.kriegstein-lab.com/publication/rani-2016-zn/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rani-2016-zn/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/rani-2016-zn/</guid>
       <description></description>
     </item>
     

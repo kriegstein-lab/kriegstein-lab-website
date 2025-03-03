@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bioinformatics; Cell Atlas Studies; Downsampling; Single-Cell Analysis | Kriegstein Lab</title>
-    <link>http://localhost:1313/tag/bioinformatics-cell-atlas-studies-downsampling-single-cell-analysis/</link>
-      <atom:link href="http://localhost:1313/tag/bioinformatics-cell-atlas-studies-downsampling-single-cell-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/tag/bioinformatics-cell-atlas-studies-downsampling-single-cell-analysis/</link>
+      <atom:link href="https://www.kriegstein-lab.com/tag/bioinformatics-cell-atlas-studies-downsampling-single-cell-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics; Cell Atlas Studies; Downsampling; Single-Cell Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Bioinformatics; Cell Atlas Studies; Downsampling; Single-Cell Analysis</title>
-      <link>http://localhost:1313/tag/bioinformatics-cell-atlas-studies-downsampling-single-cell-analysis/</link>
+      <link>https://www.kriegstein-lab.com/tag/bioinformatics-cell-atlas-studies-downsampling-single-cell-analysis/</link>
     </image>
     
     <item>
       <title>Identification of cell types in a mouse brain single-cell atlas using low sampling coverage</title>
-      <link>http://localhost:1313/publication/bhaduri-2018-ew/</link>
+      <link>https://www.kriegstein-lab.com/publication/bhaduri-2018-ew/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bhaduri-2018-ew/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/bhaduri-2018-ew/</guid>
       <description></description>
     </item>
     

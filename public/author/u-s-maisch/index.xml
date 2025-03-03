@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U S Maisch | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/u-s-maisch/</link>
-      <atom:link href="http://localhost:1313/author/u-s-maisch/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/u-s-maisch/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/u-s-maisch/index.xml" rel="self" type="application/rss+xml" />
     <description>U S Maisch</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 1997 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>U S Maisch</title>
-      <link>http://localhost:1313/author/u-s-maisch/</link>
+      <link>https://www.kriegstein-lab.com/author/u-s-maisch/</link>
     </image>
     
     <item>
       <title>Postnatal development of low [Mg2&#43;] oscillations in neocortex</title>
-      <link>http://localhost:1313/publication/flint-1997-um/</link>
+      <link>https://www.kriegstein-lab.com/publication/flint-1997-um/</link>
       <pubDate>Wed, 01 Oct 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/flint-1997-um/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/flint-1997-um/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NR2A subunit expression shortens NMDA receptor synaptic currents in developing neocortex</title>
-      <link>http://localhost:1313/publication/flint-1997-iq/</link>
+      <link>https://www.kriegstein-lab.com/publication/flint-1997-iq/</link>
       <pubDate>Tue, 01 Apr 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/flint-1997-iq/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/flint-1997-iq/</guid>
       <description></description>
     </item>
     

@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Zhou, PhD | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/li-zhou-phd/</link>
-      <atom:link href="http://localhost:1313/author/li-zhou-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/li-zhou-phd/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/li-zhou-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Zhou, PhD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/li-zhou-phd/avatar_hu_abc15971102f996e.png</url>
+      <url>https://www.kriegstein-lab.com/author/li-zhou-phd/avatar_hu_abc15971102f996e.png</url>
       <title>Li Zhou, PhD</title>
-      <link>http://localhost:1313/author/li-zhou-phd/</link>
+      <link>https://www.kriegstein-lab.com/author/li-zhou-phd/</link>
     </image>
-    
-    <item>
-      <title>Li Zhou, PhD</title>
-      <link>http://localhost:1313/author/li-zhou-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/li-zhou-phd/</guid>
-      <description>&lt;p&gt;Dr. Zhou is interested in dissecting human brain circuit development. During his Ph.D., he found a new &amp;ldquo;push-pull&amp;rdquo; circuit mechanism to control the E-I balance of rodent serotonin neurons: individual cells could receive excitation and inhibition inputs from the same brain area. As a postdoc, he studies how early cortical circuits form in the human brain and their interaction with the brain microenvironments.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

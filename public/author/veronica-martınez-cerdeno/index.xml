@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Verónica Martı́nez-Cerdeño | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/veronica-mart%C4%B1nez-cerdeno/</link>
-      <atom:link href="http://localhost:1313/author/veronica-mart%C4%B1nez-cerdeno/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/veronica-mart%C4%B1nez-cerdeno/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/veronica-mart%C4%B1nez-cerdeno/index.xml" rel="self" type="application/rss+xml" />
     <description>Verónica Martı́nez-Cerdeño</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Verónica Martı́nez-Cerdeño</title>
-      <link>http://localhost:1313/author/veronica-mart%C4%B1nez-cerdeno/</link>
+      <link>https://www.kriegstein-lab.com/author/veronica-mart%C4%B1nez-cerdeno/</link>
     </image>
     
     <item>
       <title>Radial glia in the proliferative ventricular zone of the embryonic and adult turtle, Trachemys scripta elegans</title>
-      <link>http://localhost:1313/publication/clinton-2014-bb/</link>
+      <link>https://www.kriegstein-lab.com/publication/clinton-2014-bb/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/clinton-2014-bb/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/clinton-2014-bb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embryonic MGE precursor cells grafted into adult rat striatum integrate and ameliorate motor symptoms in 6-OHDA-lesioned rats</title>
-      <link>http://localhost:1313/publication/martinez-cerdeno-2010-xt/</link>
+      <link>https://www.kriegstein-lab.com/publication/martinez-cerdeno-2010-xt/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martinez-cerdeno-2010-xt/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/martinez-cerdeno-2010-xt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distinct behaviors of neural stem and progenitor cells underlie cortical neurogenesis</title>
-      <link>http://localhost:1313/publication/noctor-2008-ot/</link>
+      <link>https://www.kriegstein-lab.com/publication/noctor-2008-ot/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/noctor-2008-ot/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/noctor-2008-ot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contribution of intermediate progenitor cells to cortical histogenesis</title>
-      <link>http://localhost:1313/publication/noctor-2007-wh/</link>
+      <link>https://www.kriegstein-lab.com/publication/noctor-2007-wh/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/noctor-2007-wh/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/noctor-2007-wh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estradiol stimulates progenitor cell division in the ventricular and subventricular zones of the embryonic neocortex</title>
-      <link>http://localhost:1313/publication/martinez-cerdeno-2006-md/</link>
+      <link>https://www.kriegstein-lab.com/publication/martinez-cerdeno-2006-md/</link>
       <pubDate>Fri, 01 Dec 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martinez-cerdeno-2006-md/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/martinez-cerdeno-2006-md/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of intermediate progenitor cells in the evolutionary expansion of the cerebral cortex</title>
-      <link>http://localhost:1313/publication/martinez-cerdeno-2006-ul/</link>
+      <link>https://www.kriegstein-lab.com/publication/martinez-cerdeno-2006-ul/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martinez-cerdeno-2006-ul/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/martinez-cerdeno-2006-ul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cortical neurons arise in symmetric and asymmetric division zones and migrate through specific phases</title>
-      <link>http://localhost:1313/publication/noctor-2004-il/</link>
+      <link>https://www.kriegstein-lab.com/publication/noctor-2004-il/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/noctor-2004-il/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/noctor-2004-il/</guid>
       <description></description>
     </item>
     

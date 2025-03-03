@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gang Sun | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/gang-sun/</link>
-      <atom:link href="http://localhost:1313/author/gang-sun/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/gang-sun/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/gang-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Gang Sun</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Gang Sun</title>
-      <link>http://localhost:1313/author/gang-sun/</link>
+      <link>https://www.kriegstein-lab.com/author/gang-sun/</link>
     </image>
     
     <item>
       <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
-      <link>http://localhost:1313/publication/pollen-2014-ow/</link>
+      <link>https://www.kriegstein-lab.com/publication/pollen-2014-ow/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2014-ow/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/pollen-2014-ow/</guid>
       <description></description>
     </item>
     

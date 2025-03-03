@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diane Jung | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/diane-jung/</link>
-      <atom:link href="http://localhost:1313/author/diane-jung/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/diane-jung/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/diane-jung/index.xml" rel="self" type="application/rss+xml" />
     <description>Diane Jung</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Diane Jung</title>
-      <link>http://localhost:1313/author/diane-jung/</link>
+      <link>https://www.kriegstein-lab.com/author/diane-jung/</link>
     </image>
     
     <item>
       <title>Cell stress in cortical organoids impairs molecular subtype specification</title>
-      <link>http://localhost:1313/publication/bhaduri-2020-as/</link>
+      <link>https://www.kriegstein-lab.com/publication/bhaduri-2020-as/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bhaduri-2020-as/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/bhaduri-2020-as/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma</title>
-      <link>http://localhost:1313/publication/bhaduri-2020-pa/</link>
+      <link>https://www.kriegstein-lab.com/publication/bhaduri-2020-pa/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bhaduri-2020-pa/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/bhaduri-2020-pa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
-      <link>http://localhost:1313/publication/schirmer-2019-jc/</link>
+      <link>https://www.kriegstein-lab.com/publication/schirmer-2019-jc/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/schirmer-2019-jc/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/schirmer-2019-jc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
-      <link>http://localhost:1313/publication/velmeshev-2019-uk/</link>
+      <link>https://www.kriegstein-lab.com/publication/velmeshev-2019-uk/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/velmeshev-2019-uk/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/velmeshev-2019-uk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>http://localhost:1313/publication/mayer-2019-tl/</link>
+      <link>https://www.kriegstein-lab.com/publication/mayer-2019-tl/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mayer-2019-tl/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/mayer-2019-tl/</guid>
       <description></description>
     </item>
     

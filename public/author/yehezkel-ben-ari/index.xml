@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yehezkel Ben-Ari | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/yehezkel-ben-ari/</link>
-      <atom:link href="http://localhost:1313/author/yehezkel-ben-ari/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/yehezkel-ben-ari/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/yehezkel-ben-ari/index.xml" rel="self" type="application/rss+xml" />
     <description>Yehezkel Ben-Ari</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Yehezkel Ben-Ari</title>
-      <link>http://localhost:1313/author/yehezkel-ben-ari/</link>
+      <link>https://www.kriegstein-lab.com/author/yehezkel-ben-ari/</link>
     </image>
     
     <item>
       <title>GABA regulates stem cell proliferation before nervous system formation</title>
-      <link>http://localhost:1313/publication/wang-2008-wf/</link>
+      <link>https://www.kriegstein-lab.com/publication/wang-2008-wf/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2008-wf/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/wang-2008-wf/</guid>
       <description></description>
     </item>
     

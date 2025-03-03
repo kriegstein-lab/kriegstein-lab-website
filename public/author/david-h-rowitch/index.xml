@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David H Rowitch | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/david-h-rowitch/</link>
-      <atom:link href="http://localhost:1313/author/david-h-rowitch/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/david-h-rowitch/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/david-h-rowitch/index.xml" rel="self" type="application/rss+xml" />
     <description>David H Rowitch</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>David H Rowitch</title>
-      <link>http://localhost:1313/author/david-h-rowitch/</link>
+      <link>https://www.kriegstein-lab.com/author/david-h-rowitch/</link>
     </image>
     
     <item>
       <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells</title>
-      <link>http://localhost:1313/publication/huang-2020-zf/</link>
+      <link>https://www.kriegstein-lab.com/publication/huang-2020-zf/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/huang-2020-zf/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/huang-2020-zf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oligodendrocyte Death in Pelizaeus-Merzbacher Disease Is Rescued by Iron Chelation</title>
-      <link>http://localhost:1313/publication/nobuta-2019-ss/</link>
+      <link>https://www.kriegstein-lab.com/publication/nobuta-2019-ss/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nobuta-2019-ss/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/nobuta-2019-ss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
-      <link>http://localhost:1313/publication/schirmer-2019-jc/</link>
+      <link>https://www.kriegstein-lab.com/publication/schirmer-2019-jc/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/schirmer-2019-jc/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/schirmer-2019-jc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
-      <link>http://localhost:1313/publication/velmeshev-2019-uk/</link>
+      <link>https://www.kriegstein-lab.com/publication/velmeshev-2019-uk/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/velmeshev-2019-uk/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/velmeshev-2019-uk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developmental genetics of vertebrate glial-cell specification</title>
-      <link>http://localhost:1313/publication/rowitch-2010-rj/</link>
+      <link>https://www.kriegstein-lab.com/publication/rowitch-2010-rj/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rowitch-2010-rj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/rowitch-2010-rj/</guid>
       <description></description>
     </item>
     

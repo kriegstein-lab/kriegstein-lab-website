@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ferret; Gyrencephaly; Neuronal Migration | Kriegstein Lab</title>
-    <link>http://localhost:1313/tag/ferret-gyrencephaly-neuronal-migration/</link>
-      <atom:link href="http://localhost:1313/tag/ferret-gyrencephaly-neuronal-migration/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/tag/ferret-gyrencephaly-neuronal-migration/</link>
+      <atom:link href="https://www.kriegstein-lab.com/tag/ferret-gyrencephaly-neuronal-migration/index.xml" rel="self" type="application/rss+xml" />
     <description>Ferret; Gyrencephaly; Neuronal Migration</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Ferret; Gyrencephaly; Neuronal Migration</title>
-      <link>http://localhost:1313/tag/ferret-gyrencephaly-neuronal-migration/</link>
+      <link>https://www.kriegstein-lab.com/tag/ferret-gyrencephaly-neuronal-migration/</link>
     </image>
     
     <item>
       <title>Neuronal Migration Dynamics in the Developing Ferret Cortex</title>
-      <link>http://localhost:1313/publication/gertz-2015-pp/</link>
+      <link>https://www.kriegstein-lab.com/publication/gertz-2015-pp/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gertz-2015-pp/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/gertz-2015-pp/</guid>
       <description></description>
     </item>
     

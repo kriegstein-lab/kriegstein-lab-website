@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James E Goldman | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/james-e-goldman/</link>
-      <atom:link href="http://localhost:1313/author/james-e-goldman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/james-e-goldman/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/james-e-goldman/index.xml" rel="self" type="application/rss+xml" />
     <description>James E Goldman</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>James E Goldman</title>
-      <link>http://localhost:1313/author/james-e-goldman/</link>
+      <link>https://www.kriegstein-lab.com/author/james-e-goldman/</link>
     </image>
     
     <item>
       <title>Progenitors from the postnatal forebrain subventricular zone differentiate into cerebellar-like interneurons and cerebellar-specific astrocytes upon transplantation</title>
-      <link>http://localhost:1313/publication/milosevic-2008-if/</link>
+      <link>https://www.kriegstein-lab.com/publication/milosevic-2008-if/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/milosevic-2008-if/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/milosevic-2008-if/</guid>
       <description></description>
     </item>
     

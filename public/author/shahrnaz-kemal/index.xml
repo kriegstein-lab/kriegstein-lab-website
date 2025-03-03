@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shahrnaz Kemal | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/shahrnaz-kemal/</link>
-      <atom:link href="http://localhost:1313/author/shahrnaz-kemal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/shahrnaz-kemal/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/shahrnaz-kemal/index.xml" rel="self" type="application/rss+xml" />
     <description>Shahrnaz Kemal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Shahrnaz Kemal</title>
-      <link>http://localhost:1313/author/shahrnaz-kemal/</link>
+      <link>https://www.kriegstein-lab.com/author/shahrnaz-kemal/</link>
     </image>
     
     <item>
       <title>Kinesin 3 and cytoplasmic dynein mediate interkinetic nuclear migration in neural stem cells</title>
-      <link>http://localhost:1313/publication/tsai-2010-jd/</link>
+      <link>https://www.kriegstein-lab.com/publication/tsai-2010-jd/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tsai-2010-jd/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/tsai-2010-jd/</guid>
       <description></description>
     </item>
     

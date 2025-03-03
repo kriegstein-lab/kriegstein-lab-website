@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James D Price | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/james-d-price/</link>
-      <atom:link href="http://localhost:1313/author/james-d-price/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/james-d-price/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/james-d-price/index.xml" rel="self" type="application/rss+xml" />
     <description>James D Price</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>James D Price</title>
-      <link>http://localhost:1313/author/james-d-price/</link>
+      <link>https://www.kriegstein-lab.com/author/james-d-price/</link>
     </image>
     
     <item>
       <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
-      <link>http://localhost:1313/publication/price-2014-lp/</link>
+      <link>https://www.kriegstein-lab.com/publication/price-2014-lp/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/price-2014-lp/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/price-2014-lp/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J M Shen | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/j-m-shen/</link>
-      <atom:link href="http://localhost:1313/author/j-m-shen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/j-m-shen/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/j-m-shen/index.xml" rel="self" type="application/rss+xml" />
     <description>J M Shen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 1989 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>J M Shen</title>
-      <link>http://localhost:1313/author/j-m-shen/</link>
+      <link>https://www.kriegstein-lab.com/author/j-m-shen/</link>
     </image>
     
     <item>
       <title>The development of bicuculline-induced epileptiform discharges in embryonic turtle cortex</title>
-      <link>http://localhost:1313/publication/shen-1989-wn/</link>
+      <link>https://www.kriegstein-lab.com/publication/shen-1989-wn/</link>
       <pubDate>Wed, 01 Mar 1989 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shen-1989-wn/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/shen-1989-wn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of GABA responsiveness in embryonic turtle cortical neurons</title>
-      <link>http://localhost:1313/publication/shen-1988-bf/</link>
+      <link>https://www.kriegstein-lab.com/publication/shen-1988-bf/</link>
       <pubDate>Fri, 01 Jul 1988 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shen-1988-bf/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/shen-1988-bf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for the inhibitory neurotransmitter gamma-aminobutyric acid in aspiny and sparsely spiny nonpyramidal neurons of the turtle dorsal cortex</title>
-      <link>http://localhost:1313/publication/blanton-1987-oz/</link>
+      <link>https://www.kriegstein-lab.com/publication/blanton-1987-oz/</link>
       <pubDate>Fri, 01 May 1987 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blanton-1987-oz/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/blanton-1987-oz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monoclonal antibodies to the turtle cortex reveal neuronal subsets, antigenic cross-reactivity with the mammalian neocortex, and forebrain structures sharing a pallial derivation</title>
-      <link>http://localhost:1313/publication/kriegstein-1986-xj/</link>
+      <link>https://www.kriegstein-lab.com/publication/kriegstein-1986-xj/</link>
       <pubDate>Mon, 01 Dec 1986 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kriegstein-1986-xj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/kriegstein-1986-xj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Turtle hippocampal cortex contains distinct cell types, burst-firing neurons, and an epileptogenic subfield</title>
-      <link>http://localhost:1313/publication/shen-1986-fm/</link>
+      <link>https://www.kriegstein-lab.com/publication/shen-1986-fm/</link>
       <pubDate>Mon, 01 Dec 1986 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shen-1986-fm/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/shen-1986-fm/</guid>
       <description></description>
     </item>
     

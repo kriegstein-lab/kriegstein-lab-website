@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asla Pitkänen | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/asla-pitkanen/</link>
-      <atom:link href="http://localhost:1313/author/asla-pitkanen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/asla-pitkanen/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/asla-pitkanen/index.xml" rel="self" type="application/rss+xml" />
     <description>Asla Pitkänen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Asla Pitkänen</title>
-      <link>http://localhost:1313/author/asla-pitkanen/</link>
+      <link>https://www.kriegstein-lab.com/author/asla-pitkanen/</link>
     </image>
     
     <item>
       <title>Commentary: the prospect of cell-based therapy for epilepsy</title>
-      <link>http://localhost:1313/publication/kriegstein-2009-fa/</link>
+      <link>https://www.kriegstein-lab.com/publication/kriegstein-2009-fa/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kriegstein-2009-fa/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/kriegstein-2009-fa/</guid>
       <description></description>
     </item>
     

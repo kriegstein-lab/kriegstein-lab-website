@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guolong Zuo, PhD | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/guolong-zuo-phd/</link>
-      <atom:link href="http://localhost:1313/author/guolong-zuo-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/guolong-zuo-phd/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/guolong-zuo-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Guolong Zuo, PhD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/guolong-zuo-phd/avatar_hu_71743e9cd20d5ad7.jpg</url>
+      <url>https://www.kriegstein-lab.com/author/guolong-zuo-phd/avatar_hu_71743e9cd20d5ad7.jpg</url>
       <title>Guolong Zuo, PhD</title>
-      <link>http://localhost:1313/author/guolong-zuo-phd/</link>
+      <link>https://www.kriegstein-lab.com/author/guolong-zuo-phd/</link>
     </image>
-    
-    <item>
-      <title>Guolong Zuo, PhD</title>
-      <link>http://localhost:1313/author/guolong-zuo-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/guolong-zuo-phd/</guid>
-      <description>&lt;p&gt;I received my doctorate degree in developmental neuroscience from the Institute of Neuroscience, Chinese Academy of Sciences (Supervisor: Zhen-Ge Luo). During my PhD training, I became fascinated by the kaleidoscopic behaviors of neural stem cells (NSCs), which could either proliferate or differentiate to precisely develop into the delicate neural system. Now, I am curious about the coordination of the neural system with other systems during embryonic development. Also, I am interested in modeling human developmental disorders using cultured brain organoids.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

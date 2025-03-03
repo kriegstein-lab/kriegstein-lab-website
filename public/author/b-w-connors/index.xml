@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B W Connors | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/b-w-connors/</link>
-      <atom:link href="http://localhost:1313/author/b-w-connors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/b-w-connors/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/b-w-connors/index.xml" rel="self" type="application/rss+xml" />
     <description>B W Connors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1986 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>B W Connors</title>
-      <link>http://localhost:1313/author/b-w-connors/</link>
+      <link>https://www.kriegstein-lab.com/author/b-w-connors/</link>
     </image>
     
     <item>
       <title>Cellular physiology of the turtle visual cortex: distinctive properties of pyramidal and stellate neurons</title>
-      <link>http://localhost:1313/publication/connors-1986-ue/</link>
+      <link>https://www.kriegstein-lab.com/publication/connors-1986-ue/</link>
       <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/connors-1986-ue/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/connors-1986-ue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cellular physiology of the turtle visual cortex: synaptic properties and intrinsic circuitry</title>
-      <link>http://localhost:1313/publication/kriegstein-1986-rp/</link>
+      <link>https://www.kriegstein-lab.com/publication/kriegstein-1986-rp/</link>
       <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kriegstein-1986-rp/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/kriegstein-1986-rp/</guid>
       <description></description>
     </item>
     

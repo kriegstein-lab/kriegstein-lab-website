@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yonatan Perez, PhD | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/yonatan-perez-phd/</link>
-      <atom:link href="http://localhost:1313/author/yonatan-perez-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/yonatan-perez-phd/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/yonatan-perez-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Yonatan Perez, PhD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/yonatan-perez-phd/avatar_hu_8235d0e7add77467.jpg</url>
+      <url>https://www.kriegstein-lab.com/author/yonatan-perez-phd/avatar_hu_8235d0e7add77467.jpg</url>
       <title>Yonatan Perez, PhD</title>
-      <link>http://localhost:1313/author/yonatan-perez-phd/</link>
+      <link>https://www.kriegstein-lab.com/author/yonatan-perez-phd/</link>
     </image>
     
     <item>
       <title>Yonatan Perez, PhD</title>
-      <link>http://localhost:1313/author/yonatan-perez-phd/</link>
+      <link>https://www.kriegstein-lab.com/author/yonatan-perez-phd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/yonatan-perez-phd/</guid>
+      <guid>https://www.kriegstein-lab.com/author/yonatan-perez-phd/</guid>
       <description>&lt;p&gt;Dr. Yonatan Perez received his PhD in Molecular biology and human genetics from the Ben Gurion University, Israel in 2017. In his PhD, He studied the molecular mechanisms of various hereditary human neurodevelopmental syndromes using high-throughput DNA sequencing, in-vivo studies, and stem cell-based model systems. His findings uncovered novel disease associated genes and pathways and allowed for carrier testing and early prenatal diagnosis. He then joined as a Gruss Lipper Postdoctoral Research Fellow to the Kriegstein lab at the University of California San Francisco (UCSF). In his current research, he is using patient derived and genetically modified three-dimensional (3D) stem cell based in-vitro models, as well as human postmortem brain tissues to study autism spectrum disorder (ASD). His research, informed by single cell genomics, is aiming to find convergent cell-type specific transcriptional pathways dysregulated in ASD. Yonatan is also spearheading spatial transcriptomic experiments in an effort to elucidate key molecular signatures that govern fate commitment of cell-specific lineages during brain development.&lt;/p&gt;
 </description>
     </item>

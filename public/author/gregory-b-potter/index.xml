@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gregory B Potter | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/gregory-b-potter/</link>
-      <atom:link href="http://localhost:1313/author/gregory-b-potter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/gregory-b-potter/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/gregory-b-potter/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregory B Potter</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Gregory B Potter</title>
-      <link>http://localhost:1313/author/gregory-b-potter/</link>
+      <link>https://www.kriegstein-lab.com/author/gregory-b-potter/</link>
     </image>
     
     <item>
       <title>A time and a place for nkx2-1 in interneuron specification and migration</title>
-      <link>http://localhost:1313/publication/elias-2008-jl/</link>
+      <link>https://www.kriegstein-lab.com/publication/elias-2008-jl/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2008-jl/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/elias-2008-jl/</guid>
       <description></description>
     </item>
     

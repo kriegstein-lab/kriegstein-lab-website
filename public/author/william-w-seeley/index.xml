@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>William W Seeley | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/william-w-seeley/</link>
-      <atom:link href="http://localhost:1313/author/william-w-seeley/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/william-w-seeley/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/william-w-seeley/index.xml" rel="self" type="application/rss+xml" />
     <description>William W Seeley</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>William W Seeley</title>
-      <link>http://localhost:1313/author/william-w-seeley/</link>
+      <link>https://www.kriegstein-lab.com/author/william-w-seeley/</link>
     </image>
     
     <item>
       <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency</title>
-      <link>http://localhost:1313/publication/zhang-2020-dj/</link>
+      <link>https://www.kriegstein-lab.com/publication/zhang-2020-dj/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2020-dj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/zhang-2020-dj/</guid>
       <description></description>
     </item>
     

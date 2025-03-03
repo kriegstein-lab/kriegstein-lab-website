@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jin-Wu Tsai | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/jin-wu-tsai/</link>
-      <atom:link href="http://localhost:1313/author/jin-wu-tsai/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/jin-wu-tsai/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/jin-wu-tsai/index.xml" rel="self" type="application/rss+xml" />
     <description>Jin-Wu Tsai</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Jin-Wu Tsai</title>
-      <link>http://localhost:1313/author/jin-wu-tsai/</link>
+      <link>https://www.kriegstein-lab.com/author/jin-wu-tsai/</link>
     </image>
     
     <item>
       <title>A new subtype of progenitor cell in the mouse embryonic neocortex</title>
-      <link>http://localhost:1313/publication/wang-2011-tj/</link>
+      <link>https://www.kriegstein-lab.com/publication/wang-2011-tj/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2011-tj/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/wang-2011-tj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinesin 3 and cytoplasmic dynein mediate interkinetic nuclear migration in neural stem cells</title>
-      <link>http://localhost:1313/publication/tsai-2010-jd/</link>
+      <link>https://www.kriegstein-lab.com/publication/tsai-2010-jd/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tsai-2010-jd/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/tsai-2010-jd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LIS1 RNA interference blocks neural stem cell division, morphogenesis, and motility at multiple stages</title>
-      <link>http://localhost:1313/publication/tsai-2005-ei/</link>
+      <link>https://www.kriegstein-lab.com/publication/tsai-2005-ei/</link>
       <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tsai-2005-ei/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/tsai-2005-ei/</guid>
       <description></description>
     </item>
     

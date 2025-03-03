@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel a Lim | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/daniel-a-lim/</link>
-      <atom:link href="http://localhost:1313/author/daniel-a-lim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/daniel-a-lim/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/daniel-a-lim/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel a Lim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Daniel a Lim</title>
-      <link>http://localhost:1313/author/daniel-a-lim/</link>
+      <link>https://www.kriegstein-lab.com/author/daniel-a-lim/</link>
     </image>
     
     <item>
       <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
-      <link>http://localhost:1313/publication/ahanger-2021-ke/</link>
+      <link>https://www.kriegstein-lab.com/publication/ahanger-2021-ke/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahanger-2021-ke/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/ahanger-2021-ke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
-      <link>http://localhost:1313/publication/muller-2017-zp/</link>
+      <link>https://www.kriegstein-lab.com/publication/muller-2017-zp/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/muller-2017-zp/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/muller-2017-zp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>http://localhost:1313/publication/nowakowski-2017-et/</link>
+      <link>https://www.kriegstein-lab.com/publication/nowakowski-2017-et/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2017-et/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/nowakowski-2017-et/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
-      <link>http://localhost:1313/publication/muller-2016-mp/</link>
+      <link>https://www.kriegstein-lab.com/publication/muller-2016-mp/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/muller-2016-mp/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/muller-2016-mp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell analysis of long non-coding RNAs in the developing human neocortex</title>
-      <link>http://localhost:1313/publication/liu-2016-tx/</link>
+      <link>https://www.kriegstein-lab.com/publication/liu-2016-tx/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2016-tx/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/liu-2016-tx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>http://localhost:1313/publication/pollen-2015-mc/</link>
+      <link>https://www.kriegstein-lab.com/publication/pollen-2015-mc/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2015-mc/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/pollen-2015-mc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
-      <link>http://localhost:1313/publication/ramos-2015-sa/</link>
+      <link>https://www.kriegstein-lab.com/publication/ramos-2015-sa/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ramos-2015-sa/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/ramos-2015-sa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
-      <link>http://localhost:1313/publication/price-2014-lp/</link>
+      <link>https://www.kriegstein-lab.com/publication/price-2014-lp/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/price-2014-lp/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/price-2014-lp/</guid>
       <description></description>
     </item>
     

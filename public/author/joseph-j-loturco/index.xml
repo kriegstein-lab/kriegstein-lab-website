@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joseph J LoTurco | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/joseph-j-loturco/</link>
-      <atom:link href="http://localhost:1313/author/joseph-j-loturco/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/joseph-j-loturco/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/joseph-j-loturco/index.xml" rel="self" type="application/rss+xml" />
     <description>Joseph J LoTurco</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Joseph J LoTurco</title>
-      <link>http://localhost:1313/author/joseph-j-loturco/</link>
+      <link>https://www.kriegstein-lab.com/author/joseph-j-loturco/</link>
     </image>
     
     <item>
       <title>Manipulating midbrain stem cell self-renewal</title>
-      <link>http://localhost:1313/publication/lo-turco-2008-an/</link>
+      <link>https://www.kriegstein-lab.com/publication/lo-turco-2008-an/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lo-turco-2008-an/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/lo-turco-2008-an/</guid>
       <description></description>
     </item>
     

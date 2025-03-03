@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kathryn E Yost | Kriegstein Lab</title>
-    <link>http://localhost:1313/author/kathryn-e-yost/</link>
-      <atom:link href="http://localhost:1313/author/kathryn-e-yost/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kriegstein-lab.com/author/kathryn-e-yost/</link>
+      <atom:link href="https://www.kriegstein-lab.com/author/kathryn-e-yost/index.xml" rel="self" type="application/rss+xml" />
     <description>Kathryn E Yost</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Kathryn E Yost</title>
-      <link>http://localhost:1313/author/kathryn-e-yost/</link>
+      <link>https://www.kriegstein-lab.com/author/kathryn-e-yost/</link>
     </image>
     
     <item>
       <title>Single-Cell Analyses Identify Brain Mural Cells Expressing CD19 as Potential Off-Tumor Targets for CAR-T Immunotherapies</title>
-      <link>http://localhost:1313/publication/parker-2020-tr/</link>
+      <link>https://www.kriegstein-lab.com/publication/parker-2020-tr/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/parker-2020-tr/</guid>
+      <guid>https://www.kriegstein-lab.com/publication/parker-2020-tr/</guid>
       <description></description>
     </item>
     
