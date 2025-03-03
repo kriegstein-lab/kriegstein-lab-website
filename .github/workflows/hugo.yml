@@ -1,25 +1,7 @@
-Skip to content
-Navigation Menu
-HugoBlox
-theme-research-group
-
-Type / to search
-Code
-Pull requests
-3
-Actions
-Security
-Insights
-Deploy website to GitHub Pages
-starters: upgrade to support Hugo breaking changes #8
-Jobs
-Run details
-Workflow file for this run
-.github/workflows/publish.yaml at b59e85b
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.135.0'
+  WC_HUGO_VERSION: '0.145.0'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
